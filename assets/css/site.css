@@ -1471,6 +1471,110 @@ a {
   }
 }
 
+/* ---------- 초보 낚시 준비물 (쿠팡 파트너스) ---------- */
+.ad-note {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  margin: 22px 0 0;
+  max-width: 70ch;
+  padding: 12px 16px;
+  border-radius: 16px;
+  background: var(--bg-tint);
+  color: var(--text-sub);
+  font-size: 14px;
+}
+.ad-note i {
+  flex: none;
+  font-size: 18px;
+  margin-top: 1px;
+}
+.gear-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin-top: 26px;
+}
+.gear-card {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: 1fr auto;
+  gap: 14px 18px;
+  padding: clamp(22px, 3vw, 30px);
+  border-radius: var(--r-card);
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--text);
+  text-decoration: none;
+  transition:
+    transform 0.3s var(--ease),
+    box-shadow 0.3s var(--ease),
+    border-color 0.3s var(--ease);
+}
+.gear-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--brand);
+  box-shadow: var(--shadow-soft);
+}
+.gear-icon {
+  grid-row: span 2;
+  display: grid;
+  place-items: center;
+  width: 60px;
+  height: 60px;
+  border-radius: 999px;
+  background: var(--navy-800);
+  color: var(--yellow);
+  font-size: 30px;
+}
+.gear-body small {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--brand);
+}
+.gear-body b {
+  display: block;
+  margin-top: 4px;
+  font-size: 22px;
+  letter-spacing: -0.02em;
+}
+.gear-body span {
+  display: block;
+  margin-top: 8px;
+  font-size: 15px;
+  color: var(--text-sub);
+}
+.gear-go {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  justify-self: start;
+  min-height: 42px;
+  padding: 0 18px;
+  border-radius: 999px;
+  background: var(--navy-800);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+}
+@media (prefers-color-scheme: dark) {
+  .gear-go {
+    background: var(--yellow);
+    color: var(--yellow-ink);
+  }
+}
+@media (max-width: 760px) {
+  .gear-grid {
+    grid-template-columns: 1fr;
+  }
+  .gear-icon {
+    width: 50px;
+    height: 50px;
+    font-size: 26px;
+  }
+}
+
 /* ---------- 커뮤니티 · 미션 (벤토 3칸) ---------- */
 .bento {
   display: grid;
