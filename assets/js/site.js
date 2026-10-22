@@ -141,9 +141,17 @@
   let gAll = false;
   let current = '01-urek';
 
+  // 처음 보여 줄 개수: 화면 너비에 따라 한 줄 칸 수가 바뀌므로 12개 안팎에서 줄을 꽉 채우는 수로
+  const gridCols = (el) => getComputedStyle(el).gridTemplateColumns.split(' ').filter(Boolean).length || 1;
+  const fillRows = (el, base = 12) => {
+    const c = gridCols(el);
+    return Math.ceil(base / c) * c;
+  };
+
   function renderPosters() {
     const list = guides.filter((g) => gcat === 'all' || g.cat === gcat);
-    const shown = gAll ? list : list.slice(0, 12);
+    const first = fillRows(postersEl);
+    const shown = gAll ? list : list.slice(0, first);
     $('#railCount').textContent = `${list.length}편`;
     postersEl.innerHTML = shown
       .map(
@@ -154,7 +162,7 @@
         </button>`,
       )
       .join('');
-    moreBtn.hidden = gAll || list.length <= 12;
+    moreBtn.hidden = gAll || list.length <= first;
     moreBtn.textContent = `${list.length}편 모두 보기`;
     if (!reduce && window.gsap && !renderPosters.first) {
       window.gsap.from(postersEl.children, { opacity: 0, y: 16, scale: 0.96, duration: 0.45, stagger: { each: 0.03 }, ease: 'back.out(1.4)', clearProps: 'all' });
@@ -235,7 +243,8 @@
   function renderFish() {
     const q = fishSearch.value.trim();
     const list = species.filter((s) => (q ? s.name.includes(q) : s.cat === fcat));
-    const shown = fAll || q ? list : list.slice(0, 12);
+    const first = fillRows(fishGrid);
+    const shown = fAll || q ? list : list.slice(0, first);
     if (!list.length) {
       fishGrid.innerHTML = `<p class="empty">「${q.replace(/[<>&"]/g, '')}」은(는) 도감에 아직 없어요.</p>`;
       fishMore.hidden = true;
@@ -253,7 +262,7 @@
         </article>`;
       })
       .join('');
-    fishMore.hidden = fAll || q || list.length <= 12;
+    fishMore.hidden = fAll || q || list.length <= first;
     fishMore.textContent = `${fcat === 'sea' ? '바다' : '민물'} ${list.length}종 모두 보기`;
   }
   $$('[data-fcat]').forEach((b) =>
@@ -280,6 +289,16 @@
       fishGrid.innerHTML = '<p class="empty">도감을 불러오지 못했어요. 잠시 뒤 다시 열어 주세요.</p>';
       fishMore.hidden = true;
     });
+
+  // 창 너비가 바뀌어 한 줄 칸 수가 달라지면 처음 개수를 다시 맞춘다
+  let cols = '';
+  window.addEventListener('resize', () => {
+    const now = `${gridCols(postersEl)}/${gridCols(fishGrid)}`;
+    if (now === cols) return;
+    cols = now;
+    if (guides.length && !gAll) renderPosters();
+    if (species.length && !fAll && !fishSearch.value.trim()) renderFish();
+  });
 
   /* ---------- 등장 움직임 (GSAP) ---------- */
   function showAll() {
