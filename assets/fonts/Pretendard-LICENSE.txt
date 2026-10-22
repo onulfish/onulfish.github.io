@@ -1,0 +1,6 @@
+PretendardVariable-sub.woff2 는 Pretendard(1.3.9) 가변 폰트에서 이 사이트에 쓰는 글자만 남긴 파일입니다.
+
+Pretendard
+Copyright (c) 2021, Kil Hyung-jin (https://github.com/orioncactus/pretendard), with Reserved Font Name Pretendard.
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+https://openfontlicense.org
