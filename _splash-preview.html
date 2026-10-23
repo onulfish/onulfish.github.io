@@ -1,0 +1,25 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><title>시작 화면 모션 미리보기</title>
+<style>
+html,body{margin:0;background:#1565B5;height:100%;overflow:hidden}
+#stage{width:390px;height:844px;background:#1565B5;position:relative;display:flex;align-items:center;justify-content:center;flex-direction:column}
+#anim{width:390px;height:260px}
+#title{margin-top:8px;font:800 28px/1 Pretendard,"Malgun Gothic",sans-serif;color:#fff;letter-spacing:-0.5px;opacity:0;transform:translateY(8px)}
+#sub{margin-top:10px;font:500 14px/1 Pretendard,"Malgun Gothic",sans-serif;color:rgba(255,255,255,.75);opacity:0}
+</style></head><body>
+<div id="stage"><div id="anim"></div><div id="title" style="display:none">오늘낚시</div><div id="sub" style="display:none">오늘 낚시하기 좋은 날인가요?</div></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.12.2/lottie.min.js"></script>
+<script>
+const anim = lottie.loadAnimation({ container: document.getElementById('anim'), renderer: 'svg', loop: false, autoplay: false, path: '_splash-fish.json' });
+// 글자: 44f부터 떠오름(앱에서는 RN Animated 로 같은 타이밍)
+window.setFrame = (f) => {
+  anim.goToAndStop(f, true);
+  const t = Math.max(0, Math.min(1, (f - 44) / 10));
+  const e = 1 - Math.pow(1 - t, 3);
+  const title = document.getElementById('title');
+  title.style.opacity = e; title.style.transform = `translateY(${8 - 8 * e}px)`;
+  const s = Math.max(0, Math.min(1, (f - 50) / 8));
+  document.getElementById('sub').style.opacity = s;
+};
+window.play = () => { anim.goToAndPlay(0, true); let f = 0; const id = setInterval(() => { f = anim.currentFrame; const t = Math.max(0, Math.min(1, (f - 44) / 10)); const e = 1 - Math.pow(1 - t, 3); const title = document.getElementById('title'); title.style.opacity = e; title.style.transform = `translateY(${8 - 8 * e}px)`; document.getElementById('sub').style.opacity = Math.max(0, Math.min(1, (f - 50) / 8)); if (f >= 59) clearInterval(id); }, 16); };
+anim.addEventListener('DOMLoaded', () => { window.ready = true; if (!location.search.includes('still')) window.play(); });
+</script></body></html>

@@ -1837,3 +1837,32 @@ a {
     columns: 1;
   }
 }
+
+/* ---------- 홈 히어로: 베타 테스터 모집 안내(beta.html 로) ---------- */
+.beta-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 18px;
+  padding: 8px 14px 8px 12px;
+  border-radius: 999px;
+  background: rgb(124 58 237 / 0.28);
+  border: 1px solid rgb(196 181 253 / 0.55);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+.beta-pill:hover {
+  background: rgb(124 58 237 / 0.45);
+}
+.beta-pill .dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--yellow);
+}
+.beta-pill i {
+  font-size: 16px;
+}
