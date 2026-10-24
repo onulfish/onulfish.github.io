@@ -573,7 +573,10 @@
   font-weight: 700;
   white-space: nowrap;
 }
-.p-table td:nth-child(2) {
+.p-table:not(.p-cal) td:nth-child(2) {
+  white-space: nowrap;
+}
+.p-cal th {
   white-space: nowrap;
 }
 
@@ -646,6 +649,51 @@
   .p-cta .btn {
     margin-left: 0;
   }
+}
+
+/* 모아 보기 칩(달·해역) */
+.p-chips {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin: 14px 0 0 !important;
+}
+.p-chips span {
+  margin-right: 4px;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-faint);
+}
+.p-chips a {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 36px;
+  padding: 0 14px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: border-color 0.2s;
+}
+.p-chips a:hover {
+  border-color: var(--brand);
+  color: var(--brand);
+}
+.p-cal tr.is-now > * {
+  background: color-mix(in srgb, var(--yellow) 18%, var(--surface));
+}
+.p-cal th small {
+  margin-left: 6px;
+  font-size: 12px;
+  color: var(--text-faint);
+}
+.p-table td a {
+  color: var(--brand);
+  font-weight: 600;
 }
 
 /* 홈 도감 카드 전체를 누르면 어종 페이지로 */
