@@ -1,4 +1,20 @@
 User-agent: *
 Allow: /
 
+# AI 검색·답변 서비스도 모두 허용 (어종 도감·낚시 상식을 출처로 인용할 수 있게)
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: Bingbot
+User-agent: Yeti
+User-agent: Daumoa
+Allow: /
+
 Sitemap: https://onulfish.com/sitemap.xml

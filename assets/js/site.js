@@ -258,7 +258,7 @@
         if (s.guide) tags.push('<span class="tag video"><i class="ph-fill ph-play" aria-hidden="true"></i>1분 영상</span>');
         return `<article class="fish">
           <figure><img src="assets/img/species/${s.id}.webp" alt="${s.name} 그림" loading="lazy" /></figure>
-          <div class="body"><h3>${s.name}</h3><div class="tags">${tags.join('')}</div></div>
+          <div class="body"><h3><a class="fish-link" href="/fish/${s.id}/">${s.name}</a></h3><div class="tags">${tags.join('')}</div></div>
         </article>`;
       })
       .join('');
