@@ -29,8 +29,8 @@
     <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"오늘낚시는 어떤 앱이에요?","acceptedAnswer":{"@type":"Answer","text":"물때·날씨·파고·조황을 한 번에 보고, 오늘 출조해도 될지 점수로 알려 주는 낚시 앱이에요. 바다와 민물을 모두 다루고, 포인트 지도 7천여 곳, 어종 도감 99종, 어종별 1분 낚시 영상 95편, 조과 일지와 커뮤니티가 들어 있어요."}},{"@type":"Question","name":"오늘낚시는 언제 출시돼요? 아이폰도 되나요?","acceptedAnswer":{"@type":"Answer","text":"지금은 구글 플레이 정식 출시를 준비하면서 안드로이드 베타 테스터를 모집하고 있어요. 아이폰 버전은 안드로이드 출시 다음에 준비할 예정이에요. 베타 신청은 onulfish.com/beta 에서 할 수 있어요."}},{"@type":"Question","name":"출조 점수는 어떻게 계산해요?","acceptedAnswer":{"@type":"Answer","text":"고른 포인트의 물때와 만조·간조 시각, 파고, 바람, 기온, 비 소식을 모아 오늘 점수와 가장 좋은 시간대를 보여 줘요. 바다 포인트는 파고와 바람을, 민물 포인트는 기온과 비를 더 무겁게 봐요. 점수는 참고용이라 출조 전에는 현장 기상을 꼭 다시 확인해 주세요."}},{"@type":"Question","name":"물때가 뭐예요?","acceptedAnswer":{"@type":"Answer","text":"바닷물이 들어오고 빠지는 흐름이에요. 바닷물은 하루에 두 번 들어왔다가 두 번 빠지고, 가장 높이 찬 때를 만조, 가장 많이 빠진 때를 간조라고 해요. 만조와 간조 시간은 매일 50분쯤씩 늦어져서 날마다 확인해야 해요."}},{"@type":"Question","name":"금지체장 '25cm 이하'는 25cm면 가져가도 되나요?","acceptedAnswer":{"@type":"Answer","text":"안 돼요. 법령 문구가 'N센티미터 이하' 포획 금지라서, 기준과 같거나 작으면 놓아줘야 하고 기준을 넘어야 가져갈 수 있어요. 길이는 보통 주둥이 끝부터 꼬리 끝까지(전장) 재요."}},{"@type":"Question","name":"배스와 블루길은 잡으면 다시 놓아줘도 되나요?","acceptedAnswer":{"@type":"Answer","text":"안 돼요. 배스와 블루길은 생물다양성법으로 정한 생태계교란 생물이라, 낚시로 잡는 건 괜찮지만 살아 있는 채로 다시 놓아주면 금지된 방사에 해당해요(법제처 법령해석 18-0488). 살아 있는 채로 옮기거나 키우는 것도 안 돼요."}}]}</script>
 <!-- ld:end -->
     <link rel="preload" href="assets/fonts/PretendardVariable-sub.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="stylesheet" href="assets/css/icons.css?v=1" />
-    <link rel="stylesheet" href="assets/css/site.css?v=8" />
+    <link rel="stylesheet" href="assets/css/icons.css?v=2" />
+    <link rel="stylesheet" href="assets/css/site.css?v=9" />
     <link rel="stylesheet" href="assets/css/page.css?v=2" />
     <script>
       document.documentElement.classList.add('js');
@@ -121,7 +121,7 @@
             <span>바다와 민물 낚시 포인트</span>
           </div>
           <div class="stat" data-reveal>
-            <b><span data-count="165">165</span><small>개</small></b>
+            <b><span data-count="254">254</span><small>개</small></b>
             <span>미션, 레벨은 끝없이</span>
           </div>
         </div>
@@ -133,11 +133,13 @@
           <div>
             <p class="eyebrow"><i class="ph-fill ph-gauge" aria-hidden="true"></i>출조 점수</p>
             <h2 class="h2" data-reveal>오늘 갈까, 말까?<br />점수로 바로 알려 줘요</h2>
-            <p class="lead" data-reveal>물때와 파고, 바람, 기온, 비 소식을 모아 내 포인트의 오늘 점수와 가장 좋은 시간대를 보여 드려요.</p>
+            <p class="lead" data-reveal>물때와 파고, 바람, 기온, 비 소식을 모아 내 포인트의 오늘 점수와 가장 좋은 시간대를 보여 드려요. 점수를 누르면 왜 그 점수인지도 알려 드려요.</p>
             <ul class="factors">
               <li data-reveal><i class="ph ph-moon-stars" aria-hidden="true"></i><span><b>물때와 만조·간조</b>음력 물때표와 조석 예보를 함께 봐요</span></li>
               <li data-reveal><i class="ph ph-waves" aria-hidden="true"></i><span><b>파고와 바람</b>갯바위와 배낚시 판단에 가장 중요해요</span></li>
-              <li data-reveal><i class="ph ph-thermometer-simple" aria-hidden="true"></i><span><b>기온과 강수</b>시간대별로 언제 좋은지 짚어 줘요</span></li>
+              <li data-reveal><i class="ph ph-boat" aria-hidden="true"></i><span><b>출항 여부와 댐 수위</b>바다는 배가 뜰지, 민물은 실시간 댐·하천 수위를 봐요</span></li>
+              <li data-reveal><i class="ph ph-list-checks" aria-hidden="true"></i><span><b>왜 이 점수일까요</b>점수를 올리고 내린 이유를 하나씩 보여 줘요</span></li>
+              <li data-reveal><i class="ph ph-calendar-check" aria-hidden="true"></i><span><b>이번 주말 미리보기</b>토요일, 일요일 중 언제가 나을지 한눈에 봐요</span></li>
               <li data-reveal><i class="ph ph-bell-ringing" aria-hidden="true"></i><span><b>좋은 날 알림</b>출조하기 좋은 날엔 전날 저녁에 알려 드려요</span></li>
             </ul>
           </div>
@@ -162,6 +164,11 @@
               </div>
             </div>
             <div class="weather" id="scoreWeather"></div>
+            <div class="why">
+              <p class="why-t">왜 <b id="scoreWhyNum">75</b>점일까요</p>
+              <ul id="scoreParts"></ul>
+              <p class="why-extra" id="scoreExtra"></p>
+            </div>
             <p class="best"><i class="ph-fill ph-clock" aria-hidden="true"></i><span id="scoreBest">오늘은 17:00~19:00가 가장 좋아 보여요</span></p>
             <p class="sample-note">예시 화면이에요. 실제 점수는 앱에서 포인트마다 계산해요.</p>
           </div>
@@ -211,21 +218,23 @@
         <div class="wrap map-grid">
           <div class="map-art" data-reveal>
             <div class="phone">
-              <img src="assets/img/screens/map.webp" alt="오늘낚시 포인트 지도 화면. 지역별 포인트 수가 원으로 표시돼 있어요." width="360" height="779" loading="lazy" />
+              <img src="assets/img/screens/map-sat.webp" alt="오늘낚시 포인트 지도를 위성 사진으로 본 화면. 방파제 모양과 포인트 표시가 함께 보여요." width="360" height="779" loading="lazy" />
             </div>
             <div class="badge">
-              <i class="ph-fill ph-fire" aria-hidden="true"></i>
-              <span><b>지금 잘 잡히는 곳</b>최근 7일 조황으로 골라요</span>
+              <i class="ph-fill ph-globe-hemisphere-east" aria-hidden="true"></i>
+              <span><b>위성지도로 보기</b>갯바위 모양까지 미리 봐요</span>
             </div>
           </div>
           <div>
             <h2 class="h2" data-reveal>바다·민물 포인트<br />7천여 곳을 지도 하나로</h2>
-            <p class="lead" data-reveal>방파제부터 저수지, 유료 낚시터까지 찾고, 주변 주차장과 화장실도 함께 봐요.</p>
+            <p class="lead" data-reveal>방파제부터 저수지, 유료 낚시터까지 찾고, 위성 사진으로 지형을 미리 봐요.</p>
             <ul class="feature-list">
-              <li data-reveal><i class="ph ph-anchor-simple" aria-hidden="true"></i><b>방파제·갯바위·선상</b><p>바다 포인트와 낚싯배 출항지를 한 지도에서 찾아요.</p></li>
-              <li data-reveal><i class="ph ph-tree-evergreen" aria-hidden="true"></i><b>저수지·강·유료 낚시터</b><p>자연 낚시터와 손맛터, 잡이터를 나눠서 볼 수 있어요.</p></li>
-              <li data-reveal><i class="ph ph-car-simple" aria-hidden="true"></i><b>주변 편의시설</b><p>주차장, 화장실, 숙박까지. 가족 낚시도 편해요.</p></li>
-              <li data-reveal><i class="ph ph-compass" aria-hidden="true"></i><b>어디서 낚시할까?</b><p>날씨와 최근 조황으로 지금 갈 만한 곳을 골라 드려요.</p></li>
+              <li data-reveal><i class="ph ph-globe-hemisphere-east" aria-hidden="true"></i><b>일반·위성 지도</b><p>버튼 하나로 바꿔요. 갯바위 모양과 주차할 곳이 사진으로 보여요.</p></li>
+              <li data-reveal><i class="ph ph-anchor-simple" aria-hidden="true"></i><b>장소별로 골라 보기</b><p>방파제, 갯바위, 선상, 저수지, 계곡, 유료터까지 나눠서 찾아요.</p></li>
+              <li data-reveal><i class="ph ph-fish-simple" aria-hidden="true"></i><b>어종으로 찾기</b><p>잡고 싶은 물고기를 고르면 그 어종이 나오는 포인트만 보여 줘요.</p></li>
+              <li data-reveal><i class="ph ph-tag" aria-hidden="true"></i><b>특징 태그</b><p>방갈로, 야간낚시, 가족 추천, 주차장처럼 원하는 조건으로 걸러요.</p></li>
+              <li data-reveal><i class="ph ph-fire" aria-hidden="true"></i><b>갈 만한 곳 Top 3</b><p>날씨와 최근 7일 조황으로 내 주변에서 지금 좋은 곳을 골라 드려요.</p></li>
+              <li data-reveal><i class="ph ph-prohibit" aria-hidden="true"></i><b>낚시 금지구역 경고</b><p>출입통제구역 안이나 근처면 미리 알려 드려요.</p></li>
             </ul>
           </div>
         </div>
@@ -273,7 +282,7 @@
             </article>
             <article class="cell cell-missions" data-reveal>
               <div>
-                <h3>미션 165개,<br />레벨은 끝없이</h3>
+                <h3>미션 254개,<br />레벨은 끝없이</h3>
                 <p>앱 카메라로 찍은 조과를 인증하면 점수가 쌓이고 주간·월간 랭킹에 올라요.</p>
               </div>
               <div class="phone">
@@ -281,14 +290,31 @@
               </div>
             </article>
             <article class="cell cell-badges" data-reveal>
-              <h3>뱃지 59종 모으기</h3>
+              <h3>뱃지 119종 모으기</h3>
               <p>처음 잡은 날부터 전설로 남을 날까지, 낚시 기록이 뱃지로 쌓여요.</p>
               <div class="badge-row">
-                <span><i class="ph-fill ph-medal" aria-hidden="true"></i>기본 9</span>
-                <span><i class="ph-fill ph-diamond" aria-hidden="true"></i>희귀 14</span>
-                <span><i class="ph-fill ph-shield-star" aria-hidden="true"></i>영웅 24</span>
-                <span><i class="ph-fill ph-crown-simple" aria-hidden="true"></i>전설 12</span>
+                <span><i class="ph-fill ph-medal" aria-hidden="true"></i>기본 23</span>
+                <span><i class="ph-fill ph-diamond" aria-hidden="true"></i>희귀 31</span>
+                <span><i class="ph-fill ph-shield-star" aria-hidden="true"></i>영웅 42</span>
+                <span><i class="ph-fill ph-crown-simple" aria-hidden="true"></i>전설 23</span>
               </div>
+            </article>
+            <article class="cell cell-attend" data-reveal>
+              <div>
+                <h3>매일 찍히는<br />출석 도장</h3>
+                <p>앱을 열기만 하면 도장이 찍혀요. 7일, 30일, 365일 연속이면 출석 뱃지가 따라와요.</p>
+              </div>
+              <div class="phone">
+                <img src="assets/img/screens/attendance.webp" alt="오늘낚시 출석 도장판 화면. 이번 달 달력에 도장이 찍혀 있어요." width="360" height="779" loading="lazy" />
+              </div>
+            </article>
+            <article class="cell cell-collect" data-reveal>
+              <h3>내 낚시, 모으고 자랑하기</h3>
+              <ul class="collect-list">
+                <li><i class="ph-fill ph-map-trifold" aria-hidden="true"></i><span><b>내 낚시 지도</b>다녀온 시·도마다 도장이 쌓여요. 17곳을 다 채워 보세요.</span></li>
+                <li><i class="ph-fill ph-airplane-tilt" aria-hidden="true"></i><span><b>해외 원정 뱃지</b>일본, 동남아에서 잡은 조과도 인증되고 나라 도장이 남아요.</span></li>
+                <li><i class="ph-fill ph-share-network" aria-hidden="true"></i><span><b>자랑 카드</b>뱃지와 조과 사진을 카드 한 장으로 만들어 친구에게 보내요.</span></li>
+              </ul>
             </article>
           </div>
         </div>
@@ -376,6 +402,6 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
-    <script src="assets/js/site.js?v=8" defer></script>
+    <script src="assets/js/site.js?v=9" defer></script>
   </body>
 </html>

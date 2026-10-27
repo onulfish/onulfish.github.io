@@ -75,9 +75,17 @@
         ['ph-waves', '0.3m', '파고'],
         ['ph-moon', '7물', '물때'],
       ],
+      // 앱처럼 기준 60점에서 더하고 뺀다(합이 score)
+      parts: [
+        ['파도 낮음 0.3m', 8],
+        ['바람 약함 5m/s', 5],
+        ['들물 흐름 좋음', 4],
+        ['아침 기온 쌀쌀', -2],
+      ],
+      extra: ['ph-boat', '출항 가능해 보여요 · 오전 최대 파고 0.6m'],
     },
     fresh: {
-      place: '예산 예당저수지',
+      place: '충주 충주호',
       score: 62,
       grade: '보통',
       color: '#ffd95a',
@@ -90,6 +98,12 @@
         ['ph-drop', '30%', '강수'],
         ['ph-sun-horizon', '06:41', '해 뜸'],
       ],
+      parts: [
+        ['바람 잔잔 3m/s', 5],
+        ['댐 수위 안정', 3],
+        ['오후 비 소식 30%', -6],
+      ],
+      extra: ['ph-drop-half', '충주댐 수위 · 어제보다 0.2m 낮아요'],
     },
   };
   const ringBar = $('.ring .bar');
@@ -103,6 +117,11 @@
     $('#scoreWhy').textContent = s.why;
     $('#scoreBest').textContent = s.best;
     $('#scoreWeather').innerHTML = s.weather.map(([icon, v, label]) => `<div><i class="ph ${icon}" aria-hidden="true"></i><b>${v}</b><span>${label}</span></div>`).join('');
+    $('#scoreWhyNum').textContent = String(s.score);
+    $('#scoreParts').innerHTML =
+      '<li><span>기준 점수</span><b>60</b></li>' +
+      s.parts.map(([label, d]) => `<li class="${d > 0 ? 'up' : 'down'}"><span>${label}</span><b>${d > 0 ? '+' : '−'}${Math.abs(d)}</b></li>`).join('');
+    $('#scoreExtra').innerHTML = `<i class="ph ${s.extra[0]}" aria-hidden="true"></i>${s.extra[1]}`;
     const num = $('#scoreNum');
     ringBar.style.strokeDashoffset = String(CIRC * (1 - s.score / 100));
     if (!animate || reduce || !window.gsap) {

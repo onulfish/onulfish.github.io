@@ -1026,6 +1026,59 @@ a {
   font-size: 18px;
   color: var(--yellow);
 }
+/* 왜 N점일까요: 기준 60에서 더하고 뺀 이유 */
+.why {
+  margin-top: 16px;
+  padding: 14px 16px;
+  border-radius: 18px;
+  background: rgb(0 0 0 / 0.18);
+}
+.why-t {
+  margin: 0 0 8px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #dce9f6;
+}
+.why-t b {
+  color: var(--yellow);
+}
+.why ul {
+  display: grid;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.why li {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #c4d6ea;
+}
+.why li b {
+  font-variant-numeric: tabular-nums;
+  color: #fff;
+}
+.why li.up b {
+  color: #6ee7a8;
+}
+.why li.down b {
+  color: #ff9b8a;
+}
+.why-extra {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 12px 0 0;
+  padding-top: 12px;
+  border-top: 1px solid rgb(255 255 255 / 0.12);
+  font-size: 14px;
+  color: #dce9f6;
+}
+.why-extra i {
+  font-size: 18px;
+  color: #8fd0ff;
+}
 .sample-note {
   margin: 14px 0 0;
   font-size: 12px;
@@ -1551,6 +1604,68 @@ a {
 .badge-row i {
   font-size: 17px;
 }
+/* 아래 줄: 출석 도장(사진) + 모으고 자랑하기(목록) */
+.cell-attend {
+  background: linear-gradient(165deg, #e3f4ea, #c8e8d4);
+  color: #123d26;
+  display: grid;
+  grid-template-columns: 1fr 160px;
+  gap: 20px;
+  align-items: start;
+}
+.cell-attend p {
+  color: #2f5a42;
+}
+.cell-attend .phone {
+  margin-bottom: -150px;
+}
+.cell-collect {
+  background: var(--surface);
+  border: 1px solid var(--line, rgb(10 55 96 / 0.1));
+  color: var(--text);
+}
+.collect-list {
+  display: grid;
+  gap: 16px;
+  margin: 18px 0 0;
+  padding: 0;
+  list-style: none;
+}
+.collect-list li {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+}
+.collect-list i {
+  flex: none;
+  display: inline-grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 12px;
+  background: var(--navy-800);
+  color: var(--yellow);
+  font-size: 20px;
+}
+.collect-list span {
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--text-sub);
+}
+.collect-list b {
+  display: block;
+  font-size: 16px;
+  color: var(--text);
+}
+@media (prefers-color-scheme: dark) {
+  .cell-attend {
+    background: linear-gradient(165deg, #133a28, #0d2a1d);
+    color: #e3f4ea;
+  }
+  .cell-attend p {
+    color: #a9d4b9;
+  }
+}
 @media (prefers-color-scheme: dark) {
   .cell-community {
     background: linear-gradient(165deg, #12304e, #0d2440);
@@ -1573,6 +1688,9 @@ a {
     margin: 10px auto -110px;
   }
   .cell-missions {
+    grid-template-columns: 1fr 120px;
+  }
+  .cell-attend {
     grid-template-columns: 1fr 120px;
   }
 }
