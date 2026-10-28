@@ -1789,6 +1789,10 @@ a {
   color: #c4d6ea;
   font-size: 17px;
 }
+.store-badges {
+  display: grid;
+  gap: 12px;
+}
 .store-badge {
   display: inline-flex;
   align-items: center;
@@ -1814,6 +1818,14 @@ a {
   .dl-panel {
     grid-template-columns: 1fr;
     justify-items: start;
+  }
+  .store-badges {
+    grid-template-columns: auto auto;
+  }
+}
+@media (max-width: 480px) {
+  .store-badges {
+    grid-template-columns: 1fr;
   }
 }
 
