@@ -1789,6 +1789,38 @@ a {
   color: #c4d6ea;
   font-size: 17px;
 }
+.dl-panel .dl-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0 0 12px;
+  padding: 5px 12px;
+  border-radius: 999px;
+  background: rgb(255 217 90 / 0.16);
+  color: var(--yellow);
+  font-size: 14px;
+  font-weight: 700;
+}
+.dl-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 16px;
+  margin-top: 22px;
+}
+.dl-apply {
+  background: var(--yellow);
+  color: var(--yellow-ink);
+  box-shadow: 0 12px 30px -12px rgb(255 217 90 / 0.6);
+}
+.dl-apply:hover {
+  background: #ffe58c;
+  transform: translateY(-2px);
+}
+.dl-note {
+  color: #9fb8d4;
+  font-size: 14px;
+}
 .store-badges {
   display: grid;
   gap: 12px;
@@ -1799,9 +1831,10 @@ a {
   gap: 12px;
   padding: 12px 22px;
   border-radius: 999px;
-  border: 1.5px solid rgb(255 255 255 / 0.35);
+  border: 1.5px solid rgb(255 255 255 / 0.22);
   color: #fff;
   white-space: nowrap;
+  opacity: 0.75;
 }
 .store-badge i {
   font-size: 28px;
