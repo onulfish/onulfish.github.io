@@ -256,6 +256,16 @@ p {
   font-weight: 600;
   color: #dbe8e3;
 }
+a.hero-kicker {
+  text-decoration: none;
+  transition: background 0.2s;
+}
+a.hero-kicker:hover {
+  background: rgba(255, 255, 255, 0.16);
+}
+.hero-kicker i {
+  font-size: 15px;
+}
 .hero-kicker .dot {
   width: 8px;
   height: 8px;
@@ -1269,9 +1279,22 @@ details p {
 }
 .store-badges {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   gap: 12px;
   margin-top: 30px;
+}
+.dl-apply {
+  min-height: 58px;
+  padding: 0 26px;
+  font-size: 17px;
+}
+.download .dl-perk {
+  margin-top: 16px;
+  font-size: 15px;
+  color: var(--ember-glow);
+  font-weight: 600;
 }
 .store {
   display: inline-flex;

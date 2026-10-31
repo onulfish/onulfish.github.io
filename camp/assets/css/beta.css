@@ -47,9 +47,18 @@
   margin-left: auto;
   transform: rotate(4deg);
 }
+.perk-hot {
+  background: linear-gradient(160deg, #fff 0%, #fff6ee 100%);
+  border-color: #f6d9c2;
+}
+.perk-note {
+  margin-top: 16px;
+  font-size: 14px;
+  color: var(--faint);
+}
 .perk-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 18px;
   margin-top: 40px;
 }
