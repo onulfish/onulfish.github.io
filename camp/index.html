@@ -1,0 +1,439 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>오늘캠핑 - 이번 주말, 거기 캠핑 가도 괜찮을까?</title>
+    <meta name="description" content="오늘 밤 캠핑하기 좋은지 점수로 알려 주는 캠핑 앱. 전국 캠핑장 3천여 곳 지도, 날씨에 맞춘 짐 체크리스트, 캠핑 일지와 캠핑 달력까지." />
+    <meta name="theme-color" content="#123c3a" />
+    <link rel="icon" href="assets/img/favicon.png" type="image/png" />
+    <link rel="apple-touch-icon" href="assets/img/icon-192.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="오늘캠핑" />
+    <meta property="og:title" content="오늘캠핑 - 이번 주말, 거기 캠핑 가도 괜찮을까?" />
+    <meta property="og:description" content="밤 날씨를 캠핑 지수로. 캠핑장 3천여 곳 지도, 날씨 맞춤 짐 목록, 캠핑 일지까지." />
+    <meta property="og:url" content="https://onulfish.com/camp/" />
+    <meta property="og:image" content="https://onulfish.com/camp/assets/img/og.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:locale" content="ko_KR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href="https://onulfish.com/camp/" />
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"MobileApplication","name":"오늘캠핑","operatingSystem":"Android","applicationCategory":"TravelApplication","url":"https://onulfish.com/camp/","inLanguage":"ko","description":"오늘 밤 캠핑하기 좋은지 캠핑 지수로 알려 주는 캠핑 앱. 전국 캠핑장 3천여 곳 지도, 이번 주말 지역 순위, 날씨에 맞춘 짐 체크리스트, 캠핑 일지와 캠핑 달력.","offers":{"@type":"Offer","price":"0","priceCurrency":"KRW"}}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"오늘캠핑은 어떤 앱이에요?","acceptedAnswer":{"@type":"Answer","text":"\"이번 주말, 거기 캠핑 가도 괜찮을까?\"에 답하는 캠핑 앱이에요. 도착하는 날 낮부터 다음 날 철수할 때까지의 바람·비·밤 기온·미세먼지·기상특보를 모아 캠핑 지수(100점)로 알려 드리고, 전국 캠핑장 지도, 날씨에 맞춘 짐 체크리스트, 캠핑 일지와 캠핑 달력을 함께 담았어요."}},{"@type":"Question","name":"캠핑 지수는 어떻게 계산해요?","acceptedAnswer":{"@type":"Answer","text":"100점에서 시작해 감점만 해요. 돌풍과 평균 풍속, 비의 양과 설치할 때 비가 오는지, 밤 최저 기온, 낮 최고 기온, 습도와 자외선, 천둥·눈, 미세먼지 예보, 지금 발효 중인 기상특보를 봐요. 차박·글램핑은 바람에, 글램핑은 추위에 덜 민감하게 계산해요. 85점 이상 아주 좋음, 70점 이상 좋음, 50점 이상 보통, 30점 이상 주의예요."}},{"@type":"Question","name":"캠핑장 정보는 어디서 오나요?","acceptedAnswer":{"@type":"Answer","text":"한국관광공사 고캠핑 공공데이터로 운영 중인 전국 캠핑장 약 3천 곳을 하루 한 번 새로 받아요. 사진·시설·바닥·반려견 동반 여부를 보여 드리고, 예약은 각 캠핑장의 예약 페이지로 이어 드려요."}},{"@type":"Question","name":"캠핑장 예약도 앱에서 되나요?","acceptedAnswer":{"@type":"Answer","text":"예약은 캠핑장마다 쓰는 예약 페이지로 이어 드려요. 대신 예약이 열리는 날짜와 시각을 넣어 두면 10분 전에 폰으로 알려 드려요. 매달 같은 날 열리는 곳은 반복 알림도 돼요."}},{"@type":"Question","name":"오늘캠핑은 무료예요?","acceptedAnswer":{"@type":"Answer","text":"캠핑 지수, 캠핑장 지도, 짐 체크리스트, 같이 챙기기, 캠핑 일지, 나의 캠핑 지도는 모두 무료예요. 프리미엄은 캠핑 지수를 2주 앞까지 보여 주고, 알림을 더 일찍·더 넓게 보내 드려요."}},{"@type":"Question","name":"언제 출시돼요?","acceptedAnswer":{"@type":"Answer","text":"안드로이드(Google Play)부터 출시를 준비하고 있어요. 출시 소식은 onulfish.com/camp 에서 가장 먼저 알려 드릴게요."}}]}</script>
+    <link rel="preload" href="assets/fonts/PretendardVariable-sub.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="assets/img/photo/hero-night.webp" as="image" />
+    <link rel="stylesheet" href="assets/css/icons.css?v=1" />
+    <link rel="stylesheet" href="assets/css/site.css?v=2" />
+    <script>
+      document.documentElement.classList.add('js');
+    </script>
+  </head>
+  <body>
+    <a class="skip" href="#main">본문으로 건너뛰기</a>
+
+    <header class="site-head on-dark" id="top">
+      <div class="wrap head-row">
+        <a class="logo" href="#top" aria-label="오늘캠핑 처음으로">
+          <img src="assets/img/icon-192.png" alt="" width="34" height="34" />
+          오늘캠핑
+        </a>
+        <nav class="nav" id="nav" aria-label="주요 메뉴">
+          <a href="#score">캠핑 지수</a>
+          <a href="#weekend">주말 순위</a>
+          <a href="#sites">캠핑장 지도</a>
+          <a href="#pack">짐 챙기기</a>
+          <a href="#log">일지·달력</a>
+          <a href="#premium">무료·프리미엄</a>
+        </nav>
+        <a class="btn btn-ember head-cta" href="#download">앱 받기</a>
+        <button class="menu-btn" type="button" aria-controls="nav" aria-expanded="false" aria-label="메뉴 열기">
+          <i class="ph ph-list" aria-hidden="true"></i>
+        </button>
+      </div>
+    </header>
+
+    <main id="main">
+      <!-- 히어로: 한 장면의 밤 캠핑장(하늘·별·산·텐트 불빛) 위에 글, 오른쪽 실제 앱 화면 두 장 -->
+      <section class="hero">
+        <!-- 배경: 밤 캠핑장 실사(Higgsfield gpt_image_2_5, 좌우 반전해 텐트를 왼쪽 아래로) -->
+        <div class="sky photo" aria-hidden="true"></div>
+        <div class="wrap hero-grid">
+          <div class="hero-copy">
+            <p class="hero-kicker" data-hero><span class="dot" aria-hidden="true"></span>오늘 밤 캠핑 지수 · 전국 캠핑장 3,001곳</p>
+            <h1 data-hero>
+              이번 주말,<br />
+              거기 <span class="accent">캠핑</span> 가도<br />
+              괜찮을까?
+            </h1>
+            <p class="hero-sub" data-hero>도착하는 낮부터 철수하는 아침까지, 바람과 비와 밤 기온을 모아 점수 하나로 알려 드려요. 몇 점인지보다 <b>왜 그 점수인지</b>를 먼저 말해 드려요.</p>
+            <div class="hero-cta" data-hero>
+              <a class="btn btn-ember" href="#score"><i class="ph-fill ph-gauge" aria-hidden="true"></i>캠핑 지수 계산해 보기</a>
+              <a class="btn btn-glass" href="#download">출시 소식 받기</a>
+            </div>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <div class="phone phone-back" data-hero-phone>
+              <img src="assets/img/screens/site.webp" alt="" width="360" height="779" />
+            </div>
+            <div class="phone phone-front" data-hero-phone>
+              <img src="assets/img/screens/home.webp" alt="" width="360" height="779" fetchpriority="high" />
+            </div>
+            <div class="float-card fc-score" data-hero-phone>
+              <span class="mini-ring" style="--p: 88">88</span>
+              <span><small>토요일 밤 캠핑 지수</small><b>아주 좋음</b></span>
+            </div>
+            <div class="float-card fc-star" data-hero-phone>
+              <i class="ph-fill ph-star-four"></i>
+              <span><b>별 보기 좋은 밤</b><small>밤 구름 10% · 그믐 무렵</small></span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 숫자 띠 -->
+      <section class="stats" aria-label="오늘캠핑 한눈에">
+        <div class="wrap stats-row">
+          <div class="stat" data-reveal>
+            <b><span data-count="3001" data-format="comma">3,001</span><small>곳</small></b>
+            <span>전국 캠핑장 지도</span>
+          </div>
+          <div class="stat" data-reveal>
+            <b><span data-count="27">27</span><small>개 지역</small></b>
+            <span>이번 주말 캠핑 지수 순위</span>
+          </div>
+          <div class="stat" data-reveal>
+            <b><span data-count="59">59</span><small>가지</small></b>
+            <span>날씨 따라 켜지는 짐 목록</span>
+          </div>
+          <div class="stat" data-reveal>
+            <b><span data-count="117">117</span><small>개</small></b>
+            <span>캠핑 미션, 뱃지 63종</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- 캠핑 지수: 직접 계산해 보는 위젯(앱과 같은 감점 기준) -->
+      <section class="section score" id="score">
+        <div class="wrap score-grid">
+          <div class="score-copy">
+            <p class="eyebrow"><i class="ph-fill ph-gauge" aria-hidden="true"></i>캠핑 지수</p>
+            <h2 class="h2" data-reveal>낮 기온 말고,<br />텐트에서 보내는 밤을 봐요</h2>
+            <p class="lead" data-reveal>캠핑은 그날 12시 도착부터 다음 날 10시 철수까지예요. 그 시간의 시간별 예보로 100점에서 감점만 하고, 가장 큰 감점 이유를 한 줄로 알려 드려요.</p>
+            <ul class="factors">
+              <li data-reveal><i class="ph ph-wind" aria-hidden="true"></i><span><b>돌풍과 바람</b>평균보다 타프를 흔드는 돌풍이 문제예요</span></li>
+              <li data-reveal><i class="ph ph-cloud-rain" aria-hidden="true"></i><span><b>비, 특히 설치할 때 비</b>양보다 피칭할 때 오는지가 더 힘들어요</span></li>
+              <li data-reveal><i class="ph ph-thermometer-cold" aria-hidden="true"></i><span><b>밤 최저와 체감 온도</b>침낭 등급까지 골라 드려요</span></li>
+              <li data-reveal><i class="ph ph-warning" aria-hidden="true"></i><span><b>미세먼지와 기상특보</b>에어코리아 예보, 기상청 특보까지 반영해요</span></li>
+            </ul>
+            <p class="fine" data-reveal>차박·글램핑은 바람에, 글램핑은 추위에 덜 민감하게 따로 계산해요.</p>
+          </div>
+
+          <div class="calc" data-reveal aria-labelledby="calc-title">
+            <div class="calc-head">
+              <h3 id="calc-title">직접 바꿔 보세요</h3>
+              <span class="calc-tag">앱과 같은 감점 기준</span>
+            </div>
+            <div class="seg" role="radiogroup" aria-label="캠핑 형태">
+              <button type="button" role="radio" aria-checked="true" data-style="auto">오토캠핑</button>
+              <button type="button" role="radio" aria-checked="false" data-style="back">백패킹</button>
+              <button type="button" role="radio" aria-checked="false" data-style="car">차박</button>
+              <button type="button" role="radio" aria-checked="false" data-style="glamping">글램핑</button>
+            </div>
+            <div class="calc-body">
+              <div class="calc-result" aria-live="polite">
+                <div class="ring" id="calc-ring" style="--p: 80"><b id="calc-score">80</b><small>점</small></div>
+                <p class="grade" id="calc-grade">좋음</p>
+              </div>
+              <div class="sliders">
+                <label class="sl"><span>돌풍 최대 <b id="v-gust">8m/s</b></span><input type="range" id="in-gust" min="0" max="18" step="1" value="8" /></label>
+                <label class="sl"><span>밤사이 비 <b id="v-rain">0mm</b></span><input type="range" id="in-rain" min="0" max="20" step="0.5" value="0" /></label>
+                <label class="sl"><span>밤 최저 <b id="v-min">3℃</b></span><input type="range" id="in-min" min="-15" max="22" step="1" value="3" /></label>
+                <label class="sl"><span>낮 최고 <b id="v-max">21℃</b></span><input type="range" id="in-max" min="5" max="36" step="1" value="21" /></label>
+                <label class="chk"><input type="checkbox" id="in-setup" /> 텐트 칠 때 비가 와요</label>
+                <div class="dust" role="radiogroup" aria-label="미세먼지 예보">
+                  <span>미세먼지</span>
+                  <button type="button" role="radio" aria-checked="true" data-dust="good">좋음·보통</button>
+                  <button type="button" role="radio" aria-checked="false" data-dust="bad">나쁨</button>
+                  <button type="button" role="radio" aria-checked="false" data-dust="worst">매우 나쁨</button>
+                </div>
+              </div>
+            </div>
+            <div class="verdict">
+              <p id="calc-verdict"><i class="ph ph-wind" aria-hidden="true"></i><span>바람 최대 8m/s — 타프는 낮게 쳐요</span></p>
+              <ul id="calc-reasons" class="reasons"></ul>
+              <p class="bag" id="calc-bag"><i class="ph ph-bed" aria-hidden="true"></i><span>3계절 침낭 (컴포트 5℃)</span></p>
+            </div>
+            <p class="calc-note">앱에서는 시간별 예보로 계산하고 평균 풍속·습도·자외선·천둥·특보까지 더해요. 점수는 참고용이에요.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- 이번 주말 순위: 페이지에서 한 번 쓰는 짙은 청록 띠 -->
+      <section class="section weekend" id="weekend">
+        <div class="wrap weekend-grid">
+          <div class="phone phone-solo" data-reveal>
+            <img src="assets/img/screens/best.webp" alt="이번 주말 전국 지역 캠핑 지수 순위 화면" width="360" height="779" loading="lazy" />
+          </div>
+          <div>
+            <p class="eyebrow on-dark"><i class="ph-fill ph-trophy" aria-hidden="true"></i>주말 순위</p>
+            <h2 class="h2" data-reveal>이번 주말,<br />날씨 좋은 곳은 따로 있어요</h2>
+            <p class="lead" data-reveal>금요일 밤, 토요일 밤 중 하나를 고르면 전국 27개 지역의 같은 밤 점수를 한 줄로 세워 드려요. 즐겨찾기한 캠핑장끼리만 겨뤄 볼 수도 있어요.</p>
+            <ol class="rank" aria-label="순위 예시">
+              <li data-reveal><span class="no">1</span><span class="nm">서귀포<small>바람도 비도 잔잔해요 · 밤 10℃</small></span><b class="pt good">100</b></li>
+              <li data-reveal><span class="no">2</span><span class="nm">거제<small>돌풍 최대 11m/s · 밤 5℃</small></span><b class="pt">66</b></li>
+              <li data-reveal><span class="no">3</span><span class="nm">공주<small>돌풍 최대 13m/s · 밤 0℃</small></span><b class="pt">65</b></li>
+            </ol>
+            <p class="fine on-dark" data-reveal>지역을 누르면 그곳의 오늘 탭으로, 캠핑장을 누르면 상세로 바로 가요.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- 캠핑장 지도 -->
+      <section class="section sites" id="sites">
+        <div class="wrap">
+          <div class="sec-head">
+            <p class="eyebrow"><i class="ph-fill ph-map-trifold" aria-hidden="true"></i>캠핑장 지도</p>
+            <h2 class="h2" data-reveal>전국 캠핑장 3,001곳,<br />오늘 밤 점수까지 같이</h2>
+            <p class="lead" data-reveal>한국관광공사 고캠핑 데이터를 매일 새로 받아요. 사진과 시설을 보고, 그 캠핑장의 이번 주 캠핑 지수를 바로 확인해요.</p>
+          </div>
+          <div class="sites-grid">
+            <div class="sites-phones" data-reveal>
+              <div class="phone phone-a"><img src="assets/img/screens/map.webp" alt="캠핑장 지도 화면" width="360" height="779" loading="lazy" /></div>
+              <div class="phone phone-b"><img src="assets/img/screens/site.webp" alt="캠핑장 상세 화면" width="360" height="779" loading="lazy" /></div>
+            </div>
+            <div class="sites-cards">
+              <article class="card" data-reveal>
+                <i class="ph ph-funnel" aria-hidden="true"></i>
+                <h3>원하는 조건만 골라요</h3>
+                <div class="chips">
+                  <span>오토캠핑</span><span>글램핑</span><span>카라반</span><span>반려견</span><span>전기</span><span>계곡</span><span>바다</span><span>숲·산</span><span>강·호수</span><span>🚙 차박</span>
+                </div>
+                <p>차박은 소개 글 기준으로 표시하고, 확실하지 않은 곳은 「문의 필요」로 따로 알려 드려요.</p>
+              </article>
+              <article class="card card-live" data-reveal>
+                <i class="ph ph-megaphone" aria-hidden="true"></i>
+                <h3>지금 현장은 어때요?</h3>
+                <div class="report">
+                  <span class="crowd">한산</span>
+                  <span class="tag good">화장실 깨끗</span><span class="tag good">별</span><span class="tag bad">바람</span>
+                  <p>「강가 쪽 사이트는 바람이 좀 있어요. 밤하늘은 최고!」<small>2시간 전 · 이용자 제보</small></p>
+                </div>
+                <p>캠핑 중인 사람들이 남긴 최근 72시간 제보를 봐요. 궁금하면 「지금 거기 어때요?」로 물어볼 수도 있어요.</p>
+              </article>
+              <article class="card" data-reveal>
+                <i class="ph ph-alarm" aria-hidden="true"></i>
+                <h3>예약 열리기 10분 전에</h3>
+                <p>예약이 열리는 날짜와 시각을 넣어 두면 폰이 미리 깨워 드려요. 매달 같은 날 열리는 곳은 반복으로.</p>
+              </article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 짐 챙기기 -->
+      <section class="section pack" id="pack">
+        <div class="wrap pack-grid">
+          <div>
+            <p class="eyebrow"><i class="ph-fill ph-backpack" aria-hidden="true"></i>짐 챙기기</p>
+            <h2 class="h2" data-reveal>그날 날씨가<br />짐 목록을 고쳐 써요</h2>
+            <p class="lead" data-reveal>출발일과 박수, 인원을 고르면 그 밤 예보를 보고 필요한 장비를 켜 드려요. 캠핑 형태에 맞춘 59가지에서 시작하고, 물은 인원·박수만큼 계산해요.</p>
+            <ul class="conds" aria-label="날씨 조건 예시">
+              <li data-reveal><b>밤 8℃ 아래</b>경량 패딩·핫팩</li>
+              <li data-reveal><b>영하</b>동계 침낭·난로·일산화탄소 경보기</li>
+              <li data-reveal><b>비 60%</b>방수포·여분 타프·우비</li>
+              <li data-reveal><b>돌풍 8m/s</b>단조 팩·스트링 보강</li>
+              <li data-reveal><b>낮 28℃ 위</b>선풍기·쿨러·그늘막</li>
+              <li data-reveal><b>밤 15℃ 위</b>모기장·벌레 퇴치</li>
+            </ul>
+          </div>
+          <div class="pack-side">
+            <div class="phone phone-solo" data-reveal>
+              <img src="assets/img/screens/pack.webp" alt="짐 체크리스트 화면" width="360" height="779" loading="lazy" />
+            </div>
+            <div class="share-card" data-reveal>
+              <p class="sc-k"><i class="ph ph-users-three" aria-hidden="true"></i>같이 챙기기</p>
+              <p class="sc-code" aria-label="예시 코드">K7Q2M9</p>
+              <p class="sc-row"><span>버너·코펠</span><b>민지가 챙길게</b></p>
+              <p class="sc-row"><span>랜턴 2개</span><b class="me">내가 챙길게</b></p>
+              <p class="sc-row done"><span>장작 2망</span><b>준호 ✓</b></p>
+              <p class="sc-foot">6자리 코드 하나로 일행과 같은 목록을 봐요</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 일지 · 나의 캠핑 지도 · 캠핑 달력: 벤토 -->
+      <section class="section log" id="log">
+        <div class="wrap">
+          <div class="sec-head">
+            <p class="eyebrow"><i class="ph-fill ph-notebook" aria-hidden="true"></i>일지 · 캠핑 지도 · 달력</p>
+            <h2 class="h2" data-reveal>다녀온 밤은 기록으로,<br />다음 밤은 달력으로</h2>
+          </div>
+          <div class="bento">
+            <article class="cell cell-log" data-reveal>
+              <div class="cell-text">
+                <h3>그날 날씨가 붙는 캠핑 일지</h3>
+                <p>캠핑장과 날짜만 남기면 그 밤의 최저 기온·돌풍·비·구름을 찾아 붙여 드려요. 1년 뒤 같은 철엔 「1년 전 이맘때」가 찾아와요.</p>
+              </div>
+              <div class="phone phone-cell"><img src="assets/img/screens/log.webp" alt="캠핑 일지 화면" width="360" height="779" loading="lazy" /></div>
+            </article>
+            <article class="cell cell-map" data-reveal>
+              <div class="cell-text">
+                <h3>시·도 도장판</h3>
+                <p>다녀온 곳에 도장이 찍히는 17칸 지도와 해마다의 결산. 가장 추웠던 밤, 별 많던 밤까지.</p>
+              </div>
+              <div class="phone phone-cell"><img src="assets/img/screens/mymap.webp" alt="나의 캠핑 지도 화면" width="360" height="779" loading="lazy" /></div>
+            </article>
+            <article class="cell cell-cal" data-reveal>
+              <div class="cell-text">
+                <h3>캠핑 달력</h3>
+                <p>유성우 극대일, 달 없는 그믐 주말, 벚꽃·반딧불이·단풍·눈꽃 시기를 한 달력에. 누르면 그 철에 맞는 캠핑장을 찾아요.</p>
+              </div>
+              <div class="phone phone-cell"><img src="assets/img/screens/calendar.webp" alt="캠핑 달력 화면" width="360" height="779" loading="lazy" /></div>
+            </article>
+            <article class="cell cell-mission" data-reveal>
+              <div class="cell-text">
+                <h3>미션 117개 · 뱃지 63종</h3>
+                <p>첫 영하 캠핑, 비 오는 밤, 사계절 완주, 시·도 정복. 레벨은 입문에서 불멍 장인, 캠핑왕까지 올라가요.</p>
+              </div>
+              <ul class="titles" aria-label="칭호">
+                <li>입문</li><li>초보 캠퍼</li><li>베테랑 캠퍼</li><li>고수</li><li class="hot">불멍 장인</li><li>전설</li><li>캠핑왕</li>
+              </ul>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- 알림 3가지 -->
+      <section class="section alarms" id="alarms">
+        <div class="wrap">
+          <div class="sec-head">
+            <p class="eyebrow"><i class="ph-fill ph-bell-ringing" aria-hidden="true"></i>캠핑 알림</p>
+            <h2 class="h2" data-reveal>앱을 안 열어도,<br />필요한 때만 알려 드려요</h2>
+          </div>
+          <div class="alarm-row">
+            <article class="alarm" data-reveal>
+              <span class="when">전날 저녁</span>
+              <h3>캠핑 가는 날 알림</h3>
+              <p>일지에 다녀올 캠핑을 넣어 두면 전날 저녁, 그 밤의 캠핑 지수와 침낭 추천을 보내 드려요.</p>
+              <div class="toast"><img src="assets/img/icon-192.png" alt="" width="28" height="28" /><span><b>내일 자라섬 캠핑장 82점 · 좋음</b>밤 최저 4℃, 3계절 침낭에 경량 패딩 하나 챙겨요</span></div>
+            </article>
+            <article class="alarm" data-reveal>
+              <span class="when warn">발효 즉시</span>
+              <h3>안전 특보 알림</h3>
+              <p>지금 캠핑 중이거나 내일 가는 곳에 강풍·태풍·호우·대설·한파·폭염 특보가 나오면 바로 알려 드려요.</p>
+              <div class="toast"><img src="assets/img/icon-192.png" alt="" width="28" height="28" /><span><b>강풍주의보 발효</b>타프는 접고 팩은 단단히 박아 두세요</span></div>
+            </article>
+            <article class="alarm" data-reveal>
+              <span class="when">10분 전</span>
+              <h3>예약 오픈 알림</h3>
+              <p>인기 캠핑장 예약 전쟁, 시각만 넣어 두면 10분 전에 깨워 드려요. 폰 안에서만 예약되는 알림이에요.</p>
+              <div class="toast"><img src="assets/img/icon-192.png" alt="" width="28" height="28" /><span><b>10분 뒤 예약이 열려요</b>덕유대자동차야영장 · 오전 10:00</span></div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- 무료 · 프리미엄 -->
+      <section class="section premium" id="premium">
+        <div class="wrap premium-grid">
+          <div>
+            <p class="eyebrow"><i class="ph-fill ph-campfire" aria-hidden="true"></i>무료 · 프리미엄</p>
+            <h2 class="h2" data-reveal>캠핑에 필요한 건<br />전부 무료예요</h2>
+            <p class="lead" data-reveal>캠핑 지수, 캠핑장 지도, 짐 체크리스트, 같이 챙기기, 캠핑 일지, 나의 캠핑 지도는 누구나 써요. 프리미엄은 더 멀리 보고, 더 일찍 알려 드려요.</p>
+          </div>
+          <div class="table-wrap" data-reveal>
+            <table class="compare">
+              <caption class="sr">무료와 프리미엄 비교</caption>
+              <thead>
+                <tr><th scope="col">기능</th><th scope="col">무료</th><th scope="col" class="pro">프리미엄</th></tr>
+              </thead>
+              <tbody>
+                <tr><th scope="row">캠핑 지수 예보</th><td>7일</td><td class="pro">14일 (2주 앞까지)</td></tr>
+                <tr><th scope="row">캠핑 가는 날 알림</th><td>전날 저녁 1번</td><td class="pro">3일 전부터, 점수가 떨어지면 바로</td></tr>
+                <tr><th scope="row">안전 특보 알림</th><td>캠핑 중·내일 가는 곳</td><td class="pro">+ 즐겨찾기 캠핑장 전체</td></tr>
+                <tr><th scope="row">예약 오픈 알림</th><td>1곳</td><td class="pro">제한 없이</td></tr>
+                <tr><th scope="row">밤하늘 캘린더</th><td>한 달</td><td class="pro">1년 (유성우·은하수 미리)</td></tr>
+                <tr><th scope="row">미션 · 뱃지</th><td>109개 · 60종</td><td class="pro">+ 전용 8개 · 희귀 3종</td></tr>
+                <tr><th scope="row">XP</th><td>1배</td><td class="pro">활동 1.5배 · 미션 1.2배</td></tr>
+                <tr class="free-all"><th scope="row">지도 · 짐 · 같이 챙기기 · 일지</th><td colspan="2">모두 무료</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- 자주 묻는 질문 -->
+      <section class="section faq" id="faq">
+        <div class="wrap faq-wrap">
+          <div class="sec-head">
+            <p class="eyebrow"><i class="ph-fill ph-question" aria-hidden="true"></i>자주 묻는 질문</p>
+            <h2 class="h2" data-reveal>궁금한 점</h2>
+          </div>
+          <div class="faq-list">
+            <details data-reveal>
+              <summary>오늘캠핑은 어떤 앱이에요?</summary>
+              <p>「이번 주말, 거기 캠핑 가도 괜찮을까?」에 답하는 캠핑 앱이에요. 도착하는 날 낮부터 다음 날 철수할 때까지의 바람·비·밤 기온·미세먼지·기상특보를 모아 캠핑 지수(100점)로 알려 드리고, 전국 캠핑장 지도, 날씨에 맞춘 짐 체크리스트, 캠핑 일지와 캠핑 달력을 함께 담았어요.</p>
+            </details>
+            <details data-reveal>
+              <summary>캠핑 지수는 어떻게 계산해요?</summary>
+              <p>100점에서 시작해 감점만 해요. 돌풍과 평균 풍속, 비의 양과 설치할 때 비가 오는지, 밤 최저 기온, 낮 최고 기온, 습도와 자외선, 천둥·눈, 미세먼지 예보, 지금 발효 중인 기상특보를 봐요. 85점 이상 아주 좋음, 70점 이상 좋음, 50점 이상 보통, 30점 이상 주의예요. 점수는 참고용이니 출발 전엔 현장 기상을 꼭 다시 확인해 주세요.</p>
+            </details>
+            <details data-reveal>
+              <summary>캠핑장 정보는 어디서 오나요?</summary>
+              <p>한국관광공사 고캠핑 공공데이터로 운영 중인 전국 캠핑장 약 3천 곳을 하루 한 번 새로 받아요. 사진·시설·바닥·반려견 동반 여부를 보여 드리고, 예약은 각 캠핑장의 예약 페이지로 이어 드려요.</p>
+            </details>
+            <details data-reveal>
+              <summary>캠핑장 예약도 앱에서 되나요?</summary>
+              <p>예약은 캠핑장마다 쓰는 예약 페이지로 이어 드려요. 대신 예약이 열리는 날짜와 시각을 넣어 두면 10분 전에 폰으로 알려 드려요. 매달 같은 날 열리는 곳은 반복 알림도 돼요.</p>
+            </details>
+            <details data-reveal>
+              <summary>차박할 수 있는 곳도 알 수 있나요?</summary>
+              <p>캠핑장 소개 글에 차박이 적힌 곳은 「차박」으로, 오토캠핑·카라반 동반이 되는 곳은 「문의 필요」로 따로 표시해요. 허가되지 않은 노지 차박지는 일부러 다루지 않아요.</p>
+            </details>
+            <details data-reveal>
+              <summary>오늘캠핑은 무료예요?</summary>
+              <p>캠핑 지수, 캠핑장 지도, 짐 체크리스트, 같이 챙기기, 캠핑 일지, 나의 캠핑 지도는 모두 무료예요. 프리미엄은 캠핑 지수를 2주 앞까지 보여 주고, 알림을 더 일찍·더 넓게 보내 드려요.</p>
+            </details>
+            <details data-reveal>
+              <summary>제 캠핑 기록은 어디에 저장돼요?</summary>
+              <p>일지는 폰 안에 저장해요. 미션과 백업을 위해 날짜·박수·캠핑장 이름·그날 날씨 같은 요약만 서버에 올리고, 사진과 메모 본문은 올리지 않아요. 자세한 내용은 <a href="privacy.html">개인정보처리방침</a>에 있어요.</p>
+            </details>
+            <details data-reveal>
+              <summary>언제 출시돼요?</summary>
+              <p>안드로이드(Google Play)부터 출시를 준비하고 있어요. 출시 소식은 이 페이지에서 가장 먼저 알려 드릴게요.</p>
+            </details>
+          </div>
+        </div>
+      </section>
+
+      <!-- 앱 받기 -->
+      <section class="download" id="download">
+        <div class="dl-sky" aria-hidden="true"></div>
+        <div class="wrap dl-inner">
+          <img class="dl-mark" src="assets/img/logo-mark.png" alt="" width="120" height="120" loading="lazy" />
+          <h2 data-reveal>이번 주말, 점수 먼저 보고 떠나요</h2>
+          <p data-reveal>오늘캠핑은 Google Play 출시를 준비하고 있어요.</p>
+          <div class="store-badges" data-reveal>
+            <span class="store soon"><i class="ph-fill ph-google-play-logo" aria-hidden="true"></i><span><small>곧 만나요</small>Google Play</span></span>
+          </div>
+          <p class="dl-sister" data-reveal>낚시도 다니세요? 같은 팀이 만든 <a href="https://onulfish.com/">오늘낚시</a>도 있어요.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-foot">
+      <div class="wrap foot-row">
+        <a class="logo" href="#top"><img src="assets/img/icon-192.png" alt="" width="30" height="30" />오늘캠핑</a>
+        <nav class="foot-links" aria-label="바닥 메뉴">
+          <a href="privacy.html">개인정보처리방침</a>
+          <a href="mailto:eco-noble@naver.com">문의 eco-noble@naver.com</a>
+        </nav>
+        <p class="foot-note">날씨 Open-Meteo · 캠핑장 한국관광공사 고캠핑 · 미세먼지 에어코리아 · 기상특보 기상청 · 지도 © OpenStreetMap 기여자<br />© 2026 오늘캠핑</p>
+      </div>
+    </footer>
+
+    <script src="assets/js/site.js?v=2" defer></script>
+  </body>
+</html>

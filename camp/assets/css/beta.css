@@ -1,0 +1,185 @@
+/* 오늘캠핑 베타 테스터 모집 페이지 — site.css 위에 덧붙이는 것만 */
+.b-hero {
+  position: relative;
+  padding: 130px 0 110px;
+  color: #fff;
+  overflow: hidden;
+  background: #071b1a;
+}
+.b-hero-grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 48px;
+  align-items: center;
+}
+.b-hero h1 {
+  margin-top: 22px;
+  font-size: clamp(38px, 5.4vw, 66px);
+  font-weight: 800;
+  line-height: 1.12;
+  letter-spacing: -0.045em;
+}
+.b-hero h1 .accent {
+  color: var(--ember-glow);
+}
+.b-facts {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+  margin: 28px 0 0;
+  padding: 0;
+  font-size: 15px;
+  color: #c9dbd5;
+}
+.b-facts li {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.b-facts i {
+  color: var(--ember-glow);
+  font-size: 18px;
+}
+.b-hero-art .phone {
+  width: 280px;
+  margin-left: auto;
+  transform: rotate(4deg);
+}
+.perk-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin-top: 40px;
+}
+.perk {
+  padding: 26px;
+  border-radius: var(--r3);
+  background: var(--card);
+  border: 1px solid var(--line);
+}
+.perk > i {
+  font-size: 30px;
+  color: var(--ember);
+}
+.perk h3 {
+  margin: 12px 0 8px;
+  font-size: 20px;
+}
+.perk p {
+  font-size: 15px;
+  color: var(--sub);
+}
+.how {
+  padding-top: 0;
+}
+.steps {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin: 40px 0 0;
+  padding: 0;
+}
+.steps li {
+  padding: 26px;
+  border-radius: var(--r3);
+  background: var(--card);
+  border: 1px solid var(--line);
+}
+.steps .n {
+  width: 36px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--pine);
+  color: #fff;
+  font-weight: 800;
+}
+.steps h3 {
+  margin: 14px 0 6px;
+  font-size: 19px;
+}
+.steps p {
+  font-size: 15px;
+  color: var(--sub);
+}
+.keep14 {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-top: 18px;
+  padding: 24px 28px;
+  border-radius: var(--r3);
+  background: var(--pine-deep);
+  color: #fff;
+}
+.keep14 .big {
+  flex: none;
+  font-size: 44px;
+  font-weight: 800;
+  color: var(--ember-glow);
+  letter-spacing: -0.03em;
+}
+.keep14 b {
+  display: block;
+  font-size: 17px;
+}
+.keep14 span:not(.big) {
+  font-size: 15px;
+  color: #c4d7d1;
+}
+.apply {
+  padding-top: 0;
+}
+.apply-box {
+  padding: 48px;
+  border-radius: var(--r3);
+  background: #fff;
+  border: 1px solid var(--line);
+  text-align: center;
+}
+.apply-box h2 {
+  font-size: clamp(28px, 3.4vw, 38px);
+  font-weight: 800;
+}
+.apply-box > p {
+  margin-top: 12px;
+  color: var(--sub);
+}
+.apply-box .btn {
+  margin-top: 24px;
+  min-height: 54px;
+  padding: 0 30px;
+  font-size: 17px;
+}
+.apply-alt {
+  font-size: 14px;
+}
+.apply-note {
+  font-size: 13px;
+  color: var(--faint) !important;
+}
+@media (max-width: 920px) {
+  .b-hero-grid,
+  .perk-grid,
+  .steps {
+    grid-template-columns: 1fr;
+  }
+  .b-hero-art .phone {
+    width: 230px;
+    margin: 10px auto 0;
+  }
+  .keep14 {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+}
+@media (max-width: 600px) {
+  .apply-box {
+    padding: 32px 20px;
+  }
+}
