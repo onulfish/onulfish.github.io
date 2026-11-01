@@ -1,0 +1,9700 @@
+[
+ {
+  "id": "r013",
+  "name": "캠핑 어묵탕",
+  "category": "pot",
+  "category_name": "한 냄비 국물",
+  "one_line": "추운 캠핑 밤, 국물 한 입이면 몸이 다 녹아요",
+  "servings": 2,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "코펠(냄비)",
+   "종이컵"
+  ],
+  "ingredients": [
+   {
+    "name": "꼬치 어묵",
+    "amount": "6~8개",
+    "home_prep": "꼬치에 꽂힌 제품으로"
+   },
+   {
+    "name": "무",
+    "amount": "200g(손바닥 한 토막)",
+    "home_prep": "집에서 납작하게 썰어 지퍼백에"
+   },
+   {
+    "name": "대파",
+    "amount": "1대",
+    "home_prep": "어슷 썰어 지퍼백에"
+   },
+   {
+    "name": "국물용 다시 팩",
+    "amount": "1개"
+   },
+   {
+    "name": "물",
+    "amount": "1L"
+   },
+   {
+    "name": "국간장",
+    "amount": "1큰술",
+    "home_prep": "작은 병에 덜어 오기"
+   },
+   {
+    "name": "청양고추",
+    "amount": "1개",
+    "optional": true
+   },
+   {
+    "name": "라면 사리",
+    "amount": "1개",
+    "optional": true
+   }
+  ],
+  "home_prep": [
+   "무와 대파는 집에서 썰어 지퍼백 하나에 어묵과 함께 담아 와요",
+   "국간장은 작은 병에 덜어 오면 양념통이 줄어요"
+  ],
+  "steps": [
+   {
+    "text": "냄비에 물 1L를 붓고 다시 팩과 무를 넣어 10분 끓여요",
+    "video_at": 18.4
+   },
+   {
+    "text": "육수가 우러나면 다시 팩은 건지고 어묵 꼬치를 넣어 한소끔 끓여요",
+    "video_at": 23.6
+   },
+   {
+    "text": "국간장 1큰술로 싱겁게 시작해 맛보며 간을 맞춰요",
+    "video_at": 28.7
+   },
+   {
+    "text": "대파와 청양고추를 넣고 한 번 더 끓이면 완성이에요"
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "냄비째 가운데 두고 꼬치째 건져 먹어요",
+    "video_at": 34.6
+   },
+   {
+    "text": "국물은 종이컵에 따라 마시면 설거지가 줄어요",
+    "video_at": 34.6
+   },
+   {
+    "text": "남은 국물엔 라면 사리 하나로 마무리해요",
+    "video_at": 45.8
+   }
+  ],
+  "camp_tips": [
+   "도마·칼 없이 끝내려면 손질은 전부 집에서",
+   "양념은 국간장 작은 병 하나면 충분해요(어묵 자체에 간이 있어요)"
+  ],
+  "safety": [
+   {
+    "text": "끓는 냄비는 아이 손이 닿지 않게 두세요",
+    "video_at": 40.8
+   },
+   {
+    "text": "버너는 꼭 텐트 밖에서 켜세요",
+    "video_at": 40.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지01-어묵탕.mp4",
+   "duration": 60.2,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "eomuk_hook.jpg",
+   "eomuk_ingredients.jpg",
+   "eomuk_broth.jpg",
+   "eomuk_skewers.jpg",
+   "eomuk_cup.jpg"
+  ],
+  "tags": [
+   "국물",
+   "겨울",
+   "초보",
+   "아이와 함께"
+  ],
+  "slug": "eomuktang",
+  "ep": 1,
+  "video_src": "assets/video/food/r013.mp4"
+ },
+ {
+  "id": "r001",
+  "name": "삼겹살",
+  "title": "숯불 삼겹살",
+  "category": "grill",
+  "category_name": "숯불·화로 구이",
+  "one_line": "캠핑 고기 굽기 정석",
+  "servings": 2,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "삼겹살(두툼하게)",
+    "amount": "600g"
+   },
+   {
+    "name": "쌈 채소",
+    "amount": "한 줌",
+    "home_prep": "집에서 씻어 키친타월에 싸 오기"
+   },
+   {
+    "name": "쌈장",
+    "amount": "작은 통 1개"
+   },
+   {
+    "name": "굵은소금",
+    "amount": "조금"
+   },
+   {
+    "name": "김치·즉석밥",
+    "amount": "마무리용",
+    "optional": true
+   }
+  ],
+  "home_prep": [
+   "집에서 씻어 키친타월에 싸 오기"
+  ],
+  "steps": [
+   {
+    "text": "숯에 불을 붙이고 하얀 재가 앉을 때까지 20분 기다려요",
+    "video_at": 19.1
+   },
+   {
+    "text": "숯불이 잔잔해지면 고기를 올려요",
+    "video_at": 30.1
+   },
+   {
+    "text": "육즙이 올라오면 한 번만 뒤집어요",
+    "video_at": 24.5
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "가위로 잘라 불판 가장자리에 두고 따뜻하게 먹어요",
+    "video_at": 35.5
+   },
+   {
+    "text": "남은 기름에 김치·밥을 볶아 볶음밥으로 마무리해요",
+    "video_at": 47.3
+   }
+  ],
+  "camp_tips": [
+   "쌈 채소는 집에서 씻어 오면 물을 아껴요",
+   "숯이 하얘질 때 올리고, 기름 받이로 불길 잡기"
+  ],
+  "safety": [
+   {
+    "text": "기름이 숯에 떨어지면 불이 솟으니 긴 집게를 쓰고 얼굴을 멀리 두세요",
+    "video_at": 41.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지02-삼겹살.mp4",
+   "duration": 62.3,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "samg_a.jpg",
+   "samg_b.jpg",
+   "samg_eat.jpg",
+   "samg_hook.jpg",
+   "samg_ing.jpg"
+  ],
+  "tags": [
+   "구이",
+   "숯불",
+   "고기"
+  ],
+  "slug": "samgyeop",
+  "ep": 2,
+  "video_src": "assets/video/food/r001.mp4"
+ },
+ {
+  "id": "r014",
+  "name": "부대찌개",
+  "title": "캠핑 부대찌개",
+  "category": "pot",
+  "category_name": "한 냄비 국물",
+  "one_line": "한 냄비로 끝내는 저녁",
+  "servings": 3,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "햄·소시지",
+    "amount": "300g",
+    "home_prep": "집에서 썰어 통에"
+   },
+   {
+    "name": "김치",
+    "amount": "1컵"
+   },
+   {
+    "name": "두부",
+    "amount": "반 모",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "라면 사리",
+    "amount": "1개"
+   },
+   {
+    "name": "육수",
+    "amount": "800ml",
+    "home_prep": "얼린 육수면 아이스팩 겸용"
+   },
+   {
+    "name": "양념장",
+    "amount": "3큰술",
+    "home_prep": "고춧가루·간장·다진 마늘 섞어 오기"
+   },
+   {
+    "name": "생수",
+    "amount": "1병",
+    "home_prep": "간 조절용"
+   }
+  ],
+  "home_prep": [
+   "집에서 썰어 통에",
+   "썰어 오기",
+   "얼린 육수면 아이스팩 겸용",
+   "고춧가루·간장·다진 마늘 섞어 오기",
+   "간 조절용"
+  ],
+  "steps": [
+   {
+    "text": "냄비에 재료를 둘러 담고 양념장을 가운데 올려요",
+    "video_at": 17.2
+   },
+   {
+    "text": "육수를 부어 끓여요",
+    "video_at": 17.2
+   },
+   {
+    "text": "끓으면 라면 사리를 넣고 2분 더 끓여요",
+    "video_at": 22.6
+   },
+   {
+    "text": "졸면 생수로 조금씩 간을 맞춰요",
+    "video_at": 27.6
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "냄비째 가운데 두고 각자 컵에 덜어 먹어요",
+    "video_at": 32.8
+   },
+   {
+    "text": "남은 국물에 밥 한 공기로 마무리해요",
+    "video_at": 43.6
+   }
+  ],
+  "camp_tips": [
+   "집에서 썰어 통 하나에 담아 오면 현장에선 육수만 부으면 돼요",
+   "재료를 집에서 한 통에 담아 육수만 붓기"
+  ],
+  "safety": [
+   {
+    "text": "넘치면 버너 불이 꺼지니 국물은 가득 채우지 마세요",
+    "video_at": 38.2
+   }
+  ],
+  "video": {
+   "file": "뭐먹지03-부대찌개.mp4",
+   "duration": 58.01,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "budae_a.jpg",
+   "budae_b.jpg",
+   "budae_eat.jpg",
+   "budae_hook.jpg",
+   "budae_ing.jpg"
+  ],
+  "tags": [
+   "국물",
+   "찌개",
+   "여럿이"
+  ],
+  "slug": "budae",
+  "ep": 3,
+  "video_src": "assets/video/food/r014.mp4"
+ },
+ {
+  "id": "r017",
+  "name": "닭한마리",
+  "title": "캠핑 닭한마리",
+  "category": "pot",
+  "category_name": "한 냄비 국물",
+  "one_line": "추운 밤 몸 녹이는 한 냄비",
+  "servings": 3,
+  "minutes": 40,
+  "difficulty": 2,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "큰 코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "토막 닭",
+    "amount": "1마리(1kg)",
+    "home_prep": "집에서 한 번 데쳐 오기"
+   },
+   {
+    "name": "감자",
+    "amount": "2개"
+   },
+   {
+    "name": "대파",
+    "amount": "2대",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "통마늘",
+    "amount": "10쪽"
+   },
+   {
+    "name": "물",
+    "amount": "2L"
+   },
+   {
+    "name": "간장·겨자·식초",
+    "amount": "소스용",
+    "home_prep": "작은 병으로"
+   },
+   {
+    "name": "칼국수 사리",
+    "amount": "1인분",
+    "optional": true
+   }
+  ],
+  "home_prep": [
+   "집에서 한 번 데쳐 오기",
+   "썰어 오기",
+   "작은 병으로"
+  ],
+  "steps": [
+   {
+    "text": "큰 냄비에 닭·감자·마늘을 넣고 물을 부어요",
+    "video_at": 19.1
+   },
+   {
+    "text": "30분쯤 푹 끓여요",
+    "video_at": 19.1
+   },
+   {
+    "text": "뚜껑을 덮어 가스를 아껴요",
+    "video_at": 30.7
+   },
+   {
+    "text": "대파를 듬뿍 올리고 간장·겨자·식초로 소스를 만들어요",
+    "video_at": 24.8
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "집게로 건져 소스에 찍고 국물은 컵에 담아 마셔요",
+    "video_at": 36.5
+   },
+   {
+    "text": "남은 국물에 칼국수 사리로 마무리해요",
+    "video_at": 47.2
+   }
+  ],
+  "camp_tips": [
+   "닭은 집에서 데쳐 오면 잡내가 없고 시간이 줄어요",
+   "손질 닭 사 와서 한 냄비, 칼국수 사리로 마무리"
+  ],
+  "safety": [
+   {
+    "text": "큰 냄비는 평평한 테이블 가운데에 두세요",
+    "video_at": 42.2
+   }
+  ],
+  "video": {
+   "file": "뭐먹지04-닭한마리.mp4",
+   "duration": 60.78,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "dak_a.jpg",
+   "dak_b.jpg",
+   "dak_eat.jpg",
+   "dak_hook.jpg",
+   "dak_ing.jpg"
+  ],
+  "tags": [
+   "국물",
+   "겨울",
+   "든든"
+  ],
+  "slug": "dakhanmari",
+  "ep": 4,
+  "video_src": "assets/video/food/r017.mp4"
+ },
+ {
+  "id": "r025",
+  "name": "캠핑 라면 업그레이드",
+  "title": "캠핑 라면",
+  "category": "noodle",
+  "category_name": "면 요리",
+  "one_line": "같은 라면, 두 배 맛있게",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "라면",
+    "amount": "2개"
+   },
+   {
+    "name": "남은 고기",
+    "amount": "한 줌"
+   },
+   {
+    "name": "김치",
+    "amount": "반 컵"
+   },
+   {
+    "name": "계란",
+    "amount": "2개"
+   },
+   {
+    "name": "대파",
+    "amount": "반 대",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "물",
+    "amount": "봉지 표시보다 조금 적게"
+   },
+   {
+    "name": "즉석밥",
+    "amount": "반 공기",
+    "optional": true
+   }
+  ],
+  "home_prep": [
+   "썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "물이 끓으면 남은 고기와 김치를 먼저 넣어요",
+    "video_at": 17.9
+   },
+   {
+    "text": "면과 스프를 넣고 끓여요",
+    "video_at": 17.9
+   },
+   {
+    "text": "끄기 30초 전 계란을 넣고 뚜껑을 덮어요",
+    "video_at": 23.1
+   },
+   {
+    "text": "면이 살짝 덜 익었을 때 불을 꺼요",
+    "video_at": 28.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "코펠 뚜껑을 앞접시로 쓰고 냄비째 나눠 먹어요",
+    "video_at": 34.4
+   },
+   {
+    "text": "남은 국물에 즉석밥 반 공기로 마무리해요",
+    "video_at": 45.5
+   }
+  ],
+  "camp_tips": [
+   "물은 봉지 양보다 살짝 적게 잡으면 국물이 진하고 물도 아껴요",
+   "남은 고기·김치 넣고 물은 적게, 코펠째 먹기"
+  ],
+  "safety": [
+   {
+    "text": "코펠 손잡이는 뜨거우니 장갑이나 집게로 잡으세요",
+    "video_at": 39.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지05-캠핑라면.mp4",
+   "duration": 59.93,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "ramen_a.jpg",
+   "ramen_b.jpg",
+   "ramen_eat.jpg",
+   "ramen_hook.jpg",
+   "ramen_ing.jpg"
+  ],
+  "tags": [
+   "면",
+   "간편",
+   "야식"
+  ],
+  "slug": "ramen",
+  "ep": 5,
+  "video_src": "assets/video/food/r025.mp4"
+ },
+ {
+  "id": "r035",
+  "name": "코펠 밥 짓기",
+  "title": "코펠 밥 짓기",
+  "category": "rice",
+  "category_name": "밥·볶음밥",
+  "one_line": "캠핑 밥, 설익지 않게",
+  "servings": 2,
+  "minutes": 30,
+  "difficulty": 2,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "쌀",
+    "amount": "2컵(360ml)",
+    "home_prep": "집에서 씻어 지퍼백에 물과 함께 불려 오기"
+   },
+   {
+    "name": "물",
+    "amount": "쌀 위 손가락 한 마디"
+   },
+   {
+    "name": "누름용 물병",
+    "amount": "1개"
+   }
+  ],
+  "home_prep": [
+   "집에서 씻어 지퍼백에 물과 함께 불려 오기"
+  ],
+  "steps": [
+   {
+    "text": "물은 쌀 위로 손가락 한 마디만큼 맞춰요",
+    "video_at": 19.0
+   },
+   {
+    "text": "센 불로 끓이다 끓어오르면 약불로 줄여요",
+    "video_at": 19.0
+   },
+   {
+    "text": "약불 10분, 불 끄고 10분 뜸을 들여요",
+    "video_at": 24.9
+   },
+   {
+    "text": "뚜껑 위에 물병을 올려 김이 새지 않게 해요",
+    "video_at": 29.6
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "바닥 누룽지에 물을 부어 숭늉까지 먹어요",
+    "video_at": 35.5
+   }
+  ],
+  "camp_tips": [
+   "쌀은 집에서 불려 오면 도착하자마자 지을 수 있어요",
+   "쌀은 씻어 불려 오기, 물은 손등까지, 뚜껑에 돌 올리기"
+  ],
+  "safety": [
+   {
+    "text": "약불은 바람에 꺼지기 쉬우니 바람막이를 두르세요",
+    "video_at": 41.0
+   }
+  ],
+  "video": {
+   "file": "뭐먹지06-코펠밥.mp4",
+   "duration": 60.0,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "rice_a.jpg",
+   "rice_b.jpg",
+   "rice_eat.jpg",
+   "rice_hook.jpg",
+   "rice_ing.jpg"
+  ],
+  "tags": [
+   "밥",
+   "기본기"
+  ],
+  "slug": "koppel-rice",
+  "ep": 6,
+  "video_src": "assets/video/food/r035.mp4"
+ },
+ {
+  "id": "r045",
+  "name": "토스트",
+  "title": "캠핑 토스트",
+  "category": "breakfast",
+  "category_name": "아침·간편식",
+  "one_line": "철수하는 날 10분 아침",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "식빵",
+    "amount": "4장"
+   },
+   {
+    "name": "계란",
+    "amount": "3개",
+    "home_prep": "양배추 채와 섞어 통에 담아 오기"
+   },
+   {
+    "name": "양배추",
+    "amount": "한 줌",
+    "home_prep": "채 썰어 오기"
+   },
+   {
+    "name": "햄·치즈",
+    "amount": "각 2장"
+   },
+   {
+    "name": "버터",
+    "amount": "1큰술"
+   },
+   {
+    "name": "설탕",
+    "amount": "한 꼬집"
+   }
+  ],
+  "home_prep": [
+   "양배추 채와 섞어 통에 담아 오기",
+   "채 썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "팬에 버터를 녹여 식빵을 먼저 구워요",
+    "video_at": 17.2
+   },
+   {
+    "text": "같은 팬에 계란 반죽을 부쳐요",
+    "video_at": 17.2
+   },
+   {
+    "text": "빵에 계란·햄·치즈를 쌓고 설탕 한 꼬집",
+    "video_at": 22.1
+   },
+   {
+    "text": "팬 하나에 순서대로 구워 설거지를 줄여요",
+    "video_at": 29.1
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "종이 호일로 싸서 들고 먹어요",
+    "video_at": 34.3
+   },
+   {
+    "text": "따뜻한 커피를 곁들여요",
+    "video_at": 45.1
+   }
+  ],
+  "camp_tips": [
+   "계란 반죽은 집에서 섞어 오면 아침엔 붓기만 하면 돼요",
+   "팬 하나로 빵·계란·햄 차례로, 철수 날 아침"
+  ],
+  "safety": [
+   {
+    "text": "버터는 금방 타니 약불로 시작하세요",
+    "video_at": 39.9
+   }
+  ],
+  "video": {
+   "file": "뭐먹지07-토스트.mp4",
+   "duration": 58.15,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "toast_a.jpg",
+   "toast_b.jpg",
+   "toast_eat.jpg",
+   "toast_hook.jpg",
+   "toast_ing.jpg"
+  ],
+  "tags": [
+   "아침",
+   "간편",
+   "철수일"
+  ],
+  "slug": "toast",
+  "ep": 7,
+  "video_src": "assets/video/food/r045.mp4"
+ },
+ {
+  "id": "r056",
+  "name": "수육",
+  "title": "캠핑 수육",
+  "category": "dutch",
+  "category_name": "더치오븐·호일 요리",
+  "one_line": "냄비 하나로 촉촉한 보쌈",
+  "servings": 3,
+  "minutes": 50,
+  "difficulty": 2,
+  "season": "겨울",
+  "tools": [
+   "더치오븐",
+   "버너"
+  ],
+  "ingredients": [
+   {
+    "name": "통삼겹 또는 앞다리살",
+    "amount": "800g"
+   },
+   {
+    "name": "된장",
+    "amount": "1큰술",
+    "home_prep": "작은 통에"
+   },
+   {
+    "name": "대파",
+    "amount": "1대"
+   },
+   {
+    "name": "인스턴트 커피",
+    "amount": "1봉"
+   },
+   {
+    "name": "물",
+    "amount": "고기가 잠길 만큼"
+   },
+   {
+    "name": "김치",
+    "amount": "곁들임"
+   }
+  ],
+  "home_prep": [
+   "작은 통에"
+  ],
+  "steps": [
+   {
+    "text": "물에 된장을 풀고 대파·커피를 넣어요",
+    "video_at": 19.2
+   },
+   {
+    "text": "고기를 넣어요",
+    "video_at": 19.2
+   },
+   {
+    "text": "뚜껑 덮고 약불 40분, 젓가락이 쑥 들어가면 완성",
+    "video_at": 25.1
+   },
+   {
+    "text": "5분 쉬었다 썰어요",
+    "video_at": 30.8
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "냄비 뚜껑 위에서 썰어 김치에 싸 먹어요",
+    "video_at": 36.8
+   },
+   {
+    "text": "남은 국물은 다음 날 된장국으로",
+    "video_at": 46.9
+   }
+  ],
+  "camp_tips": [
+   "커피 한 봉이면 잡내가 사라져요",
+   "된장·커피 넣어 잡내 없이, 뚜껑 덮어 약불"
+  ],
+  "safety": [
+   {
+    "text": "오래 끓이는 요리라 가스를 넉넉히 챙기세요",
+    "video_at": 42.2
+   }
+  ],
+  "video": {
+   "file": "뭐먹지08-수육.mp4",
+   "duration": 61.1,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "suyuk_a.jpg",
+   "suyuk_b.jpg",
+   "suyuk_eat.jpg",
+   "suyuk_hook.jpg",
+   "suyuk_ing.jpg"
+  ],
+  "tags": [
+   "고기",
+   "겨울",
+   "여럿이"
+  ],
+  "slug": "suyuk",
+  "ep": 8,
+  "video_src": "assets/video/food/r056.mp4"
+ },
+ {
+  "id": "r073",
+  "name": "군고구마",
+  "title": "모닥불 군고구마",
+  "category": "snack",
+  "category_name": "모닥불 간식·디저트",
+  "one_line": "불멍하며 굽는 겨울 간식",
+  "servings": 3,
+  "minutes": 40,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "호일",
+   "숯"
+  ],
+  "ingredients": [
+   {
+    "name": "고구마",
+    "amount": "4~5개",
+    "home_prep": "집에서 씻어 물기 닦아 오기"
+   },
+   {
+    "name": "쿠킹 호일",
+    "amount": "넉넉히"
+   },
+   {
+    "name": "긴 집게·목장갑",
+    "amount": "각 1"
+   },
+   {
+    "name": "김치",
+    "amount": "곁들임",
+    "optional": true
+   }
+  ],
+  "home_prep": [
+   "집에서 씻어 물기 닦아 오기"
+  ],
+  "steps": [
+   {
+    "text": "고구마를 호일로 두 번 꼼꼼히 감싸요",
+    "video_at": 18.3
+   },
+   {
+    "text": "숯불 옆 재 속에 묻어요",
+    "video_at": 18.3
+   },
+   {
+    "text": "10분마다 굴리고 40분쯤 뒤 꺼내요",
+    "video_at": 23.4
+   },
+   {
+    "text": "센 불꽃 말고 은은한 숯불 옆에서",
+    "video_at": 27.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "젓가락이 쑥 들어가면 호일째 반으로 갈라 먹어요",
+    "video_at": 34.3
+   },
+   {
+    "text": "김치 한 조각 올려 먹어요",
+    "video_at": 45.6
+   }
+  ],
+  "camp_tips": [
+   "고구마는 집에서 씻어 물기를 닦아 오세요",
+   "호일 두 번 감싸 숯 옆에 묻기"
+  ],
+  "safety": [
+   {
+    "text": "아주 뜨거우니 목장갑을 끼고 아이는 식혀서 주세요",
+    "video_at": 40.2
+   }
+  ],
+  "video": {
+   "file": "뭐먹지09-군고구마.mp4",
+   "duration": 58.98,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "goguma_a.jpg",
+   "goguma_b.jpg",
+   "goguma_eat.jpg",
+   "goguma_hook.jpg",
+   "goguma_ing.jpg"
+  ],
+  "tags": [
+   "간식",
+   "모닥불",
+   "겨울"
+  ],
+  "slug": "sweetpotato",
+  "ep": 9,
+  "video_src": "assets/video/food/r073.mp4"
+ },
+ {
+  "id": "r075",
+  "name": "스모어",
+  "title": "모닥불 스모어",
+  "category": "snack",
+  "category_name": "모닥불 간식·디저트",
+  "one_line": "아이들이 제일 좋아하는 디저트",
+  "servings": 4,
+  "minutes": 5,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "꼬치",
+   "모닥불"
+  ],
+  "ingredients": [
+   {
+    "name": "마시멜로",
+    "amount": "1봉"
+   },
+   {
+    "name": "크래커",
+    "amount": "1상자"
+   },
+   {
+    "name": "판 초콜릿",
+    "amount": "1~2개"
+   },
+   {
+    "name": "긴 꼬챙이",
+    "amount": "인원수만큼",
+    "home_prep": "팔 길이만큼 긴 것"
+   }
+  ],
+  "home_prep": [
+   "팔 길이만큼 긴 것"
+  ],
+  "steps": [
+   {
+    "text": "마시멜로를 꼬챙이에 꽂아요",
+    "video_at": 17.1
+   },
+   {
+    "text": "불꽃 말고 숯불 위에서 천천히 돌려 구워요",
+    "video_at": 17.1
+   },
+   {
+    "text": "크래커 위 초콜릿에 올리고 크래커로 꾹 눌러요",
+    "video_at": 23.0
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "아이와 함께 직접 구워 보세요",
+    "video_at": 34.0
+   },
+   {
+    "text": "핫초코를 곁들여요",
+    "video_at": 44.7
+   }
+  ],
+  "camp_tips": [
+   "꼬챙이는 팔 길이만큼 긴 걸로",
+   "마시멜로를 불 위에서 노릇하게, 크래커 사이에"
+  ],
+  "safety": [
+   {
+    "text": "녹은 마시멜로는 뜨거우니 식혀서 먹어요",
+    "video_at": 39.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지10-스모어.mp4",
+   "duration": 58.0,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "smores_a.jpg",
+   "smores_b.jpg",
+   "smores_eat.jpg",
+   "smores_hook.jpg",
+   "smores_ing.jpg"
+  ],
+  "tags": [
+   "디저트",
+   "모닥불",
+   "아이와 함께"
+  ],
+  "slug": "smores",
+  "ep": 10,
+  "video_src": "assets/video/food/r075.mp4"
+ },
+ {
+  "id": "r111",
+  "name": "핫초코",
+  "title": "캠핑 핫초코",
+  "category": "drink",
+  "category_name": "따뜻한 음료",
+  "one_line": "모닥불 앞 따뜻한 한 잔",
+  "servings": 2,
+  "minutes": 5,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "주전자"
+  ],
+  "ingredients": [
+   {
+    "name": "멸균 우유 또는 두유",
+    "amount": "400ml",
+    "home_prep": "실온 보관 팩"
+   },
+   {
+    "name": "코코아 가루",
+    "amount": "3큰술"
+   },
+   {
+    "name": "마시멜로",
+    "amount": "한 줌"
+   },
+   {
+    "name": "보온 컵·보온병",
+    "amount": "각 1"
+   }
+  ],
+  "home_prep": [
+   "실온 보관 팩"
+  ],
+  "steps": [
+   {
+    "text": "코펠에 우유를 붓고 약불에 데워요",
+    "video_at": 18.6
+   },
+   {
+    "text": "코코아를 넣고 잘 저어요",
+    "video_at": 18.6
+   },
+   {
+    "text": "끓기 직전에 불을 꺼요",
+    "video_at": 23.6
+   },
+   {
+    "text": "보온병에 담아 두면 밤새 따뜻해요",
+    "video_at": 28.1
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "마시멜로를 띄우거나 구운 마시멜로를 올려요",
+    "video_at": 33.6
+   },
+   {
+    "text": "별 보며 마셔요",
+    "video_at": 43.4
+   }
+  ],
+  "camp_tips": [
+   "멸균 우유·두유 팩은 실온 보관이라 캠핑에 딱이에요",
+   "마시멜로 띄워 모닥불 앞에서"
+  ],
+  "safety": [
+   {
+    "text": "아이 컵은 손잡이 있는 보온 컵으로, 식혀서 주세요",
+    "video_at": 38.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지11-핫초코.mp4",
+   "duration": 57.04,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "choco_a.jpg",
+   "choco_b.jpg",
+   "choco_eat.jpg",
+   "choco_hook.jpg",
+   "choco_ing.jpg"
+  ],
+  "tags": [
+   "음료",
+   "겨울",
+   "아이와 함께"
+  ],
+  "slug": "hotchoco",
+  "ep": 11,
+  "video_src": "assets/video/food/r111.mp4"
+ },
+ {
+  "id": "r015",
+  "name": "김치찌개",
+  "title": "캠핑 김치찌개",
+  "category": "pot",
+  "category_name": "한 냄비 국물",
+  "one_line": "밥 한 공기 뚝딱 국물",
+  "servings": 2,
+  "minutes": 25,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "잘 익은 김치",
+    "amount": "2컵",
+    "home_prep": "집에서 고기와 볶아 오기"
+   },
+   {
+    "name": "돼지고기(찌개용)",
+    "amount": "200g",
+    "home_prep": "김치와 함께 볶아 오기"
+   },
+   {
+    "name": "두부",
+    "amount": "반 모"
+   },
+   {
+    "name": "대파",
+    "amount": "1대",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "물",
+    "amount": "600ml"
+   },
+   {
+    "name": "즉석밥",
+    "amount": "2개"
+   }
+  ],
+  "home_prep": [
+   "집에서 고기와 볶아 오기",
+   "김치와 함께 볶아 오기",
+   "썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "볶아 온 김치·고기를 냄비에 넣고 물을 자작하게 부어요",
+    "video_at": 18.6
+   },
+   {
+    "text": "두부를 넣고 대파를 올려 한소끔",
+    "video_at": 23.5
+   },
+   {
+    "text": "너무 시면 물을 조금 더",
+    "video_at": 28.7
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "냄비째 두고 즉석밥과 함께 먹어요",
+    "video_at": 34.0
+   },
+   {
+    "text": "남은 국물엔 라면 사리",
+    "video_at": 45.0
+   }
+  ],
+  "camp_tips": [
+   "김치·고기는 집에서 볶아 오면 현장에선 물만 부으면 돼요",
+   "김치·고기 볶아 오기, 현장에선 물 붓고 끓이기만"
+  ],
+  "safety": [
+   {
+    "text": "중불로 줄이고 자리를 비우지 마세요",
+    "video_at": 38.9
+   }
+  ],
+  "video": {
+   "file": "뭐먹지12-김치찌개.mp4",
+   "duration": 58.71,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "kimchi_a.jpg",
+   "kimchi_b.jpg",
+   "kimchi_eat.jpg",
+   "kimchi_hook.jpg",
+   "kimchi_ing.jpg"
+  ],
+  "tags": [
+   "국물",
+   "찌개",
+   "밥도둑"
+  ],
+  "slug": "kimchi-jjigae",
+  "ep": 12,
+  "video_src": "assets/video/food/r015.mp4"
+ },
+ {
+  "id": "r016",
+  "name": "된장찌개",
+  "title": "캠핑 된장찌개",
+  "category": "pot",
+  "category_name": "한 냄비 국물",
+  "one_line": "얼린 육수로 끝내는 한 끼",
+  "servings": 2,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "된장",
+    "amount": "2큰술",
+    "home_prep": "작은 통에"
+   },
+   {
+    "name": "얼린 육수",
+    "amount": "600ml",
+    "home_prep": "지퍼백에 얼려 아이스팩으로"
+   },
+   {
+    "name": "감자",
+    "amount": "1개",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "애호박",
+    "amount": "반 개",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "두부",
+    "amount": "반 모"
+   }
+  ],
+  "home_prep": [
+   "작은 통에",
+   "지퍼백에 얼려 아이스팩으로",
+   "썰어 오기",
+   "썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "녹은 육수에 된장을 풀고 감자부터 익혀요",
+    "video_at": 18.6
+   },
+   {
+    "text": "애호박·두부를 넣고 5분 더",
+    "video_at": 23.0
+   },
+   {
+    "text": "된장은 한 숟가락씩 맛보며",
+    "video_at": 27.4
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "코펠째 두고 컵에 덜어 먹어요",
+    "video_at": 32.2
+   },
+   {
+    "text": "남은 찌개는 아침 된장죽으로",
+    "video_at": 42.5
+   }
+  ],
+  "camp_tips": [
+   "얼린 육수는 아이스팩 겸 찌개 국물",
+   "된장 풀어 얼린 육수 큐브로 아이스팩 겸용"
+  ],
+  "safety": [
+   {
+    "text": "평평한 곳에서 끓이세요",
+    "video_at": 37.3
+   }
+  ],
+  "video": {
+   "file": "뭐먹지13-된장찌개.mp4",
+   "duration": 56.71,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "doenjang_a.jpg",
+   "doenjang_b.jpg",
+   "doenjang_eat.jpg",
+   "doenjang_hook.jpg",
+   "doenjang_ing.jpg"
+  ],
+  "tags": [
+   "국물",
+   "찌개",
+   "아침"
+  ],
+  "slug": "doenjang-jjigae",
+  "ep": 13,
+  "video_src": "assets/video/food/r016.mp4"
+ },
+ {
+  "id": "r018",
+  "name": "샤브샤브",
+  "title": "캠핑 샤브샤브",
+  "category": "pot",
+  "category_name": "한 냄비 국물",
+  "one_line": "끓는 육수에 살랑살랑",
+  "servings": 3,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "샤브용 소고기",
+    "amount": "400g",
+    "home_prep": "접시째 랩 씌워 오기"
+   },
+   {
+    "name": "배추·숙주",
+    "amount": "한 봉",
+    "home_prep": "씻어 오기"
+   },
+   {
+    "name": "버섯",
+    "amount": "한 줌"
+   },
+   {
+    "name": "육수 큐브",
+    "amount": "2개"
+   },
+   {
+    "name": "물",
+    "amount": "1.2L"
+   },
+   {
+    "name": "찍어 먹을 소스",
+    "amount": "작은 병"
+   }
+  ],
+  "home_prep": [
+   "접시째 랩 씌워 오기",
+   "씻어 오기"
+  ],
+  "steps": [
+   {
+    "text": "육수 큐브를 녹여 끓이고 배추·버섯부터",
+    "video_at": 17.2
+   },
+   {
+    "text": "고기는 열 번 흔들어 익혀요",
+    "video_at": 21.5
+   },
+   {
+    "text": "한두 점씩 넣어 육수가 식지 않게",
+    "video_at": 26.4
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "컵에 소스 담아 찍어 먹어요",
+    "video_at": 31.2
+   },
+   {
+    "text": "남은 육수엔 칼국수나 죽",
+    "video_at": 41.8
+   }
+  ],
+  "camp_tips": [
+   "고기·채소는 접시째 랩을 씌워 오세요",
+   "고기·채소 접시째 포장, 육수는 큐브"
+  ],
+  "safety": [
+   {
+    "text": "긴 젓가락을 쓰고 아이는 조심",
+    "video_at": 36.2
+   }
+  ],
+  "video": {
+   "file": "뭐먹지14-샤브샤브.mp4",
+   "duration": 55.88,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "shabu_a.jpg",
+   "shabu_b.jpg",
+   "shabu_eat.jpg",
+   "shabu_hook.jpg",
+   "shabu_ing.jpg"
+  ],
+  "tags": [
+   "국물",
+   "겨울",
+   "여럿이"
+  ],
+  "slug": "shabu",
+  "ep": 14,
+  "video_src": "assets/video/food/r018.mp4"
+ },
+ {
+  "id": "r019",
+  "name": "밀푀유나베",
+  "title": "캠핑 밀푀유나베",
+  "category": "pot",
+  "category_name": "한 냄비 국물",
+  "one_line": "집에서 쌓고 현장에선 불만",
+  "servings": 3,
+  "minutes": 25,
+  "difficulty": 2,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "배추",
+    "amount": "1/4통"
+   },
+   {
+    "name": "깻잎",
+    "amount": "20장"
+   },
+   {
+    "name": "샤브용 소고기",
+    "amount": "300g"
+   },
+   {
+    "name": "버섯",
+    "amount": "한 줌"
+   },
+   {
+    "name": "육수",
+    "amount": "800ml"
+   },
+   {
+    "name": "폰즈 소스",
+    "amount": "작은 병"
+   }
+  ],
+  "home_prep": [],
+  "steps": [
+   {
+    "text": "배추·깻잎·고기를 겹겹이 쌓아 썰어요",
+    "video_at": 17.3
+   },
+   {
+    "text": "냄비에 동그랗게 둘러 담아요",
+    "video_at": 17.3
+   },
+   {
+    "text": "버섯 올리고 육수 부어 뚜껑 덮고 15분",
+    "video_at": 22.9
+   },
+   {
+    "text": "육수는 재료가 반쯤 잠기게",
+    "video_at": 28.4
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "냄비째 두고 소스에 찍어요",
+    "video_at": 34.2
+   },
+   {
+    "text": "남은 국물엔 우동 사리",
+    "video_at": 45.3
+   }
+  ],
+  "camp_tips": [
+   "집에서 냄비에 쌓아 랩으로 감싸 오세요",
+   "집에서 냄비에 쌓아 랩 씌워 오기, 현장에선 불만"
+  ],
+  "safety": [
+   {
+    "text": "뚜껑 열 때 김에 주의, 장갑 끼기",
+    "video_at": 39.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지15-밀푀유나베.mp4",
+   "duration": 59.08,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "mille_a.jpg",
+   "mille_b.jpg",
+   "mille_eat.jpg",
+   "mille_hook.jpg",
+   "mille_ing.jpg"
+  ],
+  "tags": [
+   "국물",
+   "겨울",
+   "분위기"
+  ],
+  "slug": "millefeuille",
+  "ep": 15,
+  "video_src": "assets/video/food/r019.mp4"
+ },
+ {
+  "id": "r020",
+  "name": "순두부찌개",
+  "title": "캠핑 순두부찌개",
+  "category": "pot",
+  "category_name": "한 냄비 국물",
+  "one_line": "칼 없이 끓이는 1인 냄비",
+  "servings": 1,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "작은 코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "튜브 순두부",
+    "amount": "1개"
+   },
+   {
+    "name": "계란",
+    "amount": "1개"
+   },
+   {
+    "name": "바지락",
+    "amount": "한 줌",
+    "home_prep": "해감해 오기"
+   },
+   {
+    "name": "순두부 양념장",
+    "amount": "2큰술"
+   },
+   {
+    "name": "물",
+    "amount": "300ml"
+   },
+   {
+    "name": "즉석밥",
+    "amount": "1개"
+   }
+  ],
+  "home_prep": [
+   "해감해 오기"
+  ],
+  "steps": [
+   {
+    "text": "물과 양념장을 끓여요",
+    "video_at": 16.2
+   },
+   {
+    "text": "바지락과 순두부를 짜 넣어요",
+    "video_at": 16.2
+   },
+   {
+    "text": "끓으면 계란을 톡",
+    "video_at": 21.5
+   },
+   {
+    "text": "계란은 휘젓지 않기",
+    "video_at": 26.1
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "1인 냄비째 즉석밥과 함께",
+    "video_at": 31.4
+   },
+   {
+    "text": "추운 아침 해장으로",
+    "video_at": 42.7
+   }
+  ],
+  "camp_tips": [
+   "튜브 순두부는 칼 없이 짜 넣어요",
+   "튜브 순두부라 칼 필요 없음, 1인 냄비로"
+  ],
+  "safety": [
+   {
+    "text": "불은 약하게, 손잡이는 장갑으로",
+    "video_at": 36.3
+   }
+  ],
+  "video": {
+   "file": "뭐먹지16-순두부찌개.mp4",
+   "duration": 57.08,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "sundubu_a.jpg",
+   "sundubu_b.jpg",
+   "sundubu_eat.jpg",
+   "sundubu_hook.jpg",
+   "sundubu_ing.jpg"
+  ],
+  "tags": [
+   "국물",
+   "1인",
+   "아침"
+  ],
+  "slug": "sundubu",
+  "ep": 16,
+  "video_src": "assets/video/food/r020.mp4"
+ },
+ {
+  "id": "r029",
+  "name": "칼국수",
+  "title": "캠핑 칼국수",
+  "category": "noodle",
+  "category_name": "면 요리",
+  "one_line": "냄비 하나로 끝내는 면 요리",
+  "servings": 2,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "생칼국수 면",
+    "amount": "2인분"
+   },
+   {
+    "name": "애호박",
+    "amount": "반 개",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "감자",
+    "amount": "1개",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "바지락 또는 멸치 육수",
+    "amount": "1L"
+   },
+   {
+    "name": "김치",
+    "amount": "곁들임"
+   }
+  ],
+  "home_prep": [
+   "썰어 오기",
+   "썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "육수가 끓으면 감자·애호박을 넣어요",
+    "video_at": 17.4
+   },
+   {
+    "text": "면의 밀가루를 털어 넣어요",
+    "video_at": 17.4
+   },
+   {
+    "text": "저어 가며 7분",
+    "video_at": 22.8
+   },
+   {
+    "text": "밀가루는 가볍게 털기",
+    "video_at": 27.8
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "냄비째 두고 컵에 덜어 김치와",
+    "video_at": 33.0
+   },
+   {
+    "text": "남은 국물에 밥",
+    "video_at": 43.1
+   }
+  ],
+  "camp_tips": [
+   "면을 육수에 바로 넣어 냄비 하나로",
+   "생면 사 오기, 면을 육수에 바로 넣어 냄비 하나"
+  ],
+  "safety": [
+   {
+    "text": "넘치기 쉬우니 불 줄이기",
+    "video_at": 38.0
+   }
+  ],
+  "video": {
+   "file": "뭐먹지17-칼국수.mp4",
+   "duration": 56.99,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "kalgu_a.jpg",
+   "kalgu_b.jpg",
+   "kalgu_eat.jpg",
+   "kalgu_hook.jpg",
+   "kalgu_ing.jpg"
+  ],
+  "tags": [
+   "면",
+   "국물",
+   "겨울"
+  ],
+  "slug": "kalguksu",
+  "ep": 17,
+  "video_src": "assets/video/food/r029.mp4"
+ },
+ {
+  "id": "r050",
+  "name": "떡국",
+  "title": "캠핑 떡국",
+  "category": "breakfast",
+  "category_name": "아침·간편식",
+  "one_line": "새해 아침, 캠핑장에서",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "떡국 떡",
+    "amount": "2인분",
+    "home_prep": "물에 불려 오기"
+   },
+   {
+    "name": "사골 육수 팩",
+    "amount": "1개(500ml)"
+   },
+   {
+    "name": "계란",
+    "amount": "1개"
+   },
+   {
+    "name": "김가루·대파",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "물에 불려 오기"
+  ],
+  "steps": [
+   {
+    "text": "사골 육수에 불린 떡을 넣어요",
+    "video_at": 15.6
+   },
+   {
+    "text": "떡이 떠오를 때까지 끓여요",
+    "video_at": 15.6
+   },
+   {
+    "text": "계란을 풀어 둘러 넣어요",
+    "video_at": 21.1
+   },
+   {
+    "text": "떠오르고 1분이면 충분",
+    "video_at": 25.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "컵에 덜어 김가루·대파",
+    "video_at": 30.9
+   },
+   {
+    "text": "새해 첫 캠핑 아침으로",
+    "video_at": 40.6
+   }
+  ],
+  "camp_tips": [
+   "떡은 지퍼백에 물과 함께 불려 오세요",
+   "사골 육수 팩 + 떡, 새해 캠핑 아침"
+  ],
+  "safety": [
+   {
+    "text": "버너는 바람 막고 텐트 밖에서",
+    "video_at": 35.4
+   }
+  ],
+  "video": {
+   "file": "뭐먹지18-떡국.mp4",
+   "duration": 53.92,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "tteokguk_a.jpg",
+   "tteokguk_b.jpg",
+   "tteokguk_eat.jpg",
+   "tteokguk_hook.jpg",
+   "tteokguk_ing.jpg"
+  ],
+  "tags": [
+   "아침",
+   "겨울",
+   "새해"
+  ],
+  "slug": "tteokguk",
+  "ep": 18,
+  "video_src": "assets/video/food/r050.mp4"
+ },
+ {
+  "id": "r074",
+  "name": "군밤",
+  "title": "모닥불 군밤",
+  "category": "snack",
+  "category_name": "모닥불 간식·디저트",
+  "one_line": "타닥타닥 겨울 간식",
+  "servings": 3,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "군밤 망",
+   "화로"
+  ],
+  "ingredients": [
+   {
+    "name": "생밤",
+    "amount": "30개",
+    "home_prep": "집에서 십자 칼집 내 오기"
+   },
+   {
+    "name": "군밤 망 또는 구멍 팬",
+    "amount": "1개"
+   },
+   {
+    "name": "목장갑",
+    "amount": "1켤레"
+   }
+  ],
+  "home_prep": [
+   "집에서 십자 칼집 내 오기"
+  ],
+  "steps": [
+   {
+    "text": "칼집 낸 밤을 망에 담아요",
+    "video_at": 18.1
+   },
+   {
+    "text": "숯불 위에서 흔들며 구워요",
+    "video_at": 18.1
+   },
+   {
+    "text": "껍질이 벌어지면 15분쯤 꺼내요",
+    "video_at": 22.5
+   },
+   {
+    "text": "칼집은 꼭 내기",
+    "video_at": 27.7
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "목장갑 끼고 까서 따뜻할 때",
+    "video_at": 33.3
+   },
+   {
+    "text": "남으면 다음 날 밤밥",
+    "video_at": 42.7
+   }
+  ],
+  "camp_tips": [
+   "칼집은 집에서 미리 내 오세요",
+   "칼집 필수, 망째 흔들며"
+  ],
+  "safety": [
+   {
+    "text": "손잡이는 길게, 불티에 얼굴 가까이 대지 않기",
+    "video_at": 37.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지19-군밤.mp4",
+   "duration": 55.85,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "gunbam_a.jpg",
+   "gunbam_b.jpg",
+   "gunbam_eat.jpg",
+   "gunbam_hook.jpg",
+   "gunbam_ing.jpg"
+  ],
+  "tags": [
+   "간식",
+   "모닥불",
+   "겨울"
+  ],
+  "slug": "gunbam",
+  "ep": 19,
+  "video_src": "assets/video/food/r074.mp4"
+ },
+ {
+  "id": "r078",
+  "name": "호떡",
+  "title": "캠핑 호떡",
+  "category": "snack",
+  "category_name": "모닥불 간식·디저트",
+  "one_line": "꿀이 주르륵 겨울 간식",
+  "servings": 4,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "호떡 믹스",
+    "amount": "1상자",
+    "home_prep": "집에서 지퍼백에 반죽해 오기"
+   },
+   {
+    "name": "물",
+    "amount": "믹스 표시대로"
+   },
+   {
+    "name": "식용유",
+    "amount": "2큰술"
+   },
+   {
+    "name": "종이컵",
+    "amount": "몇 개",
+    "home_prep": "누르개 겸 그릇"
+   }
+  ],
+  "home_prep": [
+   "집에서 지퍼백에 반죽해 오기",
+   "누르개 겸 그릇"
+  ],
+  "steps": [
+   {
+    "text": "반죽에 설탕 소를 넣어 오므려요",
+    "video_at": 17.8
+   },
+   {
+    "text": "기름 두른 팬에 올려요",
+    "video_at": 17.8
+   },
+   {
+    "text": "뒤집어 종이컵 바닥으로 꾹",
+    "video_at": 22.5
+   },
+   {
+    "text": "약불에서 천천히",
+    "video_at": 27.6
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "종이컵에 반 접어 들고 먹어요",
+    "video_at": 33.5
+   },
+   {
+    "text": "따뜻한 차와 함께",
+    "video_at": 42.6
+   }
+  ],
+  "camp_tips": [
+   "반죽은 지퍼백에 섞어 오면 짜서 쓰기 좋아요",
+   "시판 호떡 믹스, 누르개 대신 컵 바닥"
+  ],
+  "safety": [
+   {
+    "text": "설탕 속이 뜨거우니 아이는 식혀서",
+    "video_at": 38.0
+   }
+  ],
+  "video": {
+   "file": "뭐먹지20-호떡.mp4",
+   "duration": 56.14,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "hotteok_a.jpg",
+   "hotteok_b.jpg",
+   "hotteok_eat.jpg",
+   "hotteok_hook.jpg",
+   "hotteok_ing.jpg"
+  ],
+  "tags": [
+   "간식",
+   "겨울",
+   "아이와 함께"
+  ],
+  "slug": "hotteok",
+  "ep": 20,
+  "video_src": "assets/video/food/r078.mp4"
+ },
+ {
+  "id": "r108",
+  "name": "굴찜",
+  "title": "겨울 굴찜",
+  "category": "season",
+  "category_name": "계절 특선",
+  "one_line": "제철 굴, 통째로 쪄 먹기",
+  "servings": 4,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "큰 코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "각굴(껍질째)",
+    "amount": "3kg",
+    "home_prep": "산 날 바로, 아이스박스 보관"
+   },
+   {
+    "name": "물",
+    "amount": "2컵"
+   },
+   {
+    "name": "목장갑·굴 칼",
+    "amount": "각 1"
+   },
+   {
+    "name": "초장",
+    "amount": "작은 병",
+    "optional": true
+   }
+  ],
+  "home_prep": [
+   "산 날 바로, 아이스박스 보관"
+  ],
+  "steps": [
+   {
+    "text": "냄비에 물을 조금 붓고 굴을 담아요",
+    "video_at": 18.9
+   },
+   {
+    "text": "뚜껑을 덮어요",
+    "video_at": 18.9
+   },
+   {
+    "text": "김이 오르고 10분, 입이 벌어지면 완성",
+    "video_at": 24.0
+   },
+   {
+    "text": "입 안 벌린 굴은 빼기",
+    "video_at": 29.0
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "장갑 끼고 칼로 열어 먹어요",
+    "video_at": 34.2
+   },
+   {
+    "text": "남은 국물에 라면이나 죽",
+    "video_at": 45.0
+   }
+  ],
+  "camp_tips": [
+   "굴은 산 날 바로, 이동 중엔 아이스박스에",
+   "각굴 통째로 찜, 목장갑 필수"
+  ],
+  "safety": [
+   {
+    "text": "껍데기가 날카로우니 장갑 필수",
+    "video_at": 38.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지21-굴찜.mp4",
+   "duration": 59.23,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "gul_a.jpg",
+   "gul_b.jpg",
+   "gul_eat.jpg",
+   "gul_hook.jpg",
+   "gul_ing.jpg"
+  ],
+  "tags": [
+   "해산물",
+   "겨울",
+   "제철"
+  ],
+  "slug": "guljjim",
+  "ep": 21,
+  "video_src": "assets/video/food/r108.mp4"
+ },
+ {
+  "id": "r002",
+  "name": "목살 스테이크",
+  "title": "캠핑 목살 스테이크",
+  "category": "grill",
+  "category_name": "숯불·화로 구이",
+  "one_line": "겉은 바삭, 속은 촉촉",
+  "servings": 3,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "목살",
+    "amount": "600g",
+    "home_prep": "2cm 두께로 썰어 오기"
+   },
+   {
+    "name": "굵은소금·후추",
+    "amount": "조금"
+   },
+   {
+    "name": "통마늘",
+    "amount": "한 줌"
+   },
+   {
+    "name": "쌈 채소",
+    "amount": "한 봉",
+    "home_prep": "씻어 오기"
+   }
+  ],
+  "home_prep": [
+   "2cm 두께로 썰어 오기",
+   "씻어 오기"
+  ],
+  "steps": [
+   {
+    "text": "숯이 하얘지면 올려 센 불에 한 면 3분씩",
+    "video_at": 17.3
+   },
+   {
+    "text": "가장자리로 옮겨 뚜껑 덮고 속까지",
+    "video_at": 22.5
+   },
+   {
+    "text": "한 번만 뒤집기",
+    "video_at": 28.2
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "가위로 잘라 구운 마늘·쌈과 함께",
+    "video_at": 32.5
+   },
+   {
+    "text": "남으면 다음 날 볶음밥",
+    "video_at": 44.1
+   }
+  ],
+  "camp_tips": [
+   "2cm 두께로 썰어 와야 겉은 바삭, 속은 촉촉",
+   "두툼하게 썰어 와 겉은 센 불, 속은 가장자리에서"
+  ],
+  "safety": [
+   {
+    "text": "기름 불길 주의, 긴 집게 쓰기",
+    "video_at": 38.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지22-목살 스테이크.mp4",
+   "duration": 57.76,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "moksal_a.jpg",
+   "moksal_b.jpg",
+   "moksal_eat.jpg",
+   "moksal_hook.jpg",
+   "moksal_ing.jpg"
+  ],
+  "tags": [
+   "고기",
+   "숯불",
+   "메인"
+  ],
+  "slug": "moksal-steak",
+  "ep": 22,
+  "video_src": "assets/video/food/r002.mp4"
+ },
+ {
+  "id": "r003",
+  "name": "등심 스테이크",
+  "title": "캠핑 등심 스테이크",
+  "category": "grill",
+  "category_name": "숯불·화로 구이",
+  "one_line": "무쇠팬 하나로 레스토랑처럼",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 2,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "무쇠팬"
+  ],
+  "ingredients": [
+   {
+    "name": "소고기 등심",
+    "amount": "400g",
+    "home_prep": "굽기 30분 전 꺼내 두기"
+   },
+   {
+    "name": "굵은소금",
+    "amount": "조금"
+   },
+   {
+    "name": "버터",
+    "amount": "1조각"
+   },
+   {
+    "name": "로즈메리",
+    "amount": "2줄기"
+   },
+   {
+    "name": "호일",
+    "amount": "조금",
+    "home_prep": "레스팅용"
+   }
+  ],
+  "home_prep": [
+   "굽기 30분 전 꺼내 두기",
+   "레스팅용"
+  ],
+  "steps": [
+   {
+    "text": "팬을 연기 날 때까지 달궈 한 면씩 2분",
+    "video_at": 18.6
+   },
+   {
+    "text": "버터·로즈메리를 넣고 끼얹기",
+    "video_at": 24.2
+   },
+   {
+    "text": "호일에 싸서 5분 쉬기",
+    "video_at": 29.0
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "결 반대로 썰어 소금만",
+    "video_at": 34.4
+   },
+   {
+    "text": "남은 버터에 마늘 굽기",
+    "video_at": 44.8
+   }
+  ],
+  "camp_tips": [
+   "굽기 30분 전에 아이스박스에서 꺼내 두기",
+   "아이스박스에서 30분 꺼내 두고 굽기, 레스팅은 호일로"
+  ],
+  "safety": [
+   {
+    "text": "달군 팬 손잡이는 장갑으로",
+    "video_at": 39.0
+   }
+  ],
+  "video": {
+   "file": "뭐먹지23-등심 스테이크.mp4",
+   "duration": 59.19,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "sirloin_a.jpg",
+   "sirloin_b.jpg",
+   "sirloin_eat.jpg",
+   "sirloin_hook.jpg",
+   "sirloin_ing.jpg"
+  ],
+  "tags": [
+   "고기",
+   "무쇠팬",
+   "분위기"
+  ],
+  "slug": "sirloin-steak",
+  "ep": 23,
+  "video_src": "assets/video/food/r003.mp4"
+ },
+ {
+  "id": "r004",
+  "name": "양갈비",
+  "title": "캠핑 양갈비",
+  "category": "grill",
+  "category_name": "숯불·화로 구이",
+  "one_line": "뼈째 들고 뜯는 맛",
+  "servings": 3,
+  "minutes": 20,
+  "difficulty": 2,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "양갈비(프렌치랙)",
+    "amount": "8대",
+    "home_prep": "집에서 시즈닝해 지퍼백"
+   },
+   {
+    "name": "올리브유",
+    "amount": "2큰술"
+   },
+   {
+    "name": "소금·후추",
+    "amount": "조금"
+   },
+   {
+    "name": "쯔란",
+    "amount": "작은 통"
+   }
+  ],
+  "home_prep": [
+   "집에서 시즈닝해 지퍼백"
+  ],
+  "steps": [
+   {
+    "text": "숯이 하얘지면 한 면씩 3분",
+    "video_at": 15.2
+   },
+   {
+    "text": "뼈 쪽 세워 2분, 쯔란 뿌리기",
+    "video_at": 20.6
+   },
+   {
+    "text": "속은 분홍빛이 살짝 남게",
+    "video_at": 26.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "뼈째 손으로, 쯔란 찍어",
+    "video_at": 31.9
+   },
+   {
+    "text": "뼈·기름은 따로 모아 치우기",
+    "video_at": 41.9
+   }
+  ],
+  "camp_tips": [
+   "집에서 시즈닝해 지퍼백 숙성",
+   "집에서 시즈닝해 지퍼백 숙성, 뼈째 손으로"
+  ],
+  "safety": [
+   {
+    "text": "불길이 솟으면 잠깐 옆으로",
+    "video_at": 36.6
+   }
+  ],
+  "video": {
+   "file": "뭐먹지24-양갈비.mp4",
+   "duration": 55.51,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "lamb_a.jpg",
+   "lamb_b.jpg",
+   "lamb_eat.jpg",
+   "lamb_hook.jpg",
+   "lamb_ing.jpg"
+  ],
+  "tags": [
+   "고기",
+   "숯불",
+   "특별한 날"
+  ],
+  "slug": "lamb-chops",
+  "ep": 24,
+  "video_src": "assets/video/food/r004.mp4"
+ },
+ {
+  "id": "r005",
+  "name": "닭다리 바비큐",
+  "title": "캠핑 닭다리 바비큐",
+  "category": "grill",
+  "category_name": "숯불·화로 구이",
+  "one_line": "뚜껑 덮어 속까지 촉촉",
+  "servings": 3,
+  "minutes": 35,
+  "difficulty": 2,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "닭다리",
+    "amount": "8개",
+    "home_prep": "칼집 내 양념에 재워 오기"
+   },
+   {
+    "name": "바비큐 소스",
+    "amount": "1병"
+   },
+   {
+    "name": "소금",
+    "amount": "조금"
+   },
+   {
+    "name": "호일",
+    "amount": "조금",
+    "home_prep": "손잡이용"
+   }
+  ],
+  "home_prep": [
+   "칼집 내 양념에 재워 오기",
+   "손잡이용"
+  ],
+  "steps": [
+   {
+    "text": "숯은 한쪽, 닭다리는 반대편에 올려 뚜껑",
+    "video_at": 17.2
+   },
+   {
+    "text": "30분 뒤 소스 바르고 겉만 살짝",
+    "video_at": 22.0
+   },
+   {
+    "text": "소스는 마지막에",
+    "video_at": 27.8
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "뼈에 호일 감아 손으로",
+    "video_at": 32.8
+   },
+   {
+    "text": "남으면 살 발라 라면·볶음밥",
+    "video_at": 42.7
+   }
+  ],
+  "camp_tips": [
+   "칼집 내 재워 오면 현장에선 굽기만",
+   "칼집 내 양념 재워 오기, 뚜껑 덮어 속까지"
+  ],
+  "safety": [
+   {
+    "text": "뼈 근처까지 속까지 익히기",
+    "video_at": 37.2
+   }
+  ],
+  "video": {
+   "file": "뭐먹지25-닭다리 바비큐.mp4",
+   "duration": 56.47,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "chicken_a.jpg",
+   "chicken_b.jpg",
+   "chicken_eat.jpg",
+   "chicken_hook.jpg",
+   "chicken_ing.jpg"
+  ],
+  "tags": [
+   "고기",
+   "아이와 함께",
+   "숯불"
+  ],
+  "slug": "chicken-bbq",
+  "ep": 25,
+  "video_src": "assets/video/food/r005.mp4"
+ },
+ {
+  "id": "r008",
+  "name": "조개구이",
+  "title": "캠핑 조개구이",
+  "category": "grill",
+  "category_name": "숯불·화로 구이",
+  "one_line": "입 벌리면 바로 한 입",
+  "servings": 3,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "가리비·키조개·모시조개",
+    "amount": "2kg",
+    "home_prep": "집에서 해감해 오기"
+   },
+   {
+    "name": "버터",
+    "amount": "1조각"
+   },
+   {
+    "name": "초장",
+    "amount": "작은 병"
+   },
+   {
+    "name": "목장갑",
+    "amount": "1켤레"
+   }
+  ],
+  "home_prep": [
+   "집에서 해감해 오기"
+  ],
+  "steps": [
+   {
+    "text": "석쇠를 달궈 조개를 올려요",
+    "video_at": 16.1
+   },
+   {
+    "text": "입이 열리면 버터 한 조각",
+    "video_at": 20.6
+   },
+   {
+    "text": "안 열리는 조개는 버리기",
+    "video_at": 25.1
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "껍데기째 들고 국물까지",
+    "video_at": 30.6
+   },
+   {
+    "text": "남은 국물에 라면",
+    "video_at": 40.2
+   }
+  ],
+  "camp_tips": [
+   "해감은 집에서 소금물로",
+   "해감은 집에서, 입 벌리면 바로 먹기"
+  ],
+  "safety": [
+   {
+    "text": "국물이 튈 수 있으니 얼굴은 멀리",
+    "video_at": 35.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지26-조개구이.mp4",
+   "duration": 54.38,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "clam_a.jpg",
+   "clam_b.jpg",
+   "clam_eat.jpg",
+   "clam_hook.jpg",
+   "clam_ing.jpg"
+  ],
+  "tags": [
+   "해산물",
+   "숯불",
+   "바다"
+  ],
+  "slug": "clam-grill",
+  "ep": 26,
+  "video_src": "assets/video/food/r008.mp4"
+ },
+ {
+  "id": "r009",
+  "name": "소시지 구이",
+  "title": "캠핑 소시지 구이",
+  "category": "grill",
+  "category_name": "숯불·화로 구이",
+  "one_line": "꼬치에 꽂아 접시 없이",
+  "servings": 4,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "굵은 소시지",
+    "amount": "8개"
+   },
+   {
+    "name": "나무 꼬치",
+    "amount": "8개",
+    "home_prep": "물에 담가 오기"
+   },
+   {
+    "name": "머스터드·케첩",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "물에 담가 오기"
+  ],
+  "steps": [
+   {
+    "text": "칼집 내 꼬치에 꽂아 가장자리에",
+    "video_at": 15.4
+   },
+   {
+    "text": "굴려 가며 10분",
+    "video_at": 20.4
+   },
+   {
+    "text": "센 불 한가운데는 피하기",
+    "video_at": 25.1
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "꼬치째 들고 머스터드",
+    "video_at": 31.1
+   },
+   {
+    "text": "남으면 아침 계란 볶음",
+    "video_at": 40.2
+   }
+  ],
+  "camp_tips": [
+   "나무 꼬치는 물에 담가 오세요",
+   "칼집 내 굽고 꼬치에 꽂아 접시 없이"
+  ],
+  "safety": [
+   {
+    "text": "아이는 앉아서 먹기",
+    "video_at": 35.6
+   }
+  ],
+  "video": {
+   "file": "뭐먹지27-소시지 구이.mp4",
+   "duration": 53.85,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "sausage_a.jpg",
+   "sausage_b.jpg",
+   "sausage_eat.jpg",
+   "sausage_hook.jpg",
+   "sausage_ing.jpg"
+  ],
+  "tags": [
+   "아이와 함께",
+   "간식",
+   "숯불"
+  ],
+  "slug": "sausage",
+  "ep": 27,
+  "video_src": "assets/video/food/r009.mp4"
+ },
+ {
+  "id": "r010",
+  "name": "오징어 버터구이",
+  "title": "통오징어 버터구이",
+  "category": "grill",
+  "category_name": "숯불·화로 구이",
+  "one_line": "가위로 잘라 먹는 밤 안주",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "무쇠팬"
+  ],
+  "ingredients": [
+   {
+    "name": "손질 통오징어",
+    "amount": "2마리",
+    "home_prep": "지퍼백에 얼려 오기"
+   },
+   {
+    "name": "버터",
+    "amount": "1조각"
+   },
+   {
+    "name": "간장",
+    "amount": "2큰술"
+   },
+   {
+    "name": "마요네즈",
+    "amount": "조금",
+    "home_prep": "찍어 먹기용"
+   }
+  ],
+  "home_prep": [
+   "지퍼백에 얼려 오기",
+   "찍어 먹기용"
+  ],
+  "steps": [
+   {
+    "text": "몸통에 칼집 내 버터 팬에",
+    "video_at": 15.7
+   },
+   {
+    "text": "말리면 간장 한 바퀴",
+    "video_at": 20.9
+   },
+   {
+    "text": "하얗게 익으면 바로 꺼내기",
+    "video_at": 25.6
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "가위로 잘라 마요간장에",
+    "video_at": 30.4
+   },
+   {
+    "text": "남은 다리는 라면에",
+    "video_at": 40.1
+   }
+  ],
+  "camp_tips": [
+   "얼려 오면 아이스팩 겸용",
+   "손질 오징어 지퍼백으로, 가위로 잘라 먹기"
+  ],
+  "safety": [
+   {
+    "text": "중불로 줄이고 팬을 움직이기",
+    "video_at": 35.0
+   }
+  ],
+  "video": {
+   "file": "뭐먹지28-오징어 버터구이.mp4",
+   "duration": 53.5,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "squid_a.jpg",
+   "squid_b.jpg",
+   "squid_eat.jpg",
+   "squid_hook.jpg",
+   "squid_ing.jpg"
+  ],
+  "tags": [
+   "안주",
+   "해산물",
+   "야식"
+  ],
+  "slug": "squid-butter",
+  "ep": 28,
+  "video_src": "assets/video/food/r010.mp4"
+ },
+ {
+  "id": "r011",
+  "name": "버섯 모둠구이",
+  "title": "버섯 모둠구이",
+  "category": "grill",
+  "category_name": "숯불·화로 구이",
+  "one_line": "소금 하나로 고기 못지않게",
+  "servings": 3,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "가을",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "새송이·표고·느타리·양송이",
+    "amount": "모둠 한 바구니",
+    "home_prep": "씻지 말고 닦아 오기"
+   },
+   {
+    "name": "소금",
+    "amount": "조금"
+   },
+   {
+    "name": "참기름",
+    "amount": "2큰술",
+    "home_prep": "구운 뒤에"
+   }
+  ],
+  "home_prep": [
+   "씻지 말고 닦아 오기",
+   "구운 뒤에"
+  ],
+  "steps": [
+   {
+    "text": "새송이는 길게, 표고는 기둥 떼기",
+    "video_at": 15.6
+   },
+   {
+    "text": "표고에 물이 고이면 소금 톡",
+    "video_at": 20.2
+   },
+   {
+    "text": "참기름은 구운 뒤에",
+    "video_at": 25.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "쌈에 싸거나 소금장에",
+    "video_at": 30.5
+   },
+   {
+    "text": "남으면 라면·된장찌개에",
+    "video_at": 40.2
+   }
+  ],
+  "camp_tips": [
+   "버섯은 씻지 말고 닦아 오세요",
+   "씻지 말고 키친타월로 닦아 오기, 소금만"
+  ],
+  "safety": [
+   {
+    "text": "야생 버섯은 절대 금지",
+    "video_at": 35.3
+   }
+  ],
+  "video": {
+   "file": "뭐먹지29-버섯 모둠구이.mp4",
+   "duration": 53.74,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "mush_a.jpg",
+   "mush_b.jpg",
+   "mush_eat.jpg",
+   "mush_hook.jpg",
+   "mush_ing.jpg"
+  ],
+  "tags": [
+   "채소",
+   "숯불",
+   "곁들임"
+  ],
+  "slug": "mushroom-grill",
+  "ep": 29,
+  "video_src": "assets/video/food/r011.mp4"
+ },
+ {
+  "id": "r021",
+  "name": "곱창전골",
+  "title": "캠핑 곱창전골",
+  "category": "pot",
+  "category_name": "한 냄비 국물",
+  "one_line": "밀키트로 끝내는 진한 국물",
+  "servings": 3,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "곱창전골 밀키트",
+    "amount": "1팩(3인분)",
+    "home_prep": "지퍼백에 옮겨 오기"
+   },
+   {
+    "name": "당면",
+    "amount": "한 줌",
+    "home_prep": "불려 오기"
+   },
+   {
+    "name": "대파",
+    "amount": "1대"
+   },
+   {
+    "name": "물",
+    "amount": "표시선만큼"
+   }
+  ],
+  "home_prep": [
+   "지퍼백에 옮겨 오기",
+   "불려 오기"
+  ],
+  "steps": [
+   {
+    "text": "밀키트를 붓고 물을 표시선만큼",
+    "video_at": 16.1
+   },
+   {
+    "text": "당면·대파 넣고 5분",
+    "video_at": 20.9
+   },
+   {
+    "text": "중불에서 물 조금씩",
+    "video_at": 25.7
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "냄비째 두고 컵에 덜어",
+    "video_at": 31.6
+   },
+   {
+    "text": "남은 국물에 볶음밥",
+    "video_at": 42.4
+   }
+  ],
+  "camp_tips": [
+   "밀키트는 지퍼백에 옮겨 쓰레기 줄이기",
+   "밀키트를 지퍼백에 옮겨 쓰레기 줄이기"
+  ],
+  "safety": [
+   {
+    "text": "넘치기 쉬우니 중불, 평평한 곳",
+    "video_at": 36.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지30-곱창전골.mp4",
+   "duration": 56.36,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "gopchang_a.jpg",
+   "gopchang_b.jpg",
+   "gopchang_eat.jpg",
+   "gopchang_hook.jpg",
+   "gopchang_ing.jpg"
+  ],
+  "tags": [
+   "국물",
+   "밀키트",
+   "겨울"
+  ],
+  "slug": "gopchang-jeongol",
+  "ep": 30,
+  "video_src": "assets/video/food/r021.mp4"
+ },
+ {
+  "id": "r023",
+  "name": "우동 전골",
+  "title": "캠핑 우동 전골",
+  "category": "pot",
+  "category_name": "한 냄비 국물",
+  "one_line": "쯔유 한 병이면 끝",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "우동 사리",
+    "amount": "2개"
+   },
+   {
+    "name": "모둠 어묵",
+    "amount": "1봉"
+   },
+   {
+    "name": "청경채",
+    "amount": "한 줌"
+   },
+   {
+    "name": "쯔유",
+    "amount": "1병",
+    "home_prep": "물과 1:4로"
+   }
+  ],
+  "home_prep": [
+   "물과 1:4로"
+  ],
+  "steps": [
+   {
+    "text": "쯔유 육수에 어묵 먼저",
+    "video_at": 16.2
+   },
+   {
+    "text": "우동 넣고 2분",
+    "video_at": 20.4
+   },
+   {
+    "text": "청경채는 불 끄기 직전",
+    "video_at": 25.6
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "냄비째 두고 컵에 덜어",
+    "video_at": 30.7
+   },
+   {
+    "text": "남은 국물에 계란탕",
+    "video_at": 41.6
+   }
+  ],
+  "camp_tips": [
+   "쯔유와 물 1:4면 육수 완성",
+   "우동 사리·어묵·쑥갓, 국물은 쯔유 한 병"
+  ],
+  "safety": [
+   {
+    "text": "우동 넣으면 불 조금 줄이기",
+    "video_at": 35.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지31-우동 전골.mp4",
+   "duration": 55.83,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "udon_a.jpg",
+   "udon_b.jpg",
+   "udon_eat.jpg",
+   "udon_hook.jpg",
+   "udon_ing.jpg"
+  ],
+  "tags": [
+   "면",
+   "국물",
+   "겨울"
+  ],
+  "slug": "udon-jeongol",
+  "ep": 31,
+  "video_src": "assets/video/food/r023.mp4"
+ },
+ {
+  "id": "r022",
+  "name": "해물탕",
+  "title": "캠핑 해물탕",
+  "category": "pot",
+  "category_name": "한 냄비 국물",
+  "one_line": "한 냄비 가득 바다 맛",
+  "servings": 3,
+  "minutes": 30,
+  "difficulty": 2,
+  "season": "가을",
+  "tools": [
+   "버너",
+   "큰 코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "냉동 해물 모둠",
+    "amount": "1봉",
+    "home_prep": "얼려 와 아이스팩 겸용"
+   },
+   {
+    "name": "꽃게",
+    "amount": "2마리",
+    "home_prep": "손질해 얼려 오기"
+   },
+   {
+    "name": "무·콩나물",
+    "amount": "조금"
+   },
+   {
+    "name": "해물탕 양념",
+    "amount": "1봉"
+   },
+   {
+    "name": "물",
+    "amount": "1.2L"
+   }
+  ],
+  "home_prep": [
+   "얼려 와 아이스팩 겸용",
+   "손질해 얼려 오기"
+  ],
+  "steps": [
+   {
+    "text": "무 먼저 끓이고 양념 풀기",
+    "video_at": 15.5
+   },
+   {
+    "text": "꽃게·해물 넣고 10분",
+    "video_at": 20.0
+   },
+   {
+    "text": "조개가 열리면 불 줄이기",
+    "video_at": 24.0
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "냄비째 두고 손으로 발라",
+    "video_at": 29.2
+   },
+   {
+    "text": "남은 국물에 라면·밥",
+    "video_at": 38.2
+   }
+  ],
+  "camp_tips": [
+   "손질 해물을 얼려 아이스팩 겸용으로",
+   "손질 해물 얼려 와 아이스팩 겸용"
+  ],
+  "safety": [
+   {
+    "text": "꽃게 껍데기는 장갑 끼고",
+    "video_at": 34.0
+   }
+  ],
+  "video": {
+   "file": "뭐먹지32-해물탕.mp4",
+   "duration": 52.08,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "haemul_a.jpg",
+   "haemul_b.jpg",
+   "haemul_eat.jpg",
+   "haemul_hook.jpg",
+   "haemul_ing.jpg"
+  ],
+  "tags": [
+   "국물",
+   "해산물",
+   "여럿이"
+  ],
+  "slug": "haemultang",
+  "ep": 32,
+  "video_src": "assets/video/food/r022.mp4"
+ },
+ {
+  "id": "r024",
+  "name": "감자 수제비",
+  "title": "캠핑 감자 수제비",
+  "category": "pot",
+  "category_name": "한 냄비 국물",
+  "one_line": "손으로 뚝뚝, 비 오는 날 한 그릇",
+  "servings": 2,
+  "minutes": 30,
+  "difficulty": 2,
+  "season": "가을",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "수제비 반죽",
+    "amount": "2인분",
+    "home_prep": "지퍼백에 숙성해 오기"
+   },
+   {
+    "name": "감자",
+    "amount": "1개",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "애호박",
+    "amount": "반 개",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "멸치 육수",
+    "amount": "1L"
+   }
+  ],
+  "home_prep": [
+   "지퍼백에 숙성해 오기",
+   "썰어 오기",
+   "썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "육수에 감자 넣어 끓이기",
+    "video_at": 15.8
+   },
+   {
+    "text": "반죽을 얇게 뜯어 넣기",
+    "video_at": 15.8
+   },
+   {
+    "text": "떠오르면 애호박 넣고 3분",
+    "video_at": 20.2
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "냄비째, 컵에 덜어 김치와",
+    "video_at": 29.6
+   },
+   {
+    "text": "아이와 함께 반죽 뜯기",
+    "video_at": 39.7
+   }
+  ],
+  "camp_tips": [
+   "반죽은 지퍼백에 숙성해 오기",
+   "반죽은 집에서 지퍼백, 손으로 뜯어 넣기"
+  ],
+  "safety": [
+   {
+    "text": "국물이 튀지 않게 손은 낮게",
+    "video_at": 33.9
+   }
+  ],
+  "video": {
+   "file": "뭐먹지33-감자 수제비.mp4",
+   "duration": 53.14,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "sujebi_a.jpg",
+   "sujebi_b.jpg",
+   "sujebi_eat.jpg",
+   "sujebi_hook.jpg",
+   "sujebi_ing.jpg"
+  ],
+  "tags": [
+   "국물",
+   "비 오는 날",
+   "아이와 함께"
+  ],
+  "slug": "sujebi",
+  "ep": 33,
+  "video_src": "assets/video/food/r024.mp4"
+ },
+ {
+  "id": "r032",
+  "name": "짬뽕 라면",
+  "title": "캠핑 짬뽕 라면",
+  "category": "noodle",
+  "category_name": "면 요리",
+  "one_line": "해물 듬뿍, 얼큰한 야식",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "짬뽕 라면",
+    "amount": "2봉"
+   },
+   {
+    "name": "냉동 해물 믹스",
+    "amount": "1봉"
+   },
+   {
+    "name": "양배추",
+    "amount": "한 줌",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "대파",
+    "amount": "반 대"
+   }
+  ],
+  "home_prep": [
+   "썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "해물·양배추 먼저 볶기",
+    "video_at": 15.2
+   },
+   {
+    "text": "물 붓고 끓으면 면·스프 넣고 4분",
+    "video_at": 19.5
+   },
+   {
+    "text": "물은 표시보다 조금 적게",
+    "video_at": 23.6
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "코펠째, 해물은 건져서",
+    "video_at": 29.1
+   },
+   {
+    "text": "남은 국물에 짬뽕밥",
+    "video_at": 38.8
+   }
+  ],
+  "camp_tips": [
+   "냉동 해물 믹스로 손질 없이",
+   "냉동 해물 믹스로 손질 없이"
+  ],
+  "safety": [
+   {
+    "text": "볶을 때 기름 튐, 장갑 끼기",
+    "video_at": 33.4
+   }
+  ],
+  "video": {
+   "file": "뭐먹지34-짬뽕 라면.mp4",
+   "duration": 52.91,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "jjamppong_a.jpg",
+   "jjamppong_b.jpg",
+   "jjamppong_eat.jpg",
+   "jjamppong_hook.jpg",
+   "jjamppong_ing.jpg"
+  ],
+  "tags": [
+   "면",
+   "야식",
+   "얼큰"
+  ],
+  "slug": "jjamppong-ramen",
+  "ep": 34,
+  "video_src": "assets/video/food/r032.mp4"
+ },
+ {
+  "id": "r041",
+  "name": "누룽지탕",
+  "title": "캠핑 누룽지탕",
+  "category": "rice",
+  "category_name": "밥·볶음밥",
+  "one_line": "추운 아침, 물만 부으면 끝",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "시판 누룽지",
+    "amount": "2인분"
+   },
+   {
+    "name": "물",
+    "amount": "누룽지의 세 배"
+   },
+   {
+    "name": "김치·젓갈",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [],
+  "steps": [
+   {
+    "text": "물 끓여 누룽지 부숴 넣기",
+    "video_at": 15.2
+   },
+   {
+    "text": "약불 5분",
+    "video_at": 18.9
+   },
+   {
+    "text": "물은 누룽지의 세 배",
+    "video_at": 23.0
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "컵에 덜어 김치 올려",
+    "video_at": 28.0
+   },
+   {
+    "text": "철수 날 아침에",
+    "video_at": 37.5
+   }
+  ],
+  "camp_tips": [
+   "가볍고 안 상해 비상식량으로도",
+   "시판 누룽지에 물만, 해장 아침으로"
+  ],
+  "safety": [
+   {
+    "text": "텐트 안 버너 금지, 환기",
+    "video_at": 31.9
+   }
+  ],
+  "video": {
+   "file": "뭐먹지35-누룽지탕.mp4",
+   "duration": 51.24,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "nurung_a.jpg",
+   "nurung_b.jpg",
+   "nurung_eat.jpg",
+   "nurung_hook.jpg",
+   "nurung_ing.jpg"
+  ],
+  "tags": [
+   "아침",
+   "간편",
+   "겨울"
+  ],
+  "slug": "nurungji-tang",
+  "ep": 35,
+  "video_src": "assets/video/food/r041.mp4"
+ },
+ {
+  "id": "r062",
+  "name": "찜닭",
+  "title": "더치오븐 찜닭",
+  "category": "dutch",
+  "category_name": "더치오븐·호일 요리",
+  "one_line": "당면까지 쫄깃하게",
+  "servings": 3,
+  "minutes": 40,
+  "difficulty": 2,
+  "season": "겨울",
+  "tools": [
+   "더치오븐",
+   "버너"
+  ],
+  "ingredients": [
+   {
+    "name": "닭(닭볶음탕용)",
+    "amount": "1마리",
+    "home_prep": "양념에 재워 오기"
+   },
+   {
+    "name": "감자·당근",
+    "amount": "각 1개",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "당면",
+    "amount": "한 줌",
+    "home_prep": "불려 오기"
+   },
+   {
+    "name": "찜닭 양념",
+    "amount": "1봉"
+   }
+  ],
+  "home_prep": [
+   "양념에 재워 오기",
+   "썰어 오기",
+   "불려 오기"
+  ],
+  "steps": [
+   {
+    "text": "닭·감자·당근 넣고 물 조금",
+    "video_at": 18.0
+   },
+   {
+    "text": "뚜껑 덮고 약불 30분",
+    "video_at": 23.4
+   },
+   {
+    "text": "당면은 마지막 5분",
+    "video_at": 23.4
+   },
+   {
+    "text": "당면은 처음부터 넣지 않기",
+    "video_at": 28.5
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "더치오븐째, 당면부터",
+    "video_at": 33.7
+   },
+   {
+    "text": "남은 양념에 볶음밥",
+    "video_at": 43.7
+   }
+  ],
+  "camp_tips": [
+   "닭은 양념에 재워 오기",
+   "양념 재워 오기, 당면은 마지막에"
+  ],
+  "safety": [
+   {
+    "text": "뚜껑은 리프터·두꺼운 장갑으로",
+    "video_at": 37.9
+   }
+  ],
+  "video": {
+   "file": "뭐먹지36-찜닭.mp4",
+   "duration": 56.61,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "jjimdak_a.jpg",
+   "jjimdak_b.jpg",
+   "jjimdak_eat.jpg",
+   "jjimdak_hook.jpg",
+   "jjimdak_ing.jpg"
+  ],
+  "tags": [
+   "더치오븐",
+   "메인",
+   "여럿이"
+  ],
+  "slug": "jjimdak",
+  "ep": 36,
+  "video_src": "assets/video/food/r062.mp4"
+ },
+ {
+  "id": "r063",
+  "name": "갈비찜",
+  "title": "캠핑 갈비찜",
+  "category": "dutch",
+  "category_name": "더치오븐·호일 요리",
+  "one_line": "특별한 날, 더치오븐으로",
+  "servings": 4,
+  "minutes": 40,
+  "difficulty": 2,
+  "season": "겨울",
+  "tools": [
+   "더치오븐",
+   "버너"
+  ],
+  "ingredients": [
+   {
+    "name": "소갈비",
+    "amount": "1.2kg",
+    "home_prep": "집에서 삶아 핏물 빼 오기"
+   },
+   {
+    "name": "무·당근",
+    "amount": "조금",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "밤",
+    "amount": "한 줌"
+   },
+   {
+    "name": "갈비 양념",
+    "amount": "1병"
+   }
+  ],
+  "home_prep": [
+   "집에서 삶아 핏물 빼 오기",
+   "썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "갈비·채소 넣고 양념 붓기",
+    "video_at": 17.1
+   },
+   {
+    "text": "약불 20분, 자작해질 때까지",
+    "video_at": 21.5
+   },
+   {
+    "text": "약불에서 가끔 뒤적이기",
+    "video_at": 26.4
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "더치오븐째, 뼈는 손으로",
+    "video_at": 31.3
+   },
+   {
+    "text": "남은 국물에 당면·밥",
+    "video_at": 40.2
+   }
+  ],
+  "camp_tips": [
+   "집에서 삶아 핏물 빼 오면 졸이기만",
+   "집에서 반쯤 익혀 와 데우며 졸이기"
+  ],
+  "safety": [
+   {
+    "text": "아이는 식혀서 덜어 주기",
+    "video_at": 35.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지37-갈비찜.mp4",
+   "duration": 54.15,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "galbi_a.jpg",
+   "galbi_b.jpg",
+   "galbi_eat.jpg",
+   "galbi_hook.jpg",
+   "galbi_ing.jpg"
+  ],
+  "tags": [
+   "더치오븐",
+   "특별한 날",
+   "메인"
+  ],
+  "slug": "galbijjim",
+  "ep": 37,
+  "video_src": "assets/video/food/r063.mp4"
+ },
+ {
+  "id": "r082",
+  "name": "가래떡 구이",
+  "title": "숯불 가래떡 구이",
+  "category": "snack",
+  "category_name": "모닥불 간식·디저트",
+  "one_line": "겉바속쫀 겨울 간식",
+  "servings": 3,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "가래떡",
+    "amount": "6줄",
+    "home_prep": "냉동은 녹여 오기"
+   },
+   {
+    "name": "꿀·조청",
+    "amount": "작은 병"
+   },
+   {
+    "name": "석쇠",
+    "amount": "1개"
+   },
+   {
+    "name": "나무 꼬치",
+    "amount": "몇 개"
+   }
+  ],
+  "home_prep": [
+   "냉동은 녹여 오기"
+  ],
+  "steps": [
+   {
+    "text": "은근한 숯불에 올려 자주 굴리기",
+    "video_at": 14.6
+   },
+   {
+    "text": "노릇하게 부풀면 5분",
+    "video_at": 19.1
+   },
+   {
+    "text": "숯이 사그라든 뒤 굽기",
+    "video_at": 24.2
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "꼬치에 꽂아 꿀 찍기",
+    "video_at": 29.5
+   },
+   {
+    "text": "남은 떡은 라면·떡볶이에",
+    "video_at": 38.8
+   }
+  ],
+  "camp_tips": [
+   "굳은 떡도 구우면 말랑",
+   "꿀 찍어 먹기, 굳은 떡도 구우면 말랑"
+  ],
+  "safety": [
+   {
+    "text": "속이 뜨거우니 아이는 식혀서",
+    "video_at": 33.9
+   }
+  ],
+  "video": {
+   "file": "뭐먹지38-가래떡 구이.mp4",
+   "duration": 52.31,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "garae_a.jpg",
+   "garae_b.jpg",
+   "garae_eat.jpg",
+   "garae_hook.jpg",
+   "garae_ing.jpg"
+  ],
+  "tags": [
+   "간식",
+   "모닥불",
+   "겨울"
+  ],
+  "slug": "garaetteok",
+  "ep": 38,
+  "video_src": "assets/video/food/r082.mp4"
+ },
+ {
+  "id": "r087",
+  "name": "치즈 퐁듀",
+  "title": "캠핑 치즈 퐁듀",
+  "category": "kids",
+  "category_name": "아이와 함께",
+  "one_line": "쭈욱 늘어나는 겨울 간식",
+  "servings": 3,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "작은 코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "슬라이스 치즈",
+    "amount": "10장"
+   },
+   {
+    "name": "우유",
+    "amount": "1컵"
+   },
+   {
+    "name": "빵·소시지·브로콜리",
+    "amount": "한입 크기로",
+    "home_prep": "집에서 썰어 오기"
+   },
+   {
+    "name": "나무 꼬치",
+    "amount": "10개"
+   }
+  ],
+  "home_prep": [
+   "집에서 썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "우유 데우고 치즈 넣어 약불에서",
+    "video_at": 15.0
+   },
+   {
+    "text": "녹으면 가장 약한 불로",
+    "video_at": 19.6
+   },
+   {
+    "text": "센 불 금지",
+    "video_at": 24.2
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "꼬치에 꽂아 찍어 먹기",
+    "video_at": 30.0
+   },
+   {
+    "text": "남은 치즈는 토스트로",
+    "video_at": 38.1
+   }
+  ],
+  "camp_tips": [
+   "재료는 한입 크기로 썰어 오기",
+   "빵·소시지 꼬치에 찍어 먹기"
+  ],
+  "safety": [
+   {
+    "text": "코펠은 테이블 가운데",
+    "video_at": 34.0
+   }
+  ],
+  "video": {
+   "file": "뭐먹지39-치즈 퐁듀.mp4",
+   "duration": 51.83,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "fondue_a.jpg",
+   "fondue_b.jpg",
+   "fondue_eat.jpg",
+   "fondue_hook.jpg",
+   "fondue_ing.jpg"
+  ],
+  "tags": [
+   "아이와 함께",
+   "간식",
+   "겨울"
+  ],
+  "slug": "cheese-fondue",
+  "ep": 39,
+  "video_src": "assets/video/food/r087.mp4"
+ },
+ {
+  "id": "r112",
+  "name": "무알콜 뱅쇼",
+  "title": "무알콜 뱅쇼",
+  "category": "drink",
+  "category_name": "따뜻한 음료",
+  "one_line": "아이도 함께 마시는 따뜻한 한 잔",
+  "servings": 4,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "겨울",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "포도주스",
+    "amount": "1L"
+   },
+   {
+    "name": "오렌지·사과",
+    "amount": "각 1개",
+    "home_prep": "썰어 지퍼백에"
+   },
+   {
+    "name": "시나몬 스틱",
+    "amount": "2개"
+   },
+   {
+    "name": "꿀",
+    "amount": "2큰술"
+   }
+  ],
+  "home_prep": [
+   "썰어 지퍼백에"
+  ],
+  "steps": [
+   {
+    "text": "포도주스에 과일·시나몬 넣어 데우기",
+    "video_at": 16.4
+   },
+   {
+    "text": "끓기 직전 약불 15분",
+    "video_at": 20.6
+   },
+   {
+    "text": "팔팔 끓이지 않기",
+    "video_at": 25.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "컵에 덜어 오렌지 띄우기",
+    "video_at": 30.3
+   },
+   {
+    "text": "모닥불 앞에서 한 잔",
+    "video_at": 39.8
+   }
+  ],
+  "camp_tips": [
+   "과일은 썰어 지퍼백에",
+   "포도주스·시나몬·과일로 아이도 함께"
+  ],
+  "safety": [
+   {
+    "text": "아이에겐 한 김 식혀서",
+    "video_at": 34.9
+   }
+  ],
+  "video": {
+   "file": "뭐먹지40-무알콜 뱅쇼.mp4",
+   "duration": 53.05,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "vinchaud_a.jpg",
+   "vinchaud_b.jpg",
+   "vinchaud_eat.jpg",
+   "vinchaud_hook.jpg",
+   "vinchaud_ing.jpg"
+  ],
+  "tags": [
+   "음료",
+   "겨울",
+   "아이와 함께"
+  ],
+  "slug": "vin-chaud",
+  "ep": 40,
+  "video_src": "assets/video/food/r112.mp4"
+ },
+ {
+  "id": "r113",
+  "name": "드립 커피",
+  "title": "캠핑 드립 커피",
+  "category": "drink",
+  "category_name": "따뜻한 음료",
+  "one_line": "아침 안개 속 한 잔",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "주전자"
+  ],
+  "ingredients": [
+   {
+    "name": "원두(분쇄)",
+    "amount": "30g",
+    "home_prep": "집에서 갈아 지퍼백"
+   },
+   {
+    "name": "드리퍼·필터",
+    "amount": "1세트"
+   },
+   {
+    "name": "물",
+    "amount": "500ml",
+    "home_prep": "끓여서 잠깐 식히기"
+   }
+  ],
+  "home_prep": [
+   "집에서 갈아 지퍼백",
+   "끓여서 잠깐 식히기"
+  ],
+  "steps": [
+   {
+    "text": "물 끓여 잠깐 식히기",
+    "video_at": 15.5
+   },
+   {
+    "text": "원두를 살짝 적시기",
+    "video_at": 15.5
+   },
+   {
+    "text": "30초 뜸, 원을 그리며 붓기",
+    "video_at": 19.9
+   },
+   {
+    "text": "끓는 물 바로 붓지 않기",
+    "video_at": 25.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "모닥불 옆에서 두 손으로",
+    "video_at": 30.6
+   },
+   {
+    "text": "찌꺼기는 말려 냄새 제거제로",
+    "video_at": 40.5
+   }
+  ],
+  "camp_tips": [
+   "원두는 집에서 갈아 오기",
+   "원두는 집에서 갈아 오기"
+  ],
+  "safety": [
+   {
+    "text": "뜨거운 물, 주변 아이 확인",
+    "video_at": 35.4
+   }
+  ],
+  "video": {
+   "file": "뭐먹지41-드립 커피.mp4",
+   "duration": 54.59,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "drip_a.jpg",
+   "drip_b.jpg",
+   "drip_eat.jpg",
+   "drip_hook.jpg",
+   "drip_ing.jpg"
+  ],
+  "tags": [
+   "음료",
+   "아침",
+   "분위기"
+  ],
+  "slug": "drip-coffee",
+  "ep": 41,
+  "video_src": "assets/video/food/r113.mp4"
+ },
+ {
+  "id": "r036",
+  "name": "김치볶음밥",
+  "title": "캠핑 김치볶음밥",
+  "category": "rice",
+  "category_name": "밥·볶음밥",
+  "one_line": "고기 굽던 팬 그대로",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "즉석밥",
+    "amount": "2개",
+    "home_prep": "미리 데우기"
+   },
+   {
+    "name": "잘 익은 김치",
+    "amount": "1컵"
+   },
+   {
+    "name": "참기름",
+    "amount": "1큰술"
+   },
+   {
+    "name": "계란",
+    "amount": "2개"
+   },
+   {
+    "name": "김가루",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "미리 데우기"
+  ],
+  "steps": [
+   {
+    "text": "김치 먼저 볶고 즉석밥 넣어 꾹꾹",
+    "video_at": 16.4
+   },
+   {
+    "text": "참기름 두르고 계란 프라이",
+    "video_at": 21.5
+   },
+   {
+    "text": "즉석밥은 데워서 풀어 넣기",
+    "video_at": 25.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "팬째, 누룽지까지",
+    "video_at": 30.6
+   },
+   {
+    "text": "김가루 솔솔",
+    "video_at": 40.1
+   }
+  ],
+  "camp_tips": [
+   "고기 구운 팬을 그대로",
+   "즉석밥 사용, 고기 구운 팬에 그대로"
+  ],
+  "safety": [
+   {
+    "text": "기름 남은 팬은 센 불 피하기",
+    "video_at": 35.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지42-김치볶음밥.mp4",
+   "duration": 53.66,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "kfried_a.jpg",
+   "kfried_b.jpg",
+   "kfried_eat.jpg",
+   "kfried_hook.jpg",
+   "kfried_ing.jpg"
+  ],
+  "tags": [
+   "밥",
+   "마무리",
+   "간편"
+  ],
+  "slug": "kimchi-fried-rice",
+  "ep": 42,
+  "video_src": "assets/video/food/r036.mp4"
+ },
+ {
+  "id": "r037",
+  "name": "삼겹살 볶음밥",
+  "title": "삼겹살 볶음밥",
+  "category": "rice",
+  "category_name": "밥·볶음밥",
+  "one_line": "고기 다 먹은 팬의 2차전",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "무쇠팬"
+  ],
+  "ingredients": [
+   {
+    "name": "남은 삼겹살",
+    "amount": "몇 점",
+    "home_prep": "가위로 잘게"
+   },
+   {
+    "name": "즉석밥",
+    "amount": "2개"
+   },
+   {
+    "name": "김치",
+    "amount": "한 줌"
+   },
+   {
+    "name": "고추장",
+    "amount": "1큰술"
+   },
+   {
+    "name": "김가루",
+    "amount": "한 줌"
+   }
+  ],
+  "home_prep": [
+   "가위로 잘게"
+  ],
+  "steps": [
+   {
+    "text": "기름 남은 팬에 고기·김치 볶기",
+    "video_at": 16.9
+   },
+   {
+    "text": "밥·고추장·김가루 넣고 비벼 볶기",
+    "video_at": 21.5
+   },
+   {
+    "text": "기름이 많으면 덜어내기",
+    "video_at": 26.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "숯불 가장자리에서 바삭하게",
+    "video_at": 31.4
+   },
+   {
+    "text": "기름은 식혀 키친타월로",
+    "video_at": 41.5
+   }
+  ],
+  "camp_tips": [
+   "고기 몇 점은 남겨 두기",
+   "고기 다 먹은 팬에 밥·김치·김가루"
+  ],
+  "safety": [
+   {
+    "text": "무쇠팬은 맨손 금지",
+    "video_at": 35.9
+   }
+  ],
+  "video": {
+   "file": "뭐먹지43-삼겹살 볶음밥.mp4",
+   "duration": 54.59,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "samgbap_a.jpg",
+   "samgbap_b.jpg",
+   "samgbap_eat.jpg",
+   "samgbap_hook.jpg",
+   "samgbap_ing.jpg"
+  ],
+  "tags": [
+   "밥",
+   "마무리",
+   "숯불"
+  ],
+  "slug": "samgyeop-fried-rice",
+  "ep": 43,
+  "video_src": "assets/video/food/r037.mp4"
+ },
+ {
+  "id": "r038",
+  "name": "구운 주먹밥",
+  "title": "화로 구운 주먹밥",
+  "category": "rice",
+  "category_name": "밥·볶음밥",
+  "one_line": "한 손에 쏙, 겉바속촉",
+  "servings": 4,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "없음"
+  ],
+  "ingredients": [
+   {
+    "name": "밥",
+    "amount": "2공기",
+    "home_prep": "김자반 섞어 오기"
+   },
+   {
+    "name": "참치 마요",
+    "amount": "1캔"
+   },
+   {
+    "name": "김자반",
+    "amount": "한 봉"
+   },
+   {
+    "name": "비닐장갑",
+    "amount": "몇 장"
+   }
+  ],
+  "home_prep": [
+   "김자반 섞어 오기"
+  ],
+  "steps": [
+   {
+    "text": "김자반 섞고 참치 마요 넣어 쥐기",
+    "video_at": 16.0
+   },
+   {
+    "text": "석쇠에 앞뒤로 노릇하게",
+    "video_at": 20.9
+   },
+   {
+    "text": "살살 쥐기",
+    "video_at": 25.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "호일에 싸서 들고 다니며",
+    "video_at": 31.2
+   },
+   {
+    "text": "간장 발라 굽기",
+    "video_at": 40.9
+   }
+  ],
+  "camp_tips": [
+   "집에서 비닐장갑째 싸 오기",
+   "집에서 비닐장갑째 싸 오기, 화로에 살짝 굽기"
+  ],
+  "safety": [
+   {
+    "text": "더운 날은 아이스박스 보관",
+    "video_at": 35.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지44-구운 주먹밥.mp4",
+   "duration": 54.75,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "jumeok_a.jpg",
+   "jumeok_b.jpg",
+   "jumeok_eat.jpg",
+   "jumeok_hook.jpg",
+   "jumeok_ing.jpg"
+  ],
+  "tags": [
+   "밥",
+   "아침",
+   "간편"
+  ],
+  "slug": "jumeokbap",
+  "ep": 44,
+  "video_src": "assets/video/food/r038.mp4"
+ },
+ {
+  "id": "r039",
+  "name": "카레라이스",
+  "title": "캠핑 카레라이스",
+  "category": "rice",
+  "category_name": "밥·볶음밥",
+  "one_line": "한 냄비로 여럿이 든든하게",
+  "servings": 3,
+  "minutes": 25,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "고형 카레",
+    "amount": "4조각"
+   },
+   {
+    "name": "감자·당근·양파",
+    "amount": "각 1개",
+    "home_prep": "깍둑 썰어 오기"
+   },
+   {
+    "name": "돼지고기",
+    "amount": "200g"
+   },
+   {
+    "name": "즉석밥",
+    "amount": "3개"
+   },
+   {
+    "name": "물",
+    "amount": "700ml"
+   }
+  ],
+  "home_prep": [
+   "깍둑 썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "고기·채소 볶고 물 부어 끓이기",
+    "video_at": 17.6
+   },
+   {
+    "text": "불 끄고 카레 녹여 약불 5분",
+    "video_at": 22.6
+   },
+   {
+    "text": "카레는 불 끄고 넣기",
+    "video_at": 27.4
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "뚜껑을 접시로, 카레 듬뿍",
+    "video_at": 32.0
+   },
+   {
+    "text": "남으면 카레 우동",
+    "video_at": 42.3
+   }
+  ],
+  "camp_tips": [
+   "채소는 깍둑 썰어 지퍼백",
+   "채소 썰어 오기, 카레는 고형으로"
+  ],
+  "safety": [
+   {
+    "text": "약불에서 바닥까지 젓기",
+    "video_at": 37.2
+   }
+  ],
+  "video": {
+   "file": "뭐먹지45-카레라이스.mp4",
+   "duration": 55.52,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "curry_a.jpg",
+   "curry_b.jpg",
+   "curry_eat.jpg",
+   "curry_hook.jpg",
+   "curry_ing.jpg"
+  ],
+  "tags": [
+   "밥",
+   "여럿이",
+   "아이와 함께"
+  ],
+  "slug": "curry-rice",
+  "ep": 45,
+  "video_src": "assets/video/food/r039.mp4"
+ },
+ {
+  "id": "r040",
+  "name": "오므라이스",
+  "title": "캠핑 오므라이스",
+  "category": "rice",
+  "category_name": "밥·볶음밥",
+  "one_line": "폭신한 계란 이불",
+  "servings": 2,
+  "minutes": 20,
+  "difficulty": 2,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "즉석밥",
+    "amount": "2개"
+   },
+   {
+    "name": "햄·양파",
+    "amount": "조금",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "계란",
+    "amount": "3개",
+    "home_prep": "풀어 페트병에"
+   },
+   {
+    "name": "케첩",
+    "amount": "튜브 1개"
+   }
+  ],
+  "home_prep": [
+   "썰어 오기",
+   "풀어 페트병에"
+  ],
+  "steps": [
+   {
+    "text": "햄·양파 볶고 밥·케첩 넣기",
+    "video_at": 16.7
+   },
+   {
+    "text": "약불에 계란을 얇게, 반쯤 익히기",
+    "video_at": 21.5
+   },
+   {
+    "text": "계란은 약불에서",
+    "video_at": 26.2
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "계란 덮고 케첩 그림",
+    "video_at": 31.2
+   },
+   {
+    "text": "아이와 함께 그리기",
+    "video_at": 41.3
+   }
+  ],
+  "camp_tips": [
+   "계란물은 페트병에",
+   "볶음밥 위에 계란 이불, 케첩은 튜브로"
+  ],
+  "safety": [
+   {
+    "text": "팬 손잡이는 안쪽으로",
+    "video_at": 35.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지46-오므라이스.mp4",
+   "duration": 55.33,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "omu_a.jpg",
+   "omu_b.jpg",
+   "omu_eat.jpg",
+   "omu_hook.jpg",
+   "omu_ing.jpg"
+  ],
+  "tags": [
+   "아침",
+   "아이와 함께",
+   "밥"
+  ],
+  "slug": "omurice",
+  "ep": 46,
+  "video_src": "assets/video/food/r040.mp4"
+ },
+ {
+  "id": "r043",
+  "name": "불고기 덮밥",
+  "title": "캠핑 불고기 덮밥",
+  "category": "rice",
+  "category_name": "밥·볶음밥",
+  "one_line": "얼려 온 양념 고기로 뚝딱",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "양념 불고기",
+    "amount": "400g",
+    "home_prep": "지퍼백째 얼려 오기"
+   },
+   {
+    "name": "양파·대파",
+    "amount": "조금"
+   },
+   {
+    "name": "즉석밥",
+    "amount": "2개"
+   },
+   {
+    "name": "계란",
+    "amount": "2개",
+    "home_prep": "노른자만"
+   }
+  ],
+  "home_prep": [
+   "지퍼백째 얼려 오기",
+   "노른자만"
+  ],
+  "steps": [
+   {
+    "text": "팬에 양파 깔고 불고기 센 불",
+    "video_at": 18.0
+   },
+   {
+    "text": "자작해지면 대파 넣고 1분",
+    "video_at": 22.9
+   },
+   {
+    "text": "두 번에 나눠 볶기",
+    "video_at": 27.5
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "밥 위에 듬뿍, 노른자 톡",
+    "video_at": 32.6
+   },
+   {
+    "text": "남으면 또띠아 랩",
+    "video_at": 43.1
+   }
+  ],
+  "camp_tips": [
+   "지퍼백째 얼리면 아이스팩 겸용",
+   "양념 불고기 재워 와 볶기만"
+  ],
+  "safety": [
+   {
+    "text": "얼린 고기는 다 녹여 속까지",
+    "video_at": 38.2
+   }
+  ],
+  "video": {
+   "file": "뭐먹지47-불고기 덮밥.mp4",
+   "duration": 56.72,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "bulgogi_a.jpg",
+   "bulgogi_b.jpg",
+   "bulgogi_eat.jpg",
+   "bulgogi_hook.jpg",
+   "bulgogi_ing.jpg"
+  ],
+  "tags": [
+   "밥",
+   "고기",
+   "간편"
+  ],
+  "slug": "bulgogi-bowl",
+  "ep": 47,
+  "video_src": "assets/video/food/r043.mp4"
+ },
+ {
+  "id": "r044",
+  "name": "스팸 마요 덮밥",
+  "title": "스팸 마요 덮밥",
+  "category": "rice",
+  "category_name": "밥·볶음밥",
+  "one_line": "통조림 하나로 냉장 걱정 끝",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "스팸",
+    "amount": "1캔"
+   },
+   {
+    "name": "즉석밥",
+    "amount": "2개"
+   },
+   {
+    "name": "계란",
+    "amount": "2개"
+   },
+   {
+    "name": "마요네즈·김가루",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [],
+  "steps": [
+   {
+    "text": "스팸 깍둑 썰어 굽고 계란 스크램블",
+    "video_at": 14.9
+   },
+   {
+    "text": "밥 위에 올려 마요 지그재그",
+    "video_at": 19.7
+   },
+   {
+    "text": "간 더하지 말고 김가루로",
+    "video_at": 24.6
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "컵에 층층이",
+    "video_at": 30.6
+   },
+   {
+    "text": "빈 캔은 납작하게",
+    "video_at": 40.9
+   }
+  ],
+  "camp_tips": [
+   "통조림으로 아이스박스 자리 아끼기",
+   "통조림 하나로 냉장 걱정 없이"
+  ],
+  "safety": [
+   {
+    "text": "캔 뚜껑은 장갑 끼고",
+    "video_at": 35.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지48-스팸 마요 덮밥.mp4",
+   "duration": 55.15,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "spam_a.jpg",
+   "spam_b.jpg",
+   "spam_eat.jpg",
+   "spam_hook.jpg",
+   "spam_ing.jpg"
+  ],
+  "tags": [
+   "밥",
+   "간편",
+   "아침"
+  ],
+  "slug": "spam-mayo-bowl",
+  "ep": 48,
+  "video_src": "assets/video/food/r044.mp4"
+ },
+ {
+  "id": "r046",
+  "name": "프렌치토스트",
+  "title": "캠핑 프렌치토스트",
+  "category": "breakfast",
+  "category_name": "아침·간편식",
+  "one_line": "버터 향 가득한 아침",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "식빵",
+    "amount": "4장"
+   },
+   {
+    "name": "계란·우유",
+    "amount": "계란 2개 + 우유 반 컵",
+    "home_prep": "집에서 섞어 통에"
+   },
+   {
+    "name": "버터",
+    "amount": "1조각"
+   },
+   {
+    "name": "시럽·과일",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "집에서 섞어 통에"
+  ],
+  "steps": [
+   {
+    "text": "계란물에 적셔 버터 팬에",
+    "video_at": 16.0
+   },
+   {
+    "text": "약불에 앞뒤 2분씩",
+    "video_at": 20.0
+   },
+   {
+    "text": "센 불 금지",
+    "video_at": 23.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "시럽·과일 올려 손으로",
+    "video_at": 29.6
+   },
+   {
+    "text": "철수 날 남은 식빵 활용",
+    "video_at": 37.8
+   }
+  ],
+  "camp_tips": [
+   "계란물은 통에 섞어 오기",
+   "계란물은 집에서 통에 담아 오기"
+  ],
+  "safety": [
+   {
+    "text": "버터 연기 나면 불 줄이기",
+    "video_at": 33.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지49-프렌치토스트.mp4",
+   "duration": 51.21,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "french_a.jpg",
+   "french_b.jpg",
+   "french_eat.jpg",
+   "french_hook.jpg",
+   "french_ing.jpg"
+  ],
+  "tags": [
+   "아침",
+   "달콤",
+   "아이와 함께"
+  ],
+  "slug": "french-toast",
+  "ep": 49,
+  "video_src": "assets/video/food/r046.mp4"
+ },
+ {
+  "id": "r047",
+  "name": "핫샌드",
+  "title": "모닥불 핫샌드",
+  "category": "breakfast",
+  "category_name": "아침·간편식",
+  "one_line": "치즈 쭉, 바삭하게 눌러 굽기",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "핫샌드 메이커"
+  ],
+  "ingredients": [
+   {
+    "name": "식빵",
+    "amount": "4장"
+   },
+   {
+    "name": "햄·치즈",
+    "amount": "각 2장"
+   },
+   {
+    "name": "버터",
+    "amount": "조금"
+   },
+   {
+    "name": "핫샌드 메이커",
+    "amount": "1개"
+   }
+  ],
+  "home_prep": [],
+  "steps": [
+   {
+    "text": "버터 바르고 빵·햄·치즈·빵",
+    "video_at": 14.8
+   },
+   {
+    "text": "뚜껑 닫고 앞뒤 2분씩",
+    "video_at": 20.8
+   },
+   {
+    "text": "은근한 숯불에서",
+    "video_at": 24.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "반으로 갈라 호일에",
+    "video_at": 30.1
+   },
+   {
+    "text": "남은 카레·불고기 넣기",
+    "video_at": 40.6
+   }
+  ],
+  "camp_tips": [
+   "샌드위치로 미리 조립해 오기",
+   "모닥불·버너 위에서 양면 굽기"
+  ],
+  "safety": [
+   {
+    "text": "쇠 손잡이는 장갑 끼고",
+    "video_at": 34.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지50-핫샌드.mp4",
+   "duration": 53.94,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "hotsand_a.jpg",
+   "hotsand_b.jpg",
+   "hotsand_eat.jpg",
+   "hotsand_hook.jpg",
+   "hotsand_ing.jpg"
+  ],
+  "tags": [
+   "아침",
+   "간식",
+   "모닥불"
+  ],
+  "slug": "hot-sandwich",
+  "ep": 50,
+  "video_src": "assets/video/food/r047.mp4"
+ },
+ {
+  "id": "r048",
+  "name": "베이컨 에그",
+  "title": "베이컨 에그 스크램블",
+  "category": "breakfast",
+  "category_name": "아침·간편식",
+  "one_line": "팬 하나, 아침 10분",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "베이컨",
+    "amount": "6줄"
+   },
+   {
+    "name": "계란",
+    "amount": "3개"
+   },
+   {
+    "name": "우유",
+    "amount": "2큰술"
+   },
+   {
+    "name": "소금·후추",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [],
+  "steps": [
+   {
+    "text": "베이컨 바삭하게 굽고 한쪽으로",
+    "video_at": 16.0
+   },
+   {
+    "text": "계란물 붓고 크게 저어 몽글하게",
+    "video_at": 20.9
+   },
+   {
+    "text": "촉촉할 때 불 끄기",
+    "video_at": 25.7
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "팬째, 식빵에 올려",
+    "video_at": 31.3
+   },
+   {
+    "text": "남은 기름은 키친타월로",
+    "video_at": 40.0
+   }
+  ],
+  "camp_tips": [
+   "베이컨 기름으로 계란 익히기",
+   "베이컨 기름에 계란, 팬 하나"
+  ],
+  "safety": [
+   {
+    "text": "기름 튐, 얼굴은 멀리",
+    "video_at": 35.7
+   }
+  ],
+  "video": {
+   "file": "뭐먹지51-베이컨 에그.mp4",
+   "duration": 53.84,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "bacon_a.jpg",
+   "bacon_b.jpg",
+   "bacon_eat.jpg",
+   "bacon_hook.jpg",
+   "bacon_ing.jpg"
+  ],
+  "tags": [
+   "아침",
+   "간편",
+   "팬 하나"
+  ],
+  "slug": "bacon-eggs",
+  "ep": 51,
+  "video_src": "assets/video/food/r048.mp4"
+ },
+ {
+  "id": "r053",
+  "name": "팬케이크",
+  "title": "캠핑 팬케이크",
+  "category": "breakfast",
+  "category_name": "아침·간편식",
+  "one_line": "폭신하게 부푸는 아침",
+  "servings": 3,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "팬케이크 믹스",
+    "amount": "1봉"
+   },
+   {
+    "name": "우유·계란",
+    "amount": "우유 1컵 + 계란 1개",
+    "home_prep": "페트병에 담아 오기"
+   },
+   {
+    "name": "버터·시럽",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "페트병에 담아 오기"
+  ],
+  "steps": [
+   {
+    "text": "약불에 버터 녹이고 동그랗게 짜기",
+    "video_at": 15.4
+   },
+   {
+    "text": "기포가 올라오면 한 번만 뒤집기",
+    "video_at": 20.6
+   },
+   {
+    "text": "누르지 말고 그대로",
+    "video_at": 25.5
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "쌓아서 시럽·과일",
+    "video_at": 30.2
+   },
+   {
+    "text": "아이와 모양 만들기",
+    "video_at": 40.0
+   }
+  ],
+  "camp_tips": [
+   "반죽은 페트병에",
+   "반죽은 페트병에 담아 와 짜서 굽기"
+  ],
+  "safety": [
+   {
+    "text": "팬이 너무 뜨거우면 잠깐 내리기",
+    "video_at": 34.7
+   }
+  ],
+  "video": {
+   "file": "뭐먹지52-팬케이크.mp4",
+   "duration": 53.85,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "pancake_a.jpg",
+   "pancake_b.jpg",
+   "pancake_eat.jpg",
+   "pancake_hook.jpg",
+   "pancake_ing.jpg"
+  ],
+  "tags": [
+   "아침",
+   "달콤",
+   "아이와 함께"
+  ],
+  "slug": "pancake",
+  "ep": 52,
+  "video_src": "assets/video/food/r053.mp4"
+ },
+ {
+  "id": "r055",
+  "name": "통닭 더치오븐",
+  "title": "더치오븐 통닭구이",
+  "category": "dutch",
+  "category_name": "더치오븐·호일 요리",
+  "one_line": "위아래 숯으로 오븐처럼",
+  "servings": 4,
+  "minutes": 60,
+  "difficulty": 3,
+  "season": "사계절",
+  "tools": [
+   "더치오븐",
+   "숯"
+  ],
+  "ingredients": [
+   {
+    "name": "손질된 생닭",
+    "amount": "1마리",
+    "home_prep": "소금·허브로 밑간해 오기"
+   },
+   {
+    "name": "감자·양파",
+    "amount": "각 2개"
+   },
+   {
+    "name": "마늘",
+    "amount": "한 줌"
+   },
+   {
+    "name": "올리브유",
+    "amount": "2큰술"
+   }
+  ],
+  "home_prep": [
+   "소금·허브로 밑간해 오기"
+  ],
+  "steps": [
+   {
+    "text": "감자·양파 깔고 닭 올리기",
+    "video_at": 16.6
+   },
+   {
+    "text": "뚜껑 위에도 숯, 한 시간",
+    "video_at": 21.2
+   },
+   {
+    "text": "숯은 위에 더 많이",
+    "video_at": 25.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "더치오븐째, 장갑 끼고 찢기",
+    "video_at": 30.7
+   },
+   {
+    "text": "바닥 감자는 곁들이로",
+    "video_at": 40.3
+   }
+  ],
+  "camp_tips": [
+   "밑간해서 지퍼백 숙성",
+   "뚜껑 위에도 숯 올려 오븐처럼"
+  ],
+  "safety": [
+   {
+    "text": "다리 안쪽까지 익히기",
+    "video_at": 35.2
+   }
+  ],
+  "video": {
+   "file": "뭐먹지53-통닭 더치오븐.mp4",
+   "duration": 54.05,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "roastchk_a.jpg",
+   "roastchk_b.jpg",
+   "roastchk_eat.jpg",
+   "roastchk_hook.jpg",
+   "roastchk_ing.jpg"
+  ],
+  "tags": [
+   "더치오븐",
+   "메인",
+   "특별한 날"
+  ],
+  "slug": "dutch-chicken",
+  "ep": 53,
+  "video_src": "assets/video/food/r055.mp4"
+ },
+ {
+  "id": "r057",
+  "name": "감바스",
+  "title": "캠핑 감바스",
+  "category": "dutch",
+  "category_name": "더치오븐·호일 요리",
+  "one_line": "팬째 즐기는 마늘 새우",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "무쇠팬",
+   "버너"
+  ],
+  "ingredients": [
+   {
+    "name": "냉동 손질 새우",
+    "amount": "300g",
+    "home_prep": "물기 닦기"
+   },
+   {
+    "name": "마늘",
+    "amount": "10쪽",
+    "home_prep": "편으로"
+   },
+   {
+    "name": "올리브유",
+    "amount": "반 컵"
+   },
+   {
+    "name": "페페론치노",
+    "amount": "조금"
+   },
+   {
+    "name": "바게트",
+    "amount": "1개"
+   }
+  ],
+  "home_prep": [
+   "물기 닦기",
+   "편으로"
+  ],
+  "steps": [
+   {
+    "text": "올리브유에 편 마늘 약불",
+    "video_at": 14.5
+   },
+   {
+    "text": "새우·페페론치노 넣고 3분",
+    "video_at": 19.1
+   },
+   {
+    "text": "약불에서 향만",
+    "video_at": 24.0
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "팬째, 바게트로 기름까지",
+    "video_at": 28.6
+   },
+   {
+    "text": "남은 기름에 파스타",
+    "video_at": 37.4
+   }
+  ],
+  "camp_tips": [
+   "냉동 손질 새우로",
+   "팬째 식탁에, 바게트로 기름까지"
+  ],
+  "safety": [
+   {
+    "text": "새우 물기 닦고 넣기",
+    "video_at": 32.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지54-감바스.mp4",
+   "duration": 50.34,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "gambas_a.jpg",
+   "gambas_b.jpg",
+   "gambas_eat.jpg",
+   "gambas_hook.jpg",
+   "gambas_ing.jpg"
+  ],
+  "tags": [
+   "안주",
+   "분위기",
+   "팬 하나"
+  ],
+  "slug": "gambas",
+  "ep": 54,
+  "video_src": "assets/video/food/r057.mp4"
+ },
+ {
+  "id": "r058",
+  "name": "호일 연어구이",
+  "title": "호일 연어구이",
+  "category": "dutch",
+  "category_name": "더치오븐·호일 요리",
+  "one_line": "설거지 없는 버터 연어",
+  "servings": 2,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "호일",
+   "화로"
+  ],
+  "ingredients": [
+   {
+    "name": "연어 필렛",
+    "amount": "2조각"
+   },
+   {
+    "name": "양파",
+    "amount": "반 개",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "레몬",
+    "amount": "1개"
+   },
+   {
+    "name": "버터",
+    "amount": "1조각"
+   },
+   {
+    "name": "쿠킹 호일",
+    "amount": "넉넉히"
+   }
+  ],
+  "home_prep": [
+   "썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "호일에 양파·연어·버터·레몬",
+    "video_at": 15.2
+   },
+   {
+    "text": "꼭 여며 숯불 가장자리 15분",
+    "video_at": 19.5
+   },
+   {
+    "text": "가장자리를 꼭 접기",
+    "video_at": 23.7
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "호일째 열어 레몬 짜기",
+    "video_at": 29.7
+   },
+   {
+    "text": "남으면 연어 덮밥",
+    "video_at": 38.6
+   }
+  ],
+  "camp_tips": [
+   "호일이 그릇, 설거지 없이",
+   "호일 그릇이라 설거지 0"
+  ],
+  "safety": [
+   {
+    "text": "열 때 김 조심, 집게로",
+    "video_at": 33.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지55-호일 연어구이.mp4",
+   "duration": 52.85,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "salmon_a.jpg",
+   "salmon_b.jpg",
+   "salmon_eat.jpg",
+   "salmon_hook.jpg",
+   "salmon_ing.jpg"
+  ],
+  "tags": [
+   "해산물",
+   "호일",
+   "설거지 없음"
+  ],
+  "slug": "foil-salmon",
+  "ep": 55,
+  "video_src": "assets/video/food/r058.mp4"
+ },
+ {
+  "id": "r059",
+  "name": "호일 감자 버터구이",
+  "title": "호일 감자 버터구이",
+  "category": "dutch",
+  "category_name": "더치오븐·호일 요리",
+  "one_line": "숯불 속에 묻어 두면 끝",
+  "servings": 4,
+  "minutes": 40,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "호일",
+   "숯"
+  ],
+  "ingredients": [
+   {
+    "name": "감자",
+    "amount": "4개",
+    "home_prep": "반쯤 삶아 오면 빨라요"
+   },
+   {
+    "name": "버터",
+    "amount": "4조각"
+   },
+   {
+    "name": "소금",
+    "amount": "조금"
+   },
+   {
+    "name": "쿠킹 호일",
+    "amount": "넉넉히",
+    "home_prep": "두 번 감싸기"
+   }
+  ],
+  "home_prep": [
+   "반쯤 삶아 오면 빨라요",
+   "두 번 감싸기"
+  ],
+  "steps": [
+   {
+    "text": "호일로 두 번 감싸 숯불 옆에 묻기",
+    "video_at": 15.6
+   },
+   {
+    "text": "40분, 젓가락이 쑥 들어가면",
+    "video_at": 19.8
+   },
+   {
+    "text": "불꽃 말고 재 속에",
+    "video_at": 24.2
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "십자 칼집 내고 버터",
+    "video_at": 29.7
+   },
+   {
+    "text": "치즈·베이컨 토핑",
+    "video_at": 39.9
+   }
+  ],
+  "camp_tips": [
+   "반쯤 삶아 오면 시간 단축",
+   "숯 속에 묻어 두면 끝"
+  ],
+  "safety": [
+   {
+    "text": "집게·장갑으로 꺼내기",
+    "video_at": 34.7
+   }
+  ],
+  "video": {
+   "file": "뭐먹지56-호일 감자 버터구이.mp4",
+   "duration": 52.69,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "foilpot_a.jpg",
+   "foilpot_b.jpg",
+   "foilpot_eat.jpg",
+   "foilpot_hook.jpg",
+   "foilpot_ing.jpg"
+  ],
+  "tags": [
+   "간식",
+   "호일",
+   "모닥불"
+  ],
+  "slug": "foil-potato",
+  "ep": 56,
+  "video_src": "assets/video/food/r059.mp4"
+ },
+ {
+  "id": "r060",
+  "name": "호일 버섯 버터구이",
+  "title": "호일 버섯 버터구이",
+  "category": "dutch",
+  "category_name": "더치오븐·호일 요리",
+  "one_line": "호일째 먹는 간단 안주",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "가을",
+  "tools": [
+   "호일",
+   "화로"
+  ],
+  "ingredients": [
+   {
+    "name": "모둠 버섯",
+    "amount": "2팩",
+    "home_prep": "손으로 찢어 오기"
+   },
+   {
+    "name": "버터",
+    "amount": "1조각"
+   },
+   {
+    "name": "간장",
+    "amount": "1큰술"
+   },
+   {
+    "name": "쿠킹 호일",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "손으로 찢어 오기"
+  ],
+  "steps": [
+   {
+    "text": "호일 그릇에 버섯·버터·간장",
+    "video_at": 16.5
+   },
+   {
+    "text": "오므려 석쇠에, 끓으면 완성",
+    "video_at": 21.5
+   },
+   {
+    "text": "간장은 한 숟가락",
+    "video_at": 26.8
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "호일째, 이쑤시개로",
+    "video_at": 31.5
+   },
+   {
+    "text": "남은 국물에 버터 간장밥",
+    "video_at": 40.5
+   }
+  ],
+  "camp_tips": [
+   "버섯은 손으로 찢기",
+   "버섯·버터·간장, 호일째 먹기"
+  ],
+  "safety": [
+   {
+    "text": "호일 가장자리 잡고 옮기기",
+    "video_at": 35.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지57-호일 버섯 버터구이.mp4",
+   "duration": 53.63,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "foilmush_a.jpg",
+   "foilmush_b.jpg",
+   "foilmush_eat.jpg",
+   "foilmush_hook.jpg",
+   "foilmush_ing.jpg"
+  ],
+  "tags": [
+   "안주",
+   "호일",
+   "채소"
+  ],
+  "slug": "foil-mushroom",
+  "ep": 57,
+  "video_src": "assets/video/food/r060.mp4"
+ },
+ {
+  "id": "r061",
+  "name": "폭립 바비큐",
+  "title": "캠핑 폭립",
+  "category": "dutch",
+  "category_name": "더치오븐·호일 요리",
+  "one_line": "뼈에서 쏙 빠지는 부드러움",
+  "servings": 3,
+  "minutes": 70,
+  "difficulty": 3,
+  "season": "사계절",
+  "tools": [
+   "더치오븐",
+   "화로"
+  ],
+  "ingredients": [
+   {
+    "name": "돼지 등갈비",
+    "amount": "1kg",
+    "home_prep": "집에서 한 시간 삶아 오기"
+   },
+   {
+    "name": "바비큐 소스",
+    "amount": "1병"
+   },
+   {
+    "name": "럽 시즈닝",
+    "amount": "2큰술"
+   },
+   {
+    "name": "물티슈",
+    "amount": "넉넉히"
+   }
+  ],
+  "home_prep": [
+   "집에서 한 시간 삶아 오기"
+  ],
+  "steps": [
+   {
+    "text": "시즈닝 바르고 은근한 숯불에",
+    "video_at": 16.2
+   },
+   {
+    "text": "소스 바르고 뒤집기 세 번",
+    "video_at": 20.4
+   },
+   {
+    "text": "소스는 익은 뒤에",
+    "video_at": 25.8
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "가위로 잘라 들고 뜯기",
+    "video_at": 30.6
+   },
+   {
+    "text": "물티슈 넉넉히",
+    "video_at": 39.6
+   }
+  ],
+  "camp_tips": [
+   "집에서 삶아 오면 굽기만",
+   "집에서 삶아 오고 현장에선 소스 발라 굽기"
+  ],
+  "safety": [
+   {
+    "text": "불길이 오르면 옆으로",
+    "video_at": 34.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지58-폭립 바비큐.mp4",
+   "duration": 53.2,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "ribs_a.jpg",
+   "ribs_b.jpg",
+   "ribs_eat.jpg",
+   "ribs_hook.jpg",
+   "ribs_ing.jpg"
+  ],
+  "tags": [
+   "고기",
+   "숯불",
+   "특별한 날"
+  ],
+  "slug": "pork-ribs",
+  "ep": 58,
+  "video_src": "assets/video/food/r061.mp4"
+ },
+ {
+  "id": "r065",
+  "name": "모둠 꼬치구이",
+  "title": "모둠 꼬치구이",
+  "category": "skewer",
+  "category_name": "꼬치·바비큐",
+  "one_line": "알록달록 줄줄이",
+  "servings": 4,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "돼지고기",
+    "amount": "400g",
+    "home_prep": "한입 크기로"
+   },
+   {
+    "name": "파프리카·양파",
+    "amount": "각 1개"
+   },
+   {
+    "name": "소시지",
+    "amount": "6개"
+   },
+   {
+    "name": "나무 꼬치",
+    "amount": "12개",
+    "home_prep": "집에서 꽂아 오기"
+   }
+  ],
+  "home_prep": [
+   "한입 크기로",
+   "집에서 꽂아 오기"
+  ],
+  "steps": [
+   {
+    "text": "석쇠에 올려 소금·후추",
+    "video_at": 16.0
+   },
+   {
+    "text": "돌려 가며 10분",
+    "video_at": 21.2
+   },
+   {
+    "text": "재료 크기 비슷하게",
+    "video_at": 25.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "꼬치째 소스 찍어",
+    "video_at": 31.0
+   },
+   {
+    "text": "남은 재료는 볶음밥에",
+    "video_at": 40.2
+   }
+  ],
+  "camp_tips": [
+   "꼬치는 집에서 꽂아 오기",
+   "집에서 미리 꽂아 오기, 굽기만"
+  ],
+  "safety": [
+   {
+    "text": "다 먹은 꼬치는 한곳에",
+    "video_at": 34.6
+   }
+  ],
+  "video": {
+   "file": "뭐먹지59-모둠 꼬치구이.mp4",
+   "duration": 54.75,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "mixkkochi_a.jpg",
+   "mixkkochi_b.jpg",
+   "mixkkochi_eat.jpg",
+   "mixkkochi_hook.jpg",
+   "mixkkochi_ing.jpg"
+  ],
+  "tags": [
+   "꼬치",
+   "숯불",
+   "여럿이"
+  ],
+  "slug": "mixed-skewers",
+  "ep": 59,
+  "video_src": "assets/video/food/r065.mp4"
+ },
+ {
+  "id": "r066",
+  "name": "닭꼬치",
+  "title": "숯불 닭꼬치",
+  "category": "skewer",
+  "category_name": "꼬치·바비큐",
+  "one_line": "반짝반짝 데리야끼",
+  "servings": 3,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "닭다리살",
+    "amount": "500g",
+    "home_prep": "한입 크기로"
+   },
+   {
+    "name": "대파",
+    "amount": "2대"
+   },
+   {
+    "name": "데리야끼 소스",
+    "amount": "1병"
+   },
+   {
+    "name": "나무 꼬치",
+    "amount": "10개",
+    "home_prep": "물에 담가 오기"
+   }
+  ],
+  "home_prep": [
+   "한입 크기로",
+   "물에 담가 오기"
+  ],
+  "steps": [
+   {
+    "text": "번갈아 꽂아 소금구이로 먼저",
+    "video_at": 15.1
+   },
+   {
+    "text": "익으면 소스 두세 번 덧바르기",
+    "video_at": 20.3
+   },
+   {
+    "text": "소스는 마지막에",
+    "video_at": 24.8
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "꼬치째, 깨 솔솔",
+    "video_at": 30.4
+   },
+   {
+    "text": "남은 소스에 덮밥",
+    "video_at": 39.4
+   }
+  ],
+  "camp_tips": [
+   "닭다리살로 촉촉하게",
+   "양념은 마지막에 발라 타지 않게"
+  ],
+  "safety": [
+   {
+    "text": "가운데 잘라 익었는지 확인",
+    "video_at": 34.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지60-닭꼬치.mp4",
+   "duration": 52.32,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "dakkochi_a.jpg",
+   "dakkochi_b.jpg",
+   "dakkochi_eat.jpg",
+   "dakkochi_hook.jpg",
+   "dakkochi_ing.jpg"
+  ],
+  "tags": [
+   "꼬치",
+   "숯불",
+   "안주"
+  ],
+  "slug": "chicken-skewers",
+  "ep": 60,
+  "video_src": "assets/video/food/r066.mp4"
+ },
+ {
+  "id": "r067",
+  "name": "소떡소떡",
+  "title": "캠핑 소떡소떡",
+  "category": "skewer",
+  "category_name": "꼬치·바비큐",
+  "one_line": "아이들 최애 꼬치",
+  "servings": 4,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "비엔나 소시지",
+    "amount": "20개"
+   },
+   {
+    "name": "떡볶이 떡",
+    "amount": "20개",
+    "home_prep": "살짝 데쳐 오기"
+   },
+   {
+    "name": "케첩·고추장·꿀",
+    "amount": "각 2큰술",
+    "home_prep": "짜는 병에"
+   },
+   {
+    "name": "꼬치",
+    "amount": "8개"
+   }
+  ],
+  "home_prep": [
+   "살짝 데쳐 오기",
+   "짜는 병에"
+  ],
+  "steps": [
+   {
+    "text": "번갈아 꽂아 팬에 굴리며",
+    "video_at": 14.7
+   },
+   {
+    "text": "소스를 붓으로 발라 한 번 더",
+    "video_at": 19.4
+   },
+   {
+    "text": "아이용은 고추장 빼기",
+    "video_at": 24.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "짜는 병 소스로 직접",
+    "video_at": 29.1
+   },
+   {
+    "text": "아이와 함께 꽂기",
+    "video_at": 37.9
+   }
+  ],
+  "camp_tips": [
+   "떡은 데쳐 오기",
+   "아이들 최애, 소스는 짜는 병으로"
+  ],
+  "safety": [
+   {
+    "text": "떡 속이 뜨거우니 식혀서",
+    "video_at": 33.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지61-소떡소떡.mp4",
+   "duration": 51.91,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "sotteok_a.jpg",
+   "sotteok_b.jpg",
+   "sotteok_eat.jpg",
+   "sotteok_hook.jpg",
+   "sotteok_ing.jpg"
+  ],
+  "tags": [
+   "아이와 함께",
+   "간식",
+   "꼬치"
+  ],
+  "slug": "sotteok",
+  "ep": 61,
+  "video_src": "assets/video/food/r067.mp4"
+ },
+ {
+  "id": "r068",
+  "name": "새우 꼬치",
+  "title": "숯불 새우 꼬치",
+  "category": "skewer",
+  "category_name": "꼬치·바비큐",
+  "one_line": "껍질째 구워 톡톡",
+  "servings": 3,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "껍질 있는 새우",
+    "amount": "20마리",
+    "home_prep": "내장만 빼 오기"
+   },
+   {
+    "name": "굵은소금",
+    "amount": "조금"
+   },
+   {
+    "name": "레몬",
+    "amount": "1개"
+   },
+   {
+    "name": "나무 꼬치",
+    "amount": "8개",
+    "home_prep": "물에 담가 오기"
+   }
+  ],
+  "home_prep": [
+   "내장만 빼 오기",
+   "물에 담가 오기"
+  ],
+  "steps": [
+   {
+    "text": "일자로 꽂아 굵은소금",
+    "video_at": 15.7
+   },
+   {
+    "text": "빨개지면 뒤집어 앞뒤 3분씩",
+    "video_at": 20.7
+   },
+   {
+    "text": "오래 굽지 않기",
+    "video_at": 25.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "목장갑 끼고 까서 레몬",
+    "video_at": 30.7
+   },
+   {
+    "text": "머리는 라면에",
+    "video_at": 39.3
+   }
+  ],
+  "camp_tips": [
+   "껍질째 구워야 촉촉",
+   "껍질째 굽고 손으로"
+  ],
+  "safety": [
+   {
+    "text": "아이는 까서 살만",
+    "video_at": 34.7
+   }
+  ],
+  "video": {
+   "file": "뭐먹지62-새우 꼬치.mp4",
+   "duration": 53.38,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "shrimpsk_a.jpg",
+   "shrimpsk_b.jpg",
+   "shrimpsk_eat.jpg",
+   "shrimpsk_hook.jpg",
+   "shrimpsk_ing.jpg"
+  ],
+  "tags": [
+   "해산물",
+   "꼬치",
+   "숯불"
+  ],
+  "slug": "shrimp-skewers",
+  "ep": 62,
+  "video_src": "assets/video/food/r068.mp4"
+ },
+ {
+  "id": "r069",
+  "name": "채소 꼬치",
+  "title": "캠핑 채소 꼬치",
+  "category": "skewer",
+  "category_name": "꼬치·바비큐",
+  "one_line": "고기 옆 알록달록 단짝",
+  "servings": 3,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "여름",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "파프리카·양파",
+    "amount": "각 1개",
+    "home_prep": "한입 크기로"
+   },
+   {
+    "name": "애호박",
+    "amount": "반 개"
+   },
+   {
+    "name": "방울토마토",
+    "amount": "10개"
+   },
+   {
+    "name": "올리브유",
+    "amount": "2큰술"
+   }
+  ],
+  "home_prep": [
+   "한입 크기로"
+  ],
+  "steps": [
+   {
+    "text": "올리브유·소금·후추 바르고 석쇠에",
+    "video_at": 14.7
+   },
+   {
+    "text": "가장자리에서 굴리며 8분",
+    "video_at": 19.6
+   },
+   {
+    "text": "토마토는 살짝만",
+    "video_at": 24.2
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "쌈에 싸거나 쌈장 찍어",
+    "video_at": 29.3
+   },
+   {
+    "text": "남은 채소는 볶음밥·라면",
+    "video_at": 38.1
+   }
+  ],
+  "camp_tips": [
+   "집에서 꽂아 오기",
+   "파프리카·양파·호박 썰어 와 꽂기만"
+  ],
+  "safety": [
+   {
+    "text": "집게로 뒤집기",
+    "video_at": 33.3
+   }
+  ],
+  "video": {
+   "file": "뭐먹지63-채소 꼬치.mp4",
+   "duration": 51.42,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "vegsk_a.jpg",
+   "vegsk_b.jpg",
+   "vegsk_eat.jpg",
+   "vegsk_hook.jpg",
+   "vegsk_ing.jpg"
+  ],
+  "tags": [
+   "채소",
+   "꼬치",
+   "곁들임"
+  ],
+  "slug": "veggie-skewers",
+  "ep": 63,
+  "video_src": "assets/video/food/r069.mp4"
+ },
+ {
+  "id": "r071",
+  "name": "떡꼬치",
+  "title": "캠핑 떡꼬치",
+  "category": "skewer",
+  "category_name": "꼬치·바비큐",
+  "one_line": "학교 앞 추억의 맛",
+  "servings": 3,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "떡볶이 떡",
+    "amount": "30개",
+    "home_prep": "데쳐 오기"
+   },
+   {
+    "name": "고추장·케첩·물엿",
+    "amount": "각 2큰술"
+   },
+   {
+    "name": "꼬치",
+    "amount": "8개"
+   },
+   {
+    "name": "깨",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "데쳐 오기"
+  ],
+  "steps": [
+   {
+    "text": "꼬치에 꽂아 팬에 노릇하게",
+    "video_at": 14.8
+   },
+   {
+    "text": "양념 바르고 약불에 한 번 더",
+    "video_at": 19.9
+   },
+   {
+    "text": "센 불 금지",
+    "video_at": 24.7
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "꼬치째, 깨 뿌려",
+    "video_at": 30.0
+   },
+   {
+    "text": "남은 양념은 떡볶이로",
+    "video_at": 37.9
+   }
+  ],
+  "camp_tips": [
+   "떡은 데쳐 오기",
+   "떡은 데쳐 오기, 양념 발라 굽기"
+  ],
+  "safety": [
+   {
+    "text": "떡 속이 뜨거우니 식혀서",
+    "video_at": 33.3
+   }
+  ],
+  "video": {
+   "file": "뭐먹지64-떡꼬치.mp4",
+   "duration": 50.57,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "tteoksk_a.jpg",
+   "tteoksk_b.jpg",
+   "tteoksk_eat.jpg",
+   "tteoksk_hook.jpg",
+   "tteoksk_ing.jpg"
+  ],
+  "tags": [
+   "간식",
+   "꼬치",
+   "아이와 함께"
+  ],
+  "slug": "rice-cake-skewers",
+  "ep": 64,
+  "video_src": "assets/video/food/r071.mp4"
+ },
+ {
+  "id": "r072",
+  "name": "양꼬치",
+  "title": "캠핑 양꼬치",
+  "category": "skewer",
+  "category_name": "꼬치·바비큐",
+  "one_line": "숯불 위에서 지글지글",
+  "servings": 3,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "양꼬치(꽂힌 것)",
+    "amount": "30개"
+   },
+   {
+    "name": "양꼬치 향신료",
+    "amount": "1통"
+   },
+   {
+    "name": "소금",
+    "amount": "조금"
+   },
+   {
+    "name": "장갑",
+    "amount": "1켤레"
+   }
+  ],
+  "home_prep": [],
+  "steps": [
+   {
+    "text": "숯불에 나란히, 자주 돌리기",
+    "video_at": 16.4
+   },
+   {
+    "text": "기름이 오르면 향신료 듬뿍",
+    "video_at": 20.7
+   },
+   {
+    "text": "향신료는 거의 익었을 때",
+    "video_at": 25.5
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "꼬치째, 향신료 콕",
+    "video_at": 30.1
+   },
+   {
+    "text": "다 쓴 꼬치는 휴지로 닦기",
+    "video_at": 39.0
+   }
+  ],
+  "camp_tips": [
+   "꽂아서 파는 양꼬치로",
+   "쯔란 한 병이면 끝"
+  ],
+  "safety": [
+   {
+    "text": "쇠꼬치는 장갑 끼고",
+    "video_at": 34.2
+   }
+  ],
+  "video": {
+   "file": "뭐먹지65-양꼬치.mp4",
+   "duration": 53.19,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "lambsk_a.jpg",
+   "lambsk_b.jpg",
+   "lambsk_eat.jpg",
+   "lambsk_hook.jpg",
+   "lambsk_ing.jpg"
+  ],
+  "tags": [
+   "꼬치",
+   "숯불",
+   "안주"
+  ],
+  "slug": "lamb-skewers",
+  "ep": 65,
+  "video_src": "assets/video/food/r072.mp4"
+ },
+ {
+  "id": "r076",
+  "name": "바나나 보트",
+  "title": "모닥불 바나나 보트",
+  "category": "snack",
+  "category_name": "모닥불 간식·디저트",
+  "one_line": "초콜릿이 사르르",
+  "servings": 4,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "호일",
+   "화로"
+  ],
+  "ingredients": [
+   {
+    "name": "바나나",
+    "amount": "4개"
+   },
+   {
+    "name": "초콜릿",
+    "amount": "1개",
+    "home_prep": "잘게 부숴 오기"
+   },
+   {
+    "name": "마시멜로",
+    "amount": "한 줌"
+   },
+   {
+    "name": "쿠킹 호일",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "잘게 부숴 오기"
+  ],
+  "steps": [
+   {
+    "text": "껍질째 칼집 내고 초콜릿·마시멜로",
+    "video_at": 14.9
+   },
+   {
+    "text": "호일로 감싸 숯불 옆 5분",
+    "video_at": 19.9
+   },
+   {
+    "text": "불꽃 말고 숯불 옆",
+    "video_at": 25.1
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "숟가락으로 퍼먹기",
+    "video_at": 30.2
+   },
+   {
+    "text": "견과류 토핑",
+    "video_at": 39.3
+   }
+  ],
+  "camp_tips": [
+   "껍질이 그릇, 설거지 없이",
+   "껍질째 칼집 내 초콜릿 넣고 호일"
+  ],
+  "safety": [
+   {
+    "text": "녹은 초콜릿 뜨거우니 식혀서",
+    "video_at": 34.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지66-바나나 보트.mp4",
+   "duration": 53.23,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "banana_a.jpg",
+   "banana_b.jpg",
+   "banana_eat.jpg",
+   "banana_hook.jpg",
+   "banana_ing.jpg"
+  ],
+  "tags": [
+   "디저트",
+   "모닥불",
+   "아이와 함께"
+  ],
+  "slug": "banana-boat",
+  "ep": 66,
+  "video_src": "assets/video/food/r076.mp4"
+ },
+ {
+  "id": "r077",
+  "name": "구운 사과",
+  "title": "모닥불 구운 사과",
+  "category": "snack",
+  "category_name": "모닥불 간식·디저트",
+  "one_line": "시나몬 향 가을 디저트",
+  "servings": 4,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "가을",
+  "tools": [
+   "호일",
+   "숯"
+  ],
+  "ingredients": [
+   {
+    "name": "사과",
+    "amount": "4개",
+    "home_prep": "속 파 오기"
+   },
+   {
+    "name": "버터",
+    "amount": "4조각"
+   },
+   {
+    "name": "시나몬 가루",
+    "amount": "조금"
+   },
+   {
+    "name": "꿀",
+    "amount": "4큰술"
+   },
+   {
+    "name": "쿠킹 호일",
+    "amount": "넉넉히"
+   }
+  ],
+  "home_prep": [
+   "속 파 오기"
+  ],
+  "steps": [
+   {
+    "text": "속에 버터·꿀, 시나몬 뿌리기",
+    "video_at": 16.2
+   },
+   {
+    "text": "호일로 감싸 숯불 옆 20분",
+    "video_at": 20.8
+   },
+   {
+    "text": "위까지 꼭 감싸기",
+    "video_at": 25.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "숟가락으로, 아이스크림 올려",
+    "video_at": 30.3
+   },
+   {
+    "text": "가을 제철 사과로",
+    "video_at": 38.4
+   }
+  ],
+  "camp_tips": [
+   "속은 집에서 파 오기",
+   "속 파고 시나몬·버터, 호일째"
+  ],
+  "safety": [
+   {
+    "text": "속 꿀이 뜨거우니 식혀서",
+    "video_at": 34.0
+   }
+  ],
+  "video": {
+   "file": "뭐먹지67-구운 사과.mp4",
+   "duration": 52.34,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "apple_a.jpg",
+   "apple_b.jpg",
+   "apple_eat.jpg",
+   "apple_hook.jpg",
+   "apple_ing.jpg"
+  ],
+  "tags": [
+   "디저트",
+   "모닥불",
+   "가을"
+  ],
+  "slug": "baked-apple",
+  "ep": 67,
+  "video_src": "assets/video/food/r077.mp4"
+ },
+ {
+  "id": "r083",
+  "name": "또띠아 미니 피자",
+  "title": "또띠아 미니 피자",
+  "category": "kids",
+  "category_name": "아이와 함께",
+  "one_line": "아이가 직접 토핑해요",
+  "servings": 4,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬 뚜껑"
+  ],
+  "ingredients": [
+   {
+    "name": "또띠아",
+    "amount": "4장"
+   },
+   {
+    "name": "토마토소스",
+    "amount": "작은 병"
+   },
+   {
+    "name": "피자 치즈",
+    "amount": "1봉"
+   },
+   {
+    "name": "햄·옥수수",
+    "amount": "조금",
+    "home_prep": "작은 통에"
+   }
+  ],
+  "home_prep": [
+   "작은 통에"
+  ],
+  "steps": [
+   {
+    "text": "소스 바르고 햄·옥수수·치즈",
+    "video_at": 14.7
+   },
+   {
+    "text": "뚜껑 덮어 약불 5분",
+    "video_at": 19.1
+   },
+   {
+    "text": "뚜껑은 꼭 덮기",
+    "video_at": 25.0
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "가위로 잘라 손으로",
+    "video_at": 29.8
+   },
+   {
+    "text": "아이가 직접 토핑",
+    "video_at": 38.3
+   }
+  ],
+  "camp_tips": [
+   "토핑은 작은 통에 나눠서",
+   "아이가 토핑 직접, 뚜껑 덮어 치즈 녹이기"
+  ],
+  "safety": [
+   {
+    "text": "치즈가 뜨거우니 식혀서",
+    "video_at": 33.6
+   }
+  ],
+  "video": {
+   "file": "뭐먹지68-또띠아 미니 피자.mp4",
+   "duration": 51.72,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "pizza_a.jpg",
+   "pizza_b.jpg",
+   "pizza_eat.jpg",
+   "pizza_hook.jpg",
+   "pizza_ing.jpg"
+  ],
+  "tags": [
+   "아이와 함께",
+   "간식",
+   "팬 하나"
+  ],
+  "slug": "tortilla-pizza",
+  "ep": 68,
+  "video_src": "assets/video/food/r083.mp4"
+ },
+ {
+  "id": "r084",
+  "name": "캠핑 핫도그",
+  "title": "캠핑 핫도그",
+  "category": "kids",
+  "category_name": "아이와 함께",
+  "one_line": "숯불 소시지를 빵에 쏙",
+  "servings": 4,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "핫도그 빵",
+    "amount": "4개"
+   },
+   {
+    "name": "굵은 소시지",
+    "amount": "4개"
+   },
+   {
+    "name": "양파",
+    "amount": "1개",
+    "home_prep": "다져 볶아 오기"
+   },
+   {
+    "name": "케첩·머스터드",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "다져 볶아 오기"
+  ],
+  "steps": [
+   {
+    "text": "칼집 낸 소시지 굽고 빵 데우기",
+    "video_at": 14.8
+   },
+   {
+    "text": "소시지·양파 넣고 소스 지그재그",
+    "video_at": 19.5
+   },
+   {
+    "text": "빵은 겉만 살짝",
+    "video_at": 25.2
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "키친타월로 감싸 들기",
+    "video_at": 29.1
+   },
+   {
+    "text": "치즈·피클 토핑",
+    "video_at": 38.1
+   }
+  ],
+  "camp_tips": [
+   "양파는 볶아 오기",
+   "소시지 굽고 빵은 화로에 살짝"
+  ],
+  "safety": [
+   {
+    "text": "아이에겐 소시지를 반으로",
+    "video_at": 32.9
+   }
+  ],
+  "video": {
+   "file": "뭐먹지69-캠핑 핫도그.mp4",
+   "duration": 50.65,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "hotdog_a.jpg",
+   "hotdog_b.jpg",
+   "hotdog_eat.jpg",
+   "hotdog_hook.jpg",
+   "hotdog_ing.jpg"
+  ],
+  "tags": [
+   "아이와 함께",
+   "간식",
+   "숯불"
+  ],
+  "slug": "camping-hotdog",
+  "ep": 69,
+  "video_src": "assets/video/food/r084.mp4"
+ },
+ {
+  "id": "r085",
+  "name": "떡볶이",
+  "title": "캠핑 떡볶이",
+  "category": "kids",
+  "category_name": "아이와 함께",
+  "one_line": "냄비 하나로 뚝딱",
+  "servings": 3,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "떡볶이 떡",
+    "amount": "400g"
+   },
+   {
+    "name": "어묵",
+    "amount": "3장"
+   },
+   {
+    "name": "대파",
+    "amount": "1대"
+   },
+   {
+    "name": "떡볶이 양념",
+    "amount": "통 하나",
+    "home_prep": "고추장·설탕·간장 섞어 오기"
+   },
+   {
+    "name": "물",
+    "amount": "2컵"
+   }
+  ],
+  "home_prep": [
+   "고추장·설탕·간장 섞어 오기"
+  ],
+  "steps": [
+   {
+    "text": "물·양념 끓여 떡·어묵 넣기",
+    "video_at": 16.0
+   },
+   {
+    "text": "걸쭉해지면 대파 넣고 1분",
+    "video_at": 20.3
+   },
+   {
+    "text": "아이용은 짜장 가루로",
+    "video_at": 24.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "냄비째, 이쑤시개로",
+    "video_at": 29.4
+   },
+   {
+    "text": "남은 국물에 라면·밥",
+    "video_at": 39.0
+   }
+  ],
+  "camp_tips": [
+   "양념은 섞어서 통에",
+   "맵지 않은 짜장 떡볶이도 함께"
+  ],
+  "safety": [
+   {
+    "text": "약불에서 자주 젓기",
+    "video_at": 33.6
+   }
+  ],
+  "video": {
+   "file": "뭐먹지70-떡볶이.mp4",
+   "duration": 53.04,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "tteokbok_a.jpg",
+   "tteokbok_b.jpg",
+   "tteokbok_eat.jpg",
+   "tteokbok_hook.jpg",
+   "tteokbok_ing.jpg"
+  ],
+  "tags": [
+   "간식",
+   "아이와 함께",
+   "국물"
+  ],
+  "slug": "tteokbokki",
+  "ep": 70,
+  "video_src": "assets/video/food/r085.mp4"
+ },
+ {
+  "id": "r086",
+  "name": "계란말이",
+  "title": "캠핑 계란말이",
+  "category": "kids",
+  "category_name": "아이와 함께",
+  "one_line": "사각팬 하나로 도톰하게",
+  "servings": 3,
+  "minutes": 10,
+  "difficulty": 2,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "사각팬"
+  ],
+  "ingredients": [
+   {
+    "name": "계란",
+    "amount": "5개",
+    "home_prep": "풀어 페트병에"
+   },
+   {
+    "name": "김",
+    "amount": "2장"
+   },
+   {
+    "name": "대파",
+    "amount": "조금",
+    "home_prep": "다져 오기"
+   },
+   {
+    "name": "소금",
+    "amount": "한 꼬집"
+   }
+  ],
+  "home_prep": [
+   "풀어 페트병에",
+   "다져 오기"
+  ],
+  "steps": [
+   {
+    "text": "약불 사각팬에 얇게 붓고 김",
+    "video_at": 15.4
+   },
+   {
+    "text": "반쯤 익으면 돌돌, 계란물 더",
+    "video_at": 20.4
+   },
+   {
+    "text": "약불에서 천천히",
+    "video_at": 25.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "한입 크기로 썰어 케첩과",
+    "video_at": 31.2
+   },
+   {
+    "text": "남으면 김밥 속으로",
+    "video_at": 40.4
+   }
+  ],
+  "camp_tips": [
+   "계란물은 페트병에",
+   "계란물은 페트병에, 김 넣어 말기"
+  ],
+  "safety": [
+   {
+    "text": "짧은 손잡이는 장갑 끼고",
+    "video_at": 35.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지71-계란말이.mp4",
+   "duration": 53.69,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "eggroll_a.jpg",
+   "eggroll_b.jpg",
+   "eggroll_eat.jpg",
+   "eggroll_hook.jpg",
+   "eggroll_ing.jpg"
+  ],
+  "tags": [
+   "아침",
+   "아이와 함께",
+   "반찬"
+  ],
+  "slug": "rolled-omelette",
+  "ep": 71,
+  "video_src": "assets/video/food/r086.mp4"
+ },
+ {
+  "id": "r088",
+  "name": "감자전",
+  "title": "캠핑 감자전",
+  "category": "kids",
+  "category_name": "아이와 함께",
+  "one_line": "비 오는 날 타프 아래",
+  "servings": 2,
+  "minutes": 20,
+  "difficulty": 2,
+  "season": "가을",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "간 감자",
+    "amount": "감자 3개 분량",
+    "home_prep": "물기 빼서 지퍼백"
+   },
+   {
+    "name": "감자 전분",
+    "amount": "2큰술"
+   },
+   {
+    "name": "소금",
+    "amount": "조금"
+   },
+   {
+    "name": "식용유",
+    "amount": "넉넉히"
+   },
+   {
+    "name": "간장",
+    "amount": "찍어 먹기용"
+   }
+  ],
+  "home_prep": [
+   "물기 빼서 지퍼백"
+  ],
+  "steps": [
+   {
+    "text": "기름 넉넉히, 얇고 동그랗게",
+    "video_at": 16.5
+   },
+   {
+    "text": "노릇해지면 뒤집어 꾹꾹",
+    "video_at": 21.2
+   },
+   {
+    "text": "얇게 펴기",
+    "video_at": 26.1
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "가위로 잘라 간장에",
+    "video_at": 31.2
+   },
+   {
+    "text": "비 오는 날 타프 아래",
+    "video_at": 41.7
+   }
+  ],
+  "camp_tips": [
+   "감자는 갈아서 물기 빼 오기",
+   "감자는 집에서 갈아 지퍼백"
+  ],
+  "safety": [
+   {
+    "text": "기름 튐, 반죽은 천천히",
+    "video_at": 36.4
+   }
+  ],
+  "video": {
+   "file": "뭐먹지72-감자전.mp4",
+   "duration": 55.32,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "gamjajeon_a.jpg",
+   "gamjajeon_b.jpg",
+   "gamjajeon_eat.jpg",
+   "gamjajeon_hook.jpg",
+   "gamjajeon_ing.jpg"
+  ],
+  "tags": [
+   "간식",
+   "비 오는 날",
+   "안주"
+  ],
+  "slug": "potato-pancake",
+  "ep": 72,
+  "video_src": "assets/video/food/r088.mp4"
+ },
+ {
+  "id": "r091",
+  "name": "소시지 야채볶음",
+  "title": "소시지 야채볶음",
+  "category": "night",
+  "category_name": "안주·야식",
+  "one_line": "케첩 하나로 뚝딱",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "비엔나 소시지",
+    "amount": "1봉"
+   },
+   {
+    "name": "양파·피망",
+    "amount": "각 1개",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "케첩",
+    "amount": "2큰술"
+   },
+   {
+    "name": "굴소스",
+    "amount": "1큰술"
+   }
+  ],
+  "home_prep": [
+   "썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "칼집 낸 소시지 먼저, 채소 넣기",
+    "video_at": 15.4
+   },
+   {
+    "text": "케첩·굴소스 넣고 1분",
+    "video_at": 20.1
+   },
+   {
+    "text": "소스는 마지막에",
+    "video_at": 25.6
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "팬째, 이쑤시개로",
+    "video_at": 30.5
+   },
+   {
+    "text": "남으면 덮밥으로",
+    "video_at": 39.8
+   }
+  ],
+  "camp_tips": [
+   "채소·소시지 한 통에",
+   "케첩·굴소스 한 병씩이면 끝"
+  ],
+  "safety": [
+   {
+    "text": "소스 튐, 약불로",
+    "video_at": 35.0
+   }
+  ],
+  "video": {
+   "file": "뭐먹지73-소시지 야채볶음.mp4",
+   "duration": 52.93,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "soyabok_a.jpg",
+   "soyabok_b.jpg",
+   "soyabok_eat.jpg",
+   "soyabok_hook.jpg",
+   "soyabok_ing.jpg"
+  ],
+  "tags": [
+   "안주",
+   "야식",
+   "팬 하나"
+  ],
+  "slug": "sausage-veggie-stirfry",
+  "ep": 73,
+  "video_src": "assets/video/food/r091.mp4"
+ },
+ {
+  "id": "r092",
+  "name": "골뱅이 무침",
+  "title": "골뱅이 무침",
+  "category": "night",
+  "category_name": "안주·야식",
+  "one_line": "불 없이 버무리기만",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "여름",
+  "tools": [
+   "없음"
+  ],
+  "ingredients": [
+   {
+    "name": "골뱅이 통조림",
+    "amount": "1캔"
+   },
+   {
+    "name": "오이·양파",
+    "amount": "각 반 개",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "소면",
+    "amount": "2인분",
+    "home_prep": "삶아 헹궈 오기"
+   },
+   {
+    "name": "초고추장",
+    "amount": "4큰술"
+   }
+  ],
+  "home_prep": [
+   "썰어 오기",
+   "삶아 헹궈 오기"
+  ],
+  "steps": [
+   {
+    "text": "국물 따라 내고 채소와 볼에",
+    "video_at": 17.0
+   },
+   {
+    "text": "초고추장 넣고 버무리기",
+    "video_at": 21.0
+   },
+   {
+    "text": "국물은 한 숟갈만",
+    "video_at": 25.5
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "소면에 올려 돌돌",
+    "video_at": 31.1
+   },
+   {
+    "text": "여름밤 차갑게",
+    "video_at": 40.5
+   }
+  ],
+  "camp_tips": [
+   "소면은 삶아 헹궈 오기",
+   "불 없이, 소면은 삶아 오기"
+  ],
+  "safety": [
+   {
+    "text": "더운 날 바로 먹기",
+    "video_at": 35.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지74-골뱅이 무침.mp4",
+   "duration": 54.15,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "golbaeng_a.jpg",
+   "golbaeng_b.jpg",
+   "golbaeng_eat.jpg",
+   "golbaeng_hook.jpg",
+   "golbaeng_ing.jpg"
+  ],
+  "tags": [
+   "안주",
+   "여름",
+   "불 없이"
+  ],
+  "slug": "golbaengi-muchim",
+  "ep": 74,
+  "video_src": "assets/video/food/r092.mp4"
+ },
+ {
+  "id": "r093",
+  "name": "두부김치",
+  "title": "캠핑 두부김치",
+  "category": "night",
+  "category_name": "안주·야식",
+  "one_line": "따끈한 두부에 볶은 김치",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "두부",
+    "amount": "1모"
+   },
+   {
+    "name": "볶음 김치",
+    "amount": "1컵",
+    "home_prep": "고기와 볶아 오기"
+   },
+   {
+    "name": "돼지고기",
+    "amount": "100g",
+    "home_prep": "김치와 함께"
+   },
+   {
+    "name": "참기름",
+    "amount": "1큰술"
+   }
+  ],
+  "home_prep": [
+   "고기와 볶아 오기",
+   "김치와 함께"
+  ],
+  "steps": [
+   {
+    "text": "두부 썰어 끓는 물에 3분",
+    "video_at": 15.4
+   },
+   {
+    "text": "김치 데우고 참기름",
+    "video_at": 19.6
+   },
+   {
+    "text": "두부는 오래 끓이지 않기",
+    "video_at": 24.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "두부 둘러 담고 가운데 김치",
+    "video_at": 29.2
+   },
+   {
+    "text": "남은 김치는 볶음밥",
+    "video_at": 38.8
+   }
+  ],
+  "camp_tips": [
+   "김치·고기는 볶아 오기",
+   "두부는 데우기만, 김치는 볶아 오기"
+  ],
+  "safety": [
+   {
+    "text": "국자로 두부 건지기",
+    "video_at": 33.7
+   }
+  ],
+  "video": {
+   "file": "뭐먹지75-두부김치.mp4",
+   "duration": 52.16,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "dubukim_a.jpg",
+   "dubukim_b.jpg",
+   "dubukim_eat.jpg",
+   "dubukim_hook.jpg",
+   "dubukim_ing.jpg"
+  ],
+  "tags": [
+   "안주",
+   "야식",
+   "간편"
+  ],
+  "slug": "dubu-kimchi",
+  "ep": 75,
+  "video_src": "assets/video/food/r093.mp4"
+ },
+ {
+  "id": "r094",
+  "name": "폭탄 계란찜",
+  "title": "캠핑 폭탄 계란찜",
+  "category": "night",
+  "category_name": "안주·야식",
+  "one_line": "뚜껑 열면 봉긋",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "작은 코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "계란",
+    "amount": "4개",
+    "home_prep": "물과 섞어 페트병에"
+   },
+   {
+    "name": "물",
+    "amount": "계란과 같은 양"
+   },
+   {
+    "name": "대파",
+    "amount": "조금"
+   },
+   {
+    "name": "소금·새우젓",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "물과 섞어 페트병에"
+  ],
+  "steps": [
+   {
+    "text": "물 조금 끓여 계란물 붓고 젓기",
+    "video_at": 15.6
+   },
+   {
+    "text": "대파 올려 뚜껑 덮고 약불 3분",
+    "video_at": 19.7
+   },
+   {
+    "text": "뚜껑 열지 않기",
+    "video_at": 25.4
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "코펠째 숟가락으로",
+    "video_at": 30.2
+   },
+   {
+    "text": "라면·고기 곁들이",
+    "video_at": 39.2
+   }
+  ],
+  "camp_tips": [
+   "계란물은 페트병에",
+   "뚜껑 덮어 폭탄 계란찜"
+  ],
+  "safety": [
+   {
+    "text": "약불, 타는 냄새 나면 끄기",
+    "video_at": 33.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지76-폭탄 계란찜.mp4",
+   "duration": 52.6,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "gyeranjjim_a.jpg",
+   "gyeranjjim_b.jpg",
+   "gyeranjjim_eat.jpg",
+   "gyeranjjim_hook.jpg",
+   "gyeranjjim_ing.jpg"
+  ],
+  "tags": [
+   "곁들임",
+   "아이와 함께",
+   "간편"
+  ],
+  "slug": "steamed-egg",
+  "ep": 76,
+  "video_src": "assets/video/food/r094.mp4"
+ },
+ {
+  "id": "r095",
+  "name": "노가리 구이",
+  "title": "석쇠 노가리 구이",
+  "category": "night",
+  "category_name": "안주·야식",
+  "one_line": "가볍고 안 상하는 안주",
+  "servings": 2,
+  "minutes": 5,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "석쇠"
+  ],
+  "ingredients": [
+   {
+    "name": "노가리",
+    "amount": "10마리"
+   },
+   {
+    "name": "마요네즈",
+    "amount": "3큰술"
+   },
+   {
+    "name": "간장",
+    "amount": "1큰술"
+   },
+   {
+    "name": "청양고추",
+    "amount": "1개",
+    "home_prep": "다져 오기"
+   }
+  ],
+  "home_prep": [
+   "다져 오기"
+  ],
+  "steps": [
+   {
+    "text": "은은한 숯불에 올려 자주 뒤집기",
+    "video_at": 14.8
+   },
+   {
+    "text": "노릇하고 부풀면 완성",
+    "video_at": 19.2
+   },
+   {
+    "text": "센 불 금지",
+    "video_at": 24.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "마요간장 소스에 찍어",
+    "video_at": 29.4
+   },
+   {
+    "text": "남으면 지퍼백 보관",
+    "video_at": 38.6
+   }
+  ],
+  "camp_tips": [
+   "가볍고 안 상하는 안주",
+   "마요·간장 소스 한 컵"
+  ],
+  "safety": [
+   {
+    "text": "아이는 살만 발라서",
+    "video_at": 34.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지77-노가리 구이.mp4",
+   "duration": 52.42,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "nogari_a.jpg",
+   "nogari_b.jpg",
+   "nogari_eat.jpg",
+   "nogari_hook.jpg",
+   "nogari_ing.jpg"
+  ],
+  "tags": [
+   "안주",
+   "석쇠",
+   "야식"
+  ],
+  "slug": "nogari",
+  "ep": 77,
+  "video_src": "assets/video/food/r095.mp4"
+ },
+ {
+  "id": "r096",
+  "name": "먹태 구이",
+  "title": "석쇠 먹태 구이",
+  "category": "night",
+  "category_name": "안주·야식",
+  "one_line": "청양 마요에 콕",
+  "servings": 2,
+  "minutes": 5,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "석쇠"
+  ],
+  "ingredients": [
+   {
+    "name": "먹태",
+    "amount": "1마리",
+    "home_prep": "물 살짝 뿌려 두기"
+   },
+   {
+    "name": "마요네즈",
+    "amount": "3큰술"
+   },
+   {
+    "name": "간장",
+    "amount": "1큰술"
+   },
+   {
+    "name": "청양고추",
+    "amount": "1개"
+   },
+   {
+    "name": "깨",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "물 살짝 뿌려 두기"
+  ],
+  "steps": [
+   {
+    "text": "석쇠에 펴서 껍질 쪽부터",
+    "video_at": 16.7
+   },
+   {
+    "text": "노릇해지면 결대로 찢기",
+    "video_at": 21.6
+   },
+   {
+    "text": "가위 말고 손으로",
+    "video_at": 25.8
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "청양 마요 소스에 깨",
+    "video_at": 31.3
+   },
+   {
+    "text": "아이용은 마요+꿀",
+    "video_at": 40.7
+   }
+  ],
+  "camp_tips": [
+   "물 살짝 뿌려 두기",
+   "청양 마요 소스, 손으로 찢기"
+  ],
+  "safety": [
+   {
+    "text": "장갑 끼고 찢기",
+    "video_at": 35.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지78-먹태 구이.mp4",
+   "duration": 54.45,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "meoktae_a.jpg",
+   "meoktae_b.jpg",
+   "meoktae_eat.jpg",
+   "meoktae_hook.jpg",
+   "meoktae_ing.jpg"
+  ],
+  "tags": [
+   "안주",
+   "석쇠",
+   "야식"
+  ],
+  "slug": "meoktae",
+  "ep": 78,
+  "video_src": "assets/video/food/r096.mp4"
+ },
+ {
+  "id": "r097",
+  "name": "치즈 감자",
+  "title": "호일 치즈 감자",
+  "category": "night",
+  "category_name": "안주·야식",
+  "one_line": "치즈가 쭉 늘어나요",
+  "servings": 3,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "호일",
+   "화로"
+  ],
+  "ingredients": [
+   {
+    "name": "삶은 감자",
+    "amount": "3개",
+    "home_prep": "집에서 삶아 오기"
+   },
+   {
+    "name": "피자 치즈",
+    "amount": "1컵"
+   },
+   {
+    "name": "버터",
+    "amount": "1조각"
+   },
+   {
+    "name": "베이컨",
+    "amount": "3줄",
+    "home_prep": "구워 잘라 오기"
+   },
+   {
+    "name": "쿠킹 호일",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "집에서 삶아 오기",
+   "구워 잘라 오기"
+  ],
+  "steps": [
+   {
+    "text": "호일에 감자 으깨고 버터·베이컨",
+    "video_at": 16.6
+   },
+   {
+    "text": "치즈 덮고 오므려 5분",
+    "video_at": 20.9
+   },
+   {
+    "text": "호일은 오므리기",
+    "video_at": 25.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "호일째 숟가락으로",
+    "video_at": 30.8
+   },
+   {
+    "text": "옥수수·할라피뇨 토핑",
+    "video_at": 40.4
+   }
+  ],
+  "camp_tips": [
+   "감자는 삶아 오기",
+   "삶은 감자 으깨 치즈 올려 호일"
+  ],
+  "safety": [
+   {
+    "text": "호일 가장자리 잡기",
+    "video_at": 35.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지79-치즈 감자.mp4",
+   "duration": 53.25,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "chpotato_a.jpg",
+   "chpotato_b.jpg",
+   "chpotato_eat.jpg",
+   "chpotato_hook.jpg",
+   "chpotato_ing.jpg"
+  ],
+  "tags": [
+   "안주",
+   "간식",
+   "호일"
+  ],
+  "slug": "cheese-potato",
+  "ep": 79,
+  "video_src": "assets/video/food/r097.mp4"
+ },
+ {
+  "id": "r098",
+  "name": "나초 치즈",
+  "title": "캠핑 나초 치즈",
+  "category": "night",
+  "category_name": "안주·야식",
+  "one_line": "팬 하나에 녹아내리는 치즈",
+  "servings": 3,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "무쇠팬",
+   "버너"
+  ],
+  "ingredients": [
+   {
+    "name": "나초 칩",
+    "amount": "1봉",
+    "home_prep": "통에 옮겨 오기"
+   },
+   {
+    "name": "피자 치즈",
+    "amount": "1컵"
+   },
+   {
+    "name": "살사 소스",
+    "amount": "작은 병"
+   },
+   {
+    "name": "할라피뇨",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "통에 옮겨 오기"
+  ],
+  "steps": [
+   {
+    "text": "무쇠팬에 나초, 치즈·할라피뇨",
+    "video_at": 15.1
+   },
+   {
+    "text": "뚜껑 덮고 약불 3분",
+    "video_at": 19.9
+   },
+   {
+    "text": "센 불 금지",
+    "video_at": 24.8
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "팬째 살사에 찍어",
+    "video_at": 30.0
+   },
+   {
+    "text": "남은 고기·콩 토핑",
+    "video_at": 39.2
+   }
+  ],
+  "camp_tips": [
+   "나초는 단단한 통에",
+   "팬에 나초 깔고 치즈 녹이기"
+  ],
+  "safety": [
+   {
+    "text": "무쇠팬은 받침 깔고",
+    "video_at": 34.2
+   }
+  ],
+  "video": {
+   "file": "뭐먹지80-나초 치즈.mp4",
+   "duration": 52.36,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "nacho_a.jpg",
+   "nacho_b.jpg",
+   "nacho_eat.jpg",
+   "nacho_hook.jpg",
+   "nacho_ing.jpg"
+  ],
+  "tags": [
+   "안주",
+   "간식",
+   "팬 하나"
+  ],
+  "slug": "nacho-cheese",
+  "ep": 80,
+  "video_src": "assets/video/food/r098.mp4"
+ },
+ {
+  "id": "r100",
+  "name": "오징어 숯불구이",
+  "title": "반건조 오징어 숯불구이",
+  "category": "night",
+  "category_name": "안주·야식",
+  "one_line": "쫄깃하게, 불 조절이 핵심",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "석쇠"
+  ],
+  "ingredients": [
+   {
+    "name": "반건조 오징어",
+    "amount": "2마리",
+    "home_prep": "냉장 보관"
+   },
+   {
+    "name": "마요네즈",
+    "amount": "3큰술"
+   },
+   {
+    "name": "간장",
+    "amount": "1큰술"
+   },
+   {
+    "name": "청양고추",
+    "amount": "1개"
+   }
+  ],
+  "home_prep": [
+   "냉장 보관"
+  ],
+  "steps": [
+   {
+    "text": "은은한 숯불에 펴서, 집게로 누르기",
+    "video_at": 17.6
+   },
+   {
+    "text": "말리면 뒤집어 앞뒤 1분씩",
+    "video_at": 22.1
+   },
+   {
+    "text": "오래 굽지 않기",
+    "video_at": 26.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "가위로 길게, 마요간장에",
+    "video_at": 31.2
+   },
+   {
+    "text": "남으면 라면에",
+    "video_at": 41.9
+   }
+  ],
+  "camp_tips": [
+   "반건조라 냉장만",
+   "반건조 오징어, 불 조절이 핵심"
+  ],
+  "safety": [
+   {
+    "text": "기름 불, 집게로 들어 올리기",
+    "video_at": 36.4
+   }
+  ],
+  "video": {
+   "file": "뭐먹지81-오징어 숯불구이.mp4",
+   "duration": 55.17,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "drysquid_a.jpg",
+   "drysquid_b.jpg",
+   "drysquid_eat.jpg",
+   "drysquid_hook.jpg",
+   "drysquid_ing.jpg"
+  ],
+  "tags": [
+   "안주",
+   "숯불",
+   "야식"
+  ],
+  "slug": "grilled-dried-squid",
+  "ep": 81,
+  "video_src": "assets/video/food/r100.mp4"
+ },
+ {
+  "id": "r026",
+  "name": "짜파게티 볶음",
+  "title": "짜파게티 볶음",
+  "category": "noodle",
+  "category_name": "면 요리",
+  "one_line": "물 버리지 않고 졸이기",
+  "servings": 2,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "짜장 라면",
+    "amount": "2봉"
+   },
+   {
+    "name": "양파",
+    "amount": "반 개",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "스팸",
+    "amount": "작은 캔 1개",
+    "home_prep": "깍둑썰기"
+   },
+   {
+    "name": "계란",
+    "amount": "2개"
+   }
+  ],
+  "home_prep": [
+   "썰어 오기",
+   "깍둑썰기"
+  ],
+  "steps": [
+   {
+    "text": "물 적게, 면·양파·스팸 함께",
+    "video_at": 14.4
+   },
+   {
+    "text": "자작해지면 수프 넣고 졸이기",
+    "video_at": 19.1
+   },
+   {
+    "text": "물은 면이 잠길 만큼",
+    "video_at": 23.8
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "계란 프라이 올려 코펠째",
+    "video_at": 29.0
+   },
+   {
+    "text": "남으면 짜장밥",
+    "video_at": 38.5
+   }
+  ],
+  "camp_tips": [
+   "면 삶은 물 버리지 않기",
+   "물 버리지 말고 졸여서 설거지 줄이기"
+  ],
+  "safety": [
+   {
+    "text": "짜장 튐, 불 줄이고 젓기",
+    "video_at": 33.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지82-짜파게티 볶음.mp4",
+   "duration": 52.27,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "jjapa_a.jpg",
+   "jjapa_b.jpg",
+   "jjapa_eat.jpg",
+   "jjapa_hook.jpg",
+   "jjapa_ing.jpg"
+  ],
+  "tags": [
+   "면",
+   "야식",
+   "설거지 줄이기"
+  ],
+  "slug": "jjapa-bokkeum",
+  "ep": 82,
+  "video_src": "assets/video/food/r026.mp4"
+ },
+ {
+  "id": "r027",
+  "name": "비빔면 & 삼겹살",
+  "title": "비빔면 & 삼겹살",
+  "category": "noodle",
+  "category_name": "면 요리",
+  "one_line": "여름 캠핑 최고 조합",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "여름",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "비빔면",
+    "amount": "2봉"
+   },
+   {
+    "name": "삼겹살",
+    "amount": "300g"
+   },
+   {
+    "name": "오이",
+    "amount": "반 개",
+    "home_prep": "채 썰기"
+   },
+   {
+    "name": "생수",
+    "amount": "1병",
+    "home_prep": "얼려 오기"
+   }
+  ],
+  "home_prep": [
+   "채 썰기",
+   "얼려 오기"
+  ],
+  "steps": [
+   {
+    "text": "삼겹살은 화로, 면은 버너",
+    "video_at": 15.5
+   },
+   {
+    "text": "찬 생수에 헹궈 버무리기",
+    "video_at": 19.9
+   },
+   {
+    "text": "바로 헹궈야 쫄깃",
+    "video_at": 24.9
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "삼겹살로 감싸 한입",
+    "video_at": 29.8
+   },
+   {
+    "text": "오이채 올리기",
+    "video_at": 39.8
+   }
+  ],
+  "camp_tips": [
+   "헹굼물은 얼린 생수 한 병",
+   "면 헹굴 물은 생수 한 병, 고기는 화로에서"
+  ],
+  "safety": [
+   {
+    "text": "기름 불, 집게 쓰기",
+    "video_at": 34.4
+   }
+  ],
+  "video": {
+   "file": "뭐먹지83-비빔면 & 삼겹살.mp4",
+   "duration": 53.52,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "bibsam_a.jpg",
+   "bibsam_b.jpg",
+   "bibsam_eat.jpg",
+   "bibsam_hook.jpg",
+   "bibsam_ing.jpg"
+  ],
+  "tags": [
+   "면",
+   "여름",
+   "고기"
+  ],
+  "slug": "bibimmyeon-samgyeop",
+  "ep": 83,
+  "video_src": "assets/video/food/r027.mp4"
+ },
+ {
+  "id": "r028",
+  "name": "잔치국수",
+  "title": "캠핑 잔치국수",
+  "category": "noodle",
+  "category_name": "면 요리",
+  "one_line": "쌀쌀한 아침 한 그릇",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "소면",
+    "amount": "2인분"
+   },
+   {
+    "name": "육수 큐브",
+    "amount": "2개"
+   },
+   {
+    "name": "계란 지단",
+    "amount": "1개 분량",
+    "home_prep": "볶아 통에"
+   },
+   {
+    "name": "애호박",
+    "amount": "1/3개",
+    "home_prep": "볶아 통에"
+   },
+   {
+    "name": "김가루",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "볶아 통에",
+   "볶아 통에"
+  ],
+  "steps": [
+   {
+    "text": "육수 끓이고 소면 따로 삶기",
+    "video_at": 15.6
+   },
+   {
+    "text": "끓어오르면 찬물 반 컵",
+    "video_at": 20.5
+   },
+   {
+    "text": "찬물에 비벼 헹구기",
+    "video_at": 25.5
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "국물 붓고 고명 올리기",
+    "video_at": 30.9
+   },
+   {
+    "text": "쌀쌀한 아침 한 그릇",
+    "video_at": 41.5
+   }
+  ],
+  "camp_tips": [
+   "고명은 집에서 통에",
+   "고명은 집에서 통에, 국물은 육수 큐브"
+  ],
+  "safety": [
+   {
+    "text": "손잡이 뜨거움, 장갑",
+    "video_at": 35.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지84-잔치국수.mp4",
+   "duration": 55.68,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "janchi_a.jpg",
+   "janchi_b.jpg",
+   "janchi_eat.jpg",
+   "janchi_hook.jpg",
+   "janchi_ing.jpg"
+  ],
+  "tags": [
+   "면",
+   "아침",
+   "국물"
+  ],
+  "slug": "janchi-guksu",
+  "ep": 84,
+  "video_src": "assets/video/food/r028.mp4"
+ },
+ {
+  "id": "r030",
+  "name": "볶음 우동",
+  "title": "캠핑 볶음 우동",
+  "category": "noodle",
+  "category_name": "면 요리",
+  "one_line": "팬 하나로 차례차례",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "우동 사리",
+    "amount": "2개",
+    "home_prep": "살짝 풀어 두기"
+   },
+   {
+    "name": "돼지고기",
+    "amount": "150g"
+   },
+   {
+    "name": "양배추",
+    "amount": "1/4통",
+    "home_prep": "썰어 오기"
+   },
+   {
+    "name": "굴소스",
+    "amount": "1큰술"
+   },
+   {
+    "name": "간장",
+    "amount": "1큰술"
+   },
+   {
+    "name": "가쓰오부시",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "살짝 풀어 두기",
+   "썰어 오기"
+  ],
+  "steps": [
+   {
+    "text": "고기→양배추→우동 차례로",
+    "video_at": 15.7
+   },
+   {
+    "text": "굴소스·간장, 센 불에 빠르게",
+    "video_at": 20.8
+   },
+   {
+    "text": "집게로 들어 올리듯",
+    "video_at": 25.6
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "가쓰오부시 뿌려 팬째",
+    "video_at": 30.5
+   },
+   {
+    "text": "남은 채소 다 넣기",
+    "video_at": 39.0
+   }
+  ],
+  "camp_tips": [
+   "우동은 살짝 풀어 두기",
+   "팬 하나에 고기·채소·우동 차례로"
+  ],
+  "safety": [
+   {
+    "text": "팬 손잡이, 장갑",
+    "video_at": 34.7
+   }
+  ],
+  "video": {
+   "file": "뭐먹지85-볶음 우동.mp4",
+   "duration": 53.06,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "bokudon_a.jpg",
+   "bokudon_b.jpg",
+   "bokudon_eat.jpg",
+   "bokudon_hook.jpg",
+   "bokudon_ing.jpg"
+  ],
+  "tags": [
+   "면",
+   "팬 하나",
+   "야식"
+  ],
+  "slug": "yaki-udon",
+  "ep": 85,
+  "video_src": "assets/video/food/r030.mp4"
+ },
+ {
+  "id": "r031",
+  "name": "쌀국수",
+  "title": "캠핑 쌀국수",
+  "category": "noodle",
+  "category_name": "면 요리",
+  "one_line": "숙주 듬뿍 따끈한 국물",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "쌀국수 면",
+    "amount": "2인분",
+    "home_prep": "불려 오기"
+   },
+   {
+    "name": "쌀국수 육수",
+    "amount": "1팩"
+   },
+   {
+    "name": "소고기",
+    "amount": "100g",
+    "home_prep": "샤브용"
+   },
+   {
+    "name": "숙주",
+    "amount": "한 줌"
+   },
+   {
+    "name": "라임",
+    "amount": "1개"
+   }
+  ],
+  "home_prep": [
+   "불려 오기",
+   "샤브용"
+  ],
+  "steps": [
+   {
+    "text": "육수 끓이고 면 30초",
+    "video_at": 15.2
+   },
+   {
+    "text": "소고기에 끓는 국물 붓기",
+    "video_at": 19.6
+   },
+   {
+    "text": "숙주는 먹기 직전",
+    "video_at": 23.7
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "라임 짜고 국물부터",
+    "video_at": 28.6
+   },
+   {
+    "text": "해장 아침에",
+    "video_at": 38.2
+   }
+  ],
+  "camp_tips": [
+   "면은 불려 오기",
+   "쌀국수 면은 불려 오기, 숙주는 마지막에"
+  ],
+  "safety": [
+   {
+    "text": "국물은 바닥에 두고 천천히",
+    "video_at": 33.2
+   }
+  ],
+  "video": {
+   "file": "뭐먹지86-쌀국수.mp4",
+   "duration": 51.97,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "pho_a.jpg",
+   "pho_b.jpg",
+   "pho_eat.jpg",
+   "pho_hook.jpg",
+   "pho_ing.jpg"
+  ],
+  "tags": [
+   "면",
+   "국물",
+   "해장"
+  ],
+  "slug": "pho",
+  "ep": 86,
+  "video_src": "assets/video/food/r031.mp4"
+ },
+ {
+  "id": "r033",
+  "name": "원팬 파스타",
+  "title": "캠핑 원팬 파스타",
+  "category": "noodle",
+  "category_name": "면 요리",
+  "one_line": "냄비 하나로 한 번에",
+  "servings": 2,
+  "minutes": 20,
+  "difficulty": 2,
+  "season": "사계절",
+  "tools": [
+   "버너",
+   "팬"
+  ],
+  "ingredients": [
+   {
+    "name": "스파게티 면",
+    "amount": "2인분",
+    "home_prep": "반으로 부러뜨리기"
+   },
+   {
+    "name": "토마토 소스",
+    "amount": "1/2병"
+   },
+   {
+    "name": "마늘",
+    "amount": "4쪽",
+    "home_prep": "편 썰기"
+   },
+   {
+    "name": "베이컨",
+    "amount": "4줄"
+   },
+   {
+    "name": "물",
+    "amount": "500ml"
+   },
+   {
+    "name": "치즈 가루",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "반으로 부러뜨리기",
+   "편 썰기"
+  ],
+  "steps": [
+   {
+    "text": "베이컨·마늘 볶고 전부 넣기",
+    "video_at": 15.7
+   },
+   {
+    "text": "저으며 10분 졸이기",
+    "video_at": 20.9
+   },
+   {
+    "text": "물 버리지 않기",
+    "video_at": 25.5
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "치즈 뿌려 냄비째",
+    "video_at": 30.6
+   },
+   {
+    "text": "남은 소스엔 빵",
+    "video_at": 40.7
+   }
+  ],
+  "camp_tips": [
+   "면은 반으로 부러뜨려 오기",
+   "면과 소스를 한 팬에, 면수 버리지 않기"
+  ],
+  "safety": [
+   {
+    "text": "눌어붙음, 약불로 젓기",
+    "video_at": 35.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지87-원팬 파스타.mp4",
+   "duration": 54.19,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "onepan_a.jpg",
+   "onepan_b.jpg",
+   "onepan_eat.jpg",
+   "onepan_hook.jpg",
+   "onepan_ing.jpg"
+  ],
+  "tags": [
+   "면",
+   "원팬",
+   "설거지 줄이기"
+  ],
+  "slug": "onepan-pasta",
+  "ep": 87,
+  "video_src": "assets/video/food/r033.mp4"
+ },
+ {
+  "id": "r034",
+  "name": "냉메밀",
+  "title": "캠핑 냉메밀",
+  "category": "noodle",
+  "category_name": "면 요리",
+  "one_line": "얼음 동동 여름 한 끼",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "여름",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "메밀면",
+    "amount": "2인분"
+   },
+   {
+    "name": "메밀 육수",
+    "amount": "2팩",
+    "home_prep": "페트병에 얼려 오기"
+   },
+   {
+    "name": "쪽파",
+    "amount": "조금"
+   },
+   {
+    "name": "김가루",
+    "amount": "조금"
+   },
+   {
+    "name": "와사비",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "페트병에 얼려 오기"
+  ],
+  "steps": [
+   {
+    "text": "끓는 물에 4분",
+    "video_at": 16.2
+   },
+   {
+    "text": "찬 생수에 박박 헹구기",
+    "video_at": 20.1
+   },
+   {
+    "text": "여러 번 헹구기",
+    "video_at": 24.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "살얼음 육수에 담그기",
+    "video_at": 29.5
+   },
+   {
+    "text": "한여름 한 끼",
+    "video_at": 39.2
+   }
+  ],
+  "camp_tips": [
+   "육수는 얼려서 아이스팩 겸",
+   "쯔유 얼려 와서 아이스박스 겸 육수"
+  ],
+  "safety": [
+   {
+    "text": "먹을 만큼만 삶기",
+    "video_at": 34.4
+   }
+  ],
+  "video": {
+   "file": "뭐먹지88-냉메밀.mp4",
+   "duration": 53.17,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "memil_a.jpg",
+   "memil_b.jpg",
+   "memil_eat.jpg",
+   "memil_hook.jpg",
+   "memil_ing.jpg"
+  ],
+  "tags": [
+   "면",
+   "여름",
+   "시원한"
+  ],
+  "slug": "naeng-memil",
+  "ep": 88,
+  "video_src": "assets/video/food/r034.mp4"
+ },
+ {
+  "id": "r006",
+  "name": "장어구이",
+  "title": "캠핑 장어구이",
+  "category": "grill",
+  "category_name": "숯불·화로 구이",
+  "one_line": "여름 보양 숯불구이",
+  "servings": 2,
+  "minutes": 20,
+  "difficulty": 2,
+  "season": "여름",
+  "tools": [
+   "화로",
+   "그릴"
+  ],
+  "ingredients": [
+   {
+    "name": "손질 장어",
+    "amount": "2마리"
+   },
+   {
+    "name": "장어 소스",
+    "amount": "4큰술"
+   },
+   {
+    "name": "생강채",
+    "amount": "조금"
+   },
+   {
+    "name": "깻잎",
+    "amount": "10장"
+   }
+  ],
+  "home_prep": [],
+  "steps": [
+   {
+    "text": "은은한 숯불, 껍질 쪽부터",
+    "video_at": 14.6
+   },
+   {
+    "text": "거의 익으면 소스 바르기",
+    "video_at": 19.6
+   },
+   {
+    "text": "소스는 마지막에",
+    "video_at": 24.2
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "한입 크기, 깻잎 쌈",
+    "video_at": 29.0
+   },
+   {
+    "text": "여름 보양",
+    "video_at": 38.6
+   }
+  ],
+  "camp_tips": [
+   "손질 장어 사 오기",
+   "손질 장어 사 오기, 소스는 마지막에 발라 타지 않게"
+  ],
+  "safety": [
+   {
+    "text": "기름 불, 집게로 옮기기",
+    "video_at": 34.0
+   }
+  ],
+  "video": {
+   "file": "뭐먹지89-장어구이.mp4",
+   "duration": 52.3,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "jangeo_a.jpg",
+   "jangeo_b.jpg",
+   "jangeo_eat.jpg",
+   "jangeo_hook.jpg",
+   "jangeo_ing.jpg"
+  ],
+  "tags": [
+   "고기",
+   "여름",
+   "보양"
+  ],
+  "slug": "grilled-eel",
+  "ep": 89,
+  "video_src": "assets/video/food/r006.mp4"
+ },
+ {
+  "id": "r007",
+  "name": "대하 소금구이",
+  "title": "대하 소금구이",
+  "category": "grill",
+  "category_name": "숯불·화로 구이",
+  "one_line": "가을 캠핑 제철",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "가을",
+  "tools": [
+   "무쇠팬"
+  ],
+  "ingredients": [
+   {
+    "name": "대하",
+    "amount": "10~12마리",
+    "home_prep": "얼음과 함께"
+   },
+   {
+    "name": "굵은소금",
+    "amount": "두껍게 깔 만큼"
+   },
+   {
+    "name": "버터",
+    "amount": "조금",
+    "home_prep": "머리 구이용"
+   }
+  ],
+  "home_prep": [
+   "얼음과 함께",
+   "머리 구이용"
+  ],
+  "steps": [
+   {
+    "text": "굵은소금 두껍게, 대하 나란히",
+    "video_at": 16.5
+   },
+   {
+    "text": "뚜껑 덮고 중불 8분",
+    "video_at": 21.4
+   },
+   {
+    "text": "뚜껑으로 김 가두기",
+    "video_at": 26.4
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "껍질째 손으로, 머리는 버터에",
+    "video_at": 31.3
+   },
+   {
+    "text": "소금은 호일에 싸서",
+    "video_at": 40.7
+   }
+  ],
+  "camp_tips": [
+   "얼음과 함께 담아 오기",
+   "팬에 굵은소금 깔고 뚜껑, 껍질째 손으로"
+  ],
+  "safety": [
+   {
+    "text": "뜨거운 소금, 식을 때까지",
+    "video_at": 35.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지90-대하 소금구이.mp4",
+   "duration": 55.1,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "daeha_a.jpg",
+   "daeha_b.jpg",
+   "daeha_eat.jpg",
+   "daeha_hook.jpg",
+   "daeha_ing.jpg"
+  ],
+  "tags": [
+   "해산물",
+   "가을",
+   "무쇠팬"
+  ],
+  "slug": "salt-grilled-prawns",
+  "ep": 90,
+  "video_src": "assets/video/food/r007.mp4"
+ },
+ {
+  "id": "r012",
+  "name": "옥수수 버터구이",
+  "title": "옥수수 버터구이",
+  "category": "grill",
+  "category_name": "숯불·화로 구이",
+  "one_line": "버터 향 솔솔 여름 간식",
+  "servings": 2,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "여름",
+  "tools": [
+   "화로",
+   "호일"
+  ],
+  "ingredients": [
+   {
+    "name": "삶은 옥수수",
+    "amount": "2개"
+   },
+   {
+    "name": "버터",
+    "amount": "2큰술"
+   },
+   {
+    "name": "설탕",
+    "amount": "조금"
+   },
+   {
+    "name": "소금",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [],
+  "steps": [
+   {
+    "text": "버터·설탕·소금, 호일에 싸기",
+    "video_at": 15.7
+   },
+   {
+    "text": "숯불 가장자리, 굴려 가며 10분",
+    "video_at": 20.7
+   },
+   {
+    "text": "자주 굴리기",
+    "video_at": 24.6
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "버터 한 번 더, 손으로",
+    "video_at": 29.3
+   },
+   {
+    "text": "남으면 볶음밥",
+    "video_at": 40.3
+   }
+  ],
+  "camp_tips": [
+   "삶은 옥수수 사 오기",
+   "삶은 옥수수 사 와서 겉만 굽기, 버터는 호일째"
+  ],
+  "safety": [
+   {
+    "text": "뜨거운 김, 얼굴 멀리",
+    "video_at": 34.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지91-옥수수 버터구이.mp4",
+   "duration": 53.51,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "corn_a.jpg",
+   "corn_b.jpg",
+   "corn_eat.jpg",
+   "corn_hook.jpg",
+   "corn_ing.jpg"
+  ],
+  "tags": [
+   "간식",
+   "여름",
+   "숯불"
+  ],
+  "slug": "corn-butter",
+  "ep": 91,
+  "video_src": "assets/video/food/r012.mp4"
+ },
+ {
+  "id": "r101",
+  "name": "봄 주꾸미 샤브",
+  "title": "봄 주꾸미 샤브",
+  "category": "season",
+  "category_name": "계절 특선",
+  "one_line": "봄 바다의 선물",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "봄",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "손질 주꾸미",
+    "amount": "500g",
+    "home_prep": "아이스박스에"
+   },
+   {
+    "name": "육수 팩",
+    "amount": "1개"
+   },
+   {
+    "name": "미나리",
+    "amount": "한 줌"
+   },
+   {
+    "name": "초고추장",
+    "amount": "3큰술"
+   },
+   {
+    "name": "라면 사리",
+    "amount": "1개",
+    "home_prep": "마무리용"
+   }
+  ],
+  "home_prep": [
+   "아이스박스에",
+   "마무리용"
+  ],
+  "steps": [
+   {
+    "text": "육수 끓이고 미나리 먼저",
+    "video_at": 14.7
+   },
+   {
+    "text": "색 변하면 바로 건지기",
+    "video_at": 19.1
+   },
+   {
+    "text": "30초 안쪽으로",
+    "video_at": 23.3
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "가위로 잘라 초고추장",
+    "video_at": 27.8
+   },
+   {
+    "text": "남은 육수에 라면",
+    "video_at": 36.8
+   }
+  ],
+  "camp_tips": [
+   "손질 주꾸미 사 오기",
+   "제철 주꾸미, 데치기만"
+  ],
+  "safety": [
+   {
+    "text": "먹물 튐, 앞치마",
+    "video_at": 32.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지92-봄 주꾸미 샤브.mp4",
+   "duration": 51.0,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "jukku_a.jpg",
+   "jukku_b.jpg",
+   "jukku_eat.jpg",
+   "jukku_hook.jpg",
+   "jukku_ing.jpg"
+  ],
+  "tags": [
+   "해산물",
+   "봄",
+   "제철"
+  ],
+  "slug": "jukkumi-shabu",
+  "ep": 92,
+  "video_src": "assets/video/food/r101.mp4"
+ },
+ {
+  "id": "r103",
+  "name": "여름 수박화채",
+  "title": "여름 수박화채",
+  "category": "season",
+  "category_name": "계절 특선",
+  "one_line": "한여름 얼음 동동",
+  "servings": 4,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "여름",
+  "tools": [
+   "없음"
+  ],
+  "ingredients": [
+   {
+    "name": "수박",
+    "amount": "반 통"
+   },
+   {
+    "name": "사이다",
+    "amount": "1병"
+   },
+   {
+    "name": "우유",
+    "amount": "1컵"
+   },
+   {
+    "name": "얼음",
+    "amount": "넉넉히",
+    "home_prep": "아이스박스 얼음"
+   }
+  ],
+  "home_prep": [
+   "아이스박스 얼음"
+  ],
+  "steps": [
+   {
+    "text": "반으로 갈라 동그랗게 떠내기",
+    "video_at": 14.2
+   },
+   {
+    "text": "껍질 그릇에 사이다·우유",
+    "video_at": 17.9
+   },
+   {
+    "text": "얼음은 먹기 직전",
+    "video_at": 22.2
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "국자로 컵에",
+    "video_at": 26.9
+   },
+   {
+    "text": "껍질은 음식물 봉투에",
+    "video_at": 35.9
+   }
+  ],
+  "camp_tips": [
+   "아이스박스 얼음 그대로",
+   "아이스박스 얼음 그대로 활용"
+  ],
+  "safety": [
+   {
+    "text": "칼질할 땐 도마 고정",
+    "video_at": 31.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지93-여름 수박화채.mp4",
+   "duration": 49.05,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "hwache_a.jpg",
+   "hwache_b.jpg",
+   "hwache_eat.jpg",
+   "hwache_hook.jpg",
+   "hwache_ing.jpg"
+  ],
+  "tags": [
+   "디저트",
+   "여름",
+   "불 없이"
+  ],
+  "slug": "watermelon-punch",
+  "ep": 93,
+  "video_src": "assets/video/food/r103.mp4"
+ },
+ {
+  "id": "r104",
+  "name": "여름 콩국수",
+  "title": "여름 콩국수",
+  "category": "season",
+  "category_name": "계절 특선",
+  "one_line": "고소한 콩물 한 그릇",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "여름",
+  "tools": [
+   "버너",
+   "코펠"
+  ],
+  "ingredients": [
+   {
+    "name": "시판 콩물",
+    "amount": "1L",
+    "home_prep": "얼려 오기"
+   },
+   {
+    "name": "소면",
+    "amount": "2인분"
+   },
+   {
+    "name": "오이",
+    "amount": "반 개",
+    "home_prep": "채 썰기"
+   },
+   {
+    "name": "소금",
+    "amount": "조금",
+    "home_prep": "입맛대로"
+   }
+  ],
+  "home_prep": [
+   "얼려 오기",
+   "채 썰기",
+   "입맛대로"
+  ],
+  "steps": [
+   {
+    "text": "소면 삶아 찬물에 헹구기",
+    "video_at": 12.6
+   },
+   {
+    "text": "살얼음 콩물 붓기",
+    "video_at": 17.2
+   },
+   {
+    "text": "소금은 먹을 때",
+    "video_at": 21.6
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "오이채, 입맛대로",
+    "video_at": 26.8
+   },
+   {
+    "text": "한여름 오후",
+    "video_at": 36.4
+   }
+  ],
+  "camp_tips": [
+   "콩물 얼려서 아이스팩 겸",
+   "시판 콩물 얼려 와 아이스팩 겸용"
+  ],
+  "safety": [
+   {
+    "text": "콩물은 바로 먹기",
+    "video_at": 31.4
+   }
+  ],
+  "video": {
+   "file": "뭐먹지94-여름 콩국수.mp4",
+   "duration": 50.26,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "kongguk_a.jpg",
+   "kongguk_b.jpg",
+   "kongguk_eat.jpg",
+   "kongguk_hook.jpg",
+   "kongguk_ing.jpg"
+  ],
+  "tags": [
+   "면",
+   "여름",
+   "시원한"
+  ],
+  "slug": "kongguksu",
+  "ep": 94,
+  "video_src": "assets/video/food/r104.mp4"
+ },
+ {
+  "id": "r106",
+  "name": "가을 전어구이",
+  "title": "가을 전어구이",
+  "category": "season",
+  "category_name": "계절 특선",
+  "one_line": "굽는 냄새가 반",
+  "servings": 2,
+  "minutes": 15,
+  "difficulty": 1,
+  "season": "가을",
+  "tools": [
+   "화로",
+   "석쇠"
+  ],
+  "ingredients": [
+   {
+    "name": "손질 전어",
+    "amount": "8~10마리",
+    "home_prep": "얼음에 담기"
+   },
+   {
+    "name": "굵은소금",
+    "amount": "조금"
+   }
+  ],
+  "home_prep": [
+   "얼음에 담기"
+  ],
+  "steps": [
+   {
+    "text": "칼집 두세 번, 소금 솔솔",
+    "video_at": 13.5
+   },
+   {
+    "text": "은은한 숯불에 앞뒤 노릇",
+    "video_at": 18.0
+   },
+   {
+    "text": "한 번만 뒤집기",
+    "video_at": 22.5
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "뼈째 통째로",
+    "video_at": 26.9
+   },
+   {
+    "text": "가을 제철",
+    "video_at": 36.3
+   }
+  ],
+  "camp_tips": [
+   "손질해서 얼음에",
+   "소금만, 굽는 냄새가 반"
+  ],
+  "safety": [
+   {
+    "text": "연기, 바람 방향 살피기",
+    "video_at": 31.4
+   }
+  ],
+  "video": {
+   "file": "뭐먹지95-가을 전어구이.mp4",
+   "duration": 50.34,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "jeoneo_a.jpg",
+   "jeoneo_b.jpg",
+   "jeoneo_eat.jpg",
+   "jeoneo_hook.jpg",
+   "jeoneo_ing.jpg"
+  ],
+  "tags": [
+   "생선",
+   "가을",
+   "제철"
+  ],
+  "slug": "jeoneo-gui",
+  "ep": 95,
+  "video_src": "assets/video/food/r106.mp4"
+ },
+ {
+  "id": "r115",
+  "name": "화로 숯 피우기",
+  "title": "화로 숯 피우기",
+  "category": "basic",
+  "category_name": "캠핑 요리 기본기",
+  "one_line": "캠핑 요리의 시작",
+  "servings": 1,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "화로",
+   "토치"
+  ],
+  "ingredients": [
+   {
+    "name": "참숯",
+    "amount": "1봉"
+   },
+   {
+    "name": "착화제",
+    "amount": "2~3개",
+    "home_prep": "번개탄 대신"
+   },
+   {
+    "name": "토치",
+    "amount": "1개"
+   },
+   {
+    "name": "장갑",
+    "amount": "1켤레"
+   }
+  ],
+  "home_prep": [
+   "번개탄 대신"
+  ],
+  "steps": [
+   {
+    "text": "착화제 위에 탑처럼, 아래에 불",
+    "video_at": 14.3
+   },
+   {
+    "text": "15분, 하얗게 변하면 굽기",
+    "video_at": 19.6
+   },
+   {
+    "text": "불꽃 말고 하얀 재일 때",
+    "video_at": 24.6
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "한쪽에 몰아 센 불·약한 불",
+    "video_at": 30.0
+   },
+   {
+    "text": "물 부어 완전히 끄기",
+    "video_at": 40.2
+   }
+  ],
+  "camp_tips": [
+   "번개탄 대신 착화제",
+   "번개탄 대신 착화제, 숯이 하얘질 때까지"
+  ],
+  "safety": [
+   {
+    "text": "텐트 안 숯불 절대 금지",
+    "video_at": 35.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지96-화로 숯 피우기.mp4",
+   "duration": 53.83,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "charcoal_a.jpg",
+   "charcoal_b.jpg",
+   "charcoal_eat.jpg",
+   "charcoal_hook.jpg",
+   "charcoal_ing.jpg"
+  ],
+  "tags": [
+   "기초",
+   "숯불",
+   "안전"
+  ],
+  "slug": "charcoal-start",
+  "ep": 96,
+  "video_src": "assets/video/food/r115.mp4"
+ },
+ {
+  "id": "r116",
+  "name": "캠핑 고기 보관법",
+  "title": "캠핑 고기 보관법",
+  "category": "basic",
+  "category_name": "캠핑 요리 기본기",
+  "one_line": "마지막 날까지 싱싱하게",
+  "servings": 1,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "아이스박스"
+  ],
+  "ingredients": [
+   {
+    "name": "아이스박스",
+    "amount": "1개"
+   },
+   {
+    "name": "얼린 생수",
+    "amount": "3~4병",
+    "home_prep": "아이스팩 겸"
+   },
+   {
+    "name": "지퍼백",
+    "amount": "여러 장",
+    "home_prep": "날고기 따로"
+   },
+   {
+    "name": "신문지",
+    "amount": "몇 장",
+    "home_prep": "덮개용"
+   }
+  ],
+  "home_prep": [
+   "아이스팩 겸",
+   "날고기 따로",
+   "덮개용"
+  ],
+  "steps": [
+   {
+    "text": "맨 아래 얼음, 위에 고기",
+    "video_at": 14.3
+   },
+   {
+    "text": "날고기는 지퍼백 따로",
+    "video_at": 18.4
+   },
+   {
+    "text": "자주 열지 않기",
+    "video_at": 23.1
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "첫날 냉장, 둘째 날 얼린 고기",
+    "video_at": 28.5
+   },
+   {
+    "text": "그늘에, 신문지 덮기",
+    "video_at": 37.9
+   }
+  ],
+  "camp_tips": [
+   "소분해서 얼려 오기",
+   "아래 얼음, 위 고기, 날고기는 따로 봉지"
+  ],
+  "safety": [
+   {
+    "text": "녹은 물 자주 빼기",
+    "video_at": 32.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지97-캠핑 고기 보관법.mp4",
+   "duration": 52.39,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "meatkeep_a.jpg",
+   "meatkeep_b.jpg",
+   "meatkeep_eat.jpg",
+   "meatkeep_hook.jpg",
+   "meatkeep_ing.jpg"
+  ],
+  "tags": [
+   "기초",
+   "보관",
+   "아이스박스"
+  ],
+  "slug": "meat-storage",
+  "ep": 97,
+  "video_src": "assets/video/food/r116.mp4"
+ },
+ {
+  "id": "r117",
+  "name": "아이스박스 정리법",
+  "title": "아이스박스 정리법",
+  "category": "basic",
+  "category_name": "캠핑 요리 기본기",
+  "one_line": "뒤적이지 않게",
+  "servings": 1,
+  "minutes": 10,
+  "difficulty": 1,
+  "season": "여름",
+  "tools": [
+   "아이스박스"
+  ],
+  "ingredients": [
+   {
+    "name": "얼린 생수",
+    "amount": "4병",
+    "home_prep": "아이스팩 겸"
+   },
+   {
+    "name": "얼린 육수",
+    "amount": "2팩",
+    "home_prep": "국물용"
+   },
+   {
+    "name": "밀폐 용기",
+    "amount": "여러 개"
+   },
+   {
+    "name": "지퍼백",
+    "amount": "여러 장"
+   }
+  ],
+  "home_prep": [
+   "아이스팩 겸",
+   "국물용"
+  ],
+  "steps": [
+   {
+    "text": "아래 고기, 가운데 채소, 위 음료",
+    "video_at": 16.2
+   },
+   {
+    "text": "찬 건 아래",
+    "video_at": 22.1
+   },
+   {
+    "text": "빈틈은 수건으로",
+    "video_at": 28.1
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "음료는 작은 박스 따로",
+    "video_at": 33.5
+   },
+   {
+    "text": "전날 미리 얼음",
+    "video_at": 43.0
+   }
+  ],
+  "camp_tips": [
+   "얼린 생수·육수를 아이스팩으로",
+   "얼린 생수·육수를 아이스팩으로"
+  ],
+  "safety": [
+   {
+    "text": "녹은 물에 잠기지 않게",
+    "video_at": 38.1
+   }
+  ],
+  "video": {
+   "file": "뭐먹지98-아이스박스 정리법.mp4",
+   "duration": 57.23,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "coolerpack_a.jpg",
+   "coolerpack_b.jpg",
+   "coolerpack_eat.jpg",
+   "coolerpack_hook.jpg",
+   "coolerpack_ing.jpg"
+  ],
+  "tags": [
+   "기초",
+   "보관",
+   "아이스박스"
+  ],
+  "slug": "cooler-packing",
+  "ep": 98,
+  "video_src": "assets/video/food/r117.mp4"
+ },
+ {
+  "id": "r118",
+  "name": "설거지 줄이는 요리법",
+  "title": "설거지 줄이는 요리법",
+  "category": "basic",
+  "category_name": "캠핑 요리 기본기",
+  "one_line": "캠핑의 진짜 숙제",
+  "servings": 1,
+  "minutes": 5,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [],
+  "ingredients": [
+   {
+    "name": "쿠킹 호일",
+    "amount": "1롤"
+   },
+   {
+    "name": "키친타월",
+    "amount": "1롤"
+   },
+   {
+    "name": "종이컵",
+    "amount": "넉넉히"
+   },
+   {
+    "name": "지퍼백",
+    "amount": "여러 장"
+   }
+  ],
+  "home_prep": [],
+  "steps": [
+   {
+    "text": "호일 그릇, 냄비째, 종이컵",
+    "video_at": 14.3
+   },
+   {
+    "text": "기름은 키친타월로 먼저",
+    "video_at": 19.2
+   },
+   {
+    "text": "바로 담그지 않기",
+    "video_at": 24.4
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "국물은 마지막 코스로",
+    "video_at": 29.6
+   },
+   {
+    "text": "저녁 시간이 길어져요",
+    "video_at": 40.2
+   }
+  ],
+  "camp_tips": [
+   "손질은 집에서 지퍼백에",
+   "호일·종이컵·냄비째, 키친타월로 기름 먼저"
+  ],
+  "safety": [
+   {
+    "text": "음식물·기름은 규칙대로",
+    "video_at": 34.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지99-설거지 줄이는 요리법.mp4",
+   "duration": 54.41,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "lessdish_a.jpg",
+   "lessdish_b.jpg",
+   "lessdish_eat.jpg",
+   "lessdish_hook.jpg",
+   "lessdish_ing.jpg"
+  ],
+  "tags": [
+   "기초",
+   "설거지",
+   "요령"
+  ],
+  "slug": "less-dishes",
+  "ep": 99,
+  "video_src": "assets/video/food/r118.mp4"
+ },
+ {
+  "id": "r119",
+  "name": "남은 음식·기름 처리",
+  "title": "남은 음식·기름 처리",
+  "category": "basic",
+  "category_name": "캠핑 요리 기본기",
+  "one_line": "다음 사람도 기분 좋게",
+  "servings": 1,
+  "minutes": 5,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [],
+  "ingredients": [
+   {
+    "name": "키친타월",
+    "amount": "넉넉히"
+   },
+   {
+    "name": "음식물 봉투",
+    "amount": "2~3장"
+   },
+   {
+    "name": "빈 페트병",
+    "amount": "1개",
+    "home_prep": "기름용"
+   },
+   {
+    "name": "지퍼백",
+    "amount": "여러 장",
+    "home_prep": "밀봉용"
+   }
+  ],
+  "home_prep": [
+   "기름용",
+   "밀봉용"
+  ],
+  "steps": [
+   {
+    "text": "기름은 식혀서 키친타월에",
+    "video_at": 14.0
+   },
+   {
+    "text": "많으면 페트병에",
+    "video_at": 18.0
+   },
+   {
+    "text": "땅에 절대 붓지 않기",
+    "video_at": 22.4
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "물기 빼서 수거함에",
+    "video_at": 27.9
+   },
+   {
+    "text": "왔을 때보다 깨끗하게",
+    "video_at": 38.8
+   }
+  ],
+  "camp_tips": [
+   "먹을 만큼만 준비",
+   "기름은 식혀 키친타월에, 음식물은 정해진 곳"
+  ],
+  "safety": [
+   {
+    "text": "남은 음식 밀봉, 야생동물",
+    "video_at": 33.5
+   }
+  ],
+  "video": {
+   "file": "뭐먹지100-남은 음식·기름 처리.mp4",
+   "duration": 53.29,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "leftover_a.jpg",
+   "leftover_b.jpg",
+   "leftover_eat.jpg",
+   "leftover_hook.jpg",
+   "leftover_ing.jpg"
+  ],
+  "tags": [
+   "기초",
+   "뒷정리",
+   "매너"
+  ],
+  "slug": "leftover-oil",
+  "ep": 100,
+  "video_src": "assets/video/food/r119.mp4"
+ },
+ {
+  "id": "r120",
+  "name": "지퍼백 밀프렙",
+  "title": "지퍼백 밀프렙",
+  "category": "basic",
+  "category_name": "캠핑 요리 기본기",
+  "one_line": "캠핑장에선 굽기만",
+  "servings": 1,
+  "minutes": 20,
+  "difficulty": 1,
+  "season": "사계절",
+  "tools": [
+   "지퍼백"
+  ],
+  "ingredients": [
+   {
+    "name": "지퍼백",
+    "amount": "메뉴 수만큼"
+   },
+   {
+    "name": "손질 고기·채소",
+    "amount": "메뉴별"
+   },
+   {
+    "name": "양념",
+    "amount": "메뉴별",
+    "home_prep": "살짝 묻을 만큼"
+   },
+   {
+    "name": "네임펜",
+    "amount": "1개"
+   }
+  ],
+  "home_prep": [
+   "살짝 묻을 만큼"
+  ],
+  "steps": [
+   {
+    "text": "한입 크기, 양념과 함께",
+    "video_at": 15.5
+   },
+   {
+    "text": "공기 빼고 납작하게 얼리기",
+    "video_at": 20.3
+   },
+   {
+    "text": "양념은 살짝만",
+    "video_at": 25.7
+   }
+  ],
+  "how_to_eat": [
+   {
+    "text": "지퍼백째 팬에",
+    "video_at": 31.2
+   },
+   {
+    "text": "첫날 냉장, 둘째 날 냉동",
+    "video_at": 42.3
+   }
+  ],
+  "camp_tips": [
+   "메뉴·날짜 써 두기",
+   "집에서 손질·양념까지, 현장에선 굽기만"
+  ],
+  "safety": [
+   {
+    "text": "날고기는 이중 포장",
+    "video_at": 36.8
+   }
+  ],
+  "video": {
+   "file": "뭐먹지101-지퍼백 밀프렙.mp4",
+   "duration": 56.33,
+   "aspect": "9:16",
+   "poster_at": 0.5
+  },
+  "photos": [
+   "mealprep_a.jpg",
+   "mealprep_b.jpg",
+   "mealprep_eat.jpg",
+   "mealprep_hook.jpg",
+   "mealprep_ing.jpg"
+  ],
+  "tags": [
+   "기초",
+   "밀프렙",
+   "요령"
+  ],
+  "slug": "zipbag-mealprep",
+  "ep": 101,
+  "video_src": "assets/video/food/r120.mp4"
+ }
+]

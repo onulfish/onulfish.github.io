@@ -1082,10 +1082,48 @@ input[type='range']::-moz-range-thumb {
   color: #fff;
 }
 
-/* 알림 */
-.alarms {
-  padding-top: 40px;
+/* 캠핑 가서 뭐 먹지? (카드 모양은 food.css) */
+.food-home {
+  background: #fbf3ea;
 }
+.fhome-head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 40px;
+}
+.fhome-head .btn {
+  flex: none;
+}
+.fhome-cats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 28px;
+}
+.fhome-cats a {
+  padding: 7px 14px;
+  border-radius: 999px;
+  background: #fff;
+  border: 1px solid #f0dcc8;
+  color: var(--sub);
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.fhome-cats a:hover {
+  border-color: var(--ember);
+  color: var(--ember-deep);
+}
+@media (max-width: 920px) {
+  .fhome-head {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+/* 알림 */
 .alarm-row {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

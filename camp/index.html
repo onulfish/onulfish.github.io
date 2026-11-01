@@ -23,8 +23,9 @@
     <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"오늘캠핑은 어떤 앱이에요?","acceptedAnswer":{"@type":"Answer","text":"\"이번 주말, 거기 캠핑 가도 괜찮을까?\"에 답하는 캠핑 앱이에요. 도착하는 날 낮부터 다음 날 철수할 때까지의 바람·비·밤 기온·미세먼지·기상특보를 모아 캠핑 지수(100점)로 알려 드리고, 전국 캠핑장 지도, 날씨에 맞춘 짐 체크리스트, 캠핑 일지와 캠핑 달력을 함께 담았어요."}},{"@type":"Question","name":"캠핑 지수는 어떻게 계산해요?","acceptedAnswer":{"@type":"Answer","text":"100점에서 시작해 감점만 해요. 돌풍과 평균 풍속, 비의 양과 설치할 때 비가 오는지, 밤 최저 기온, 낮 최고 기온, 습도와 자외선, 천둥·눈, 미세먼지 예보, 지금 발효 중인 기상특보를 봐요. 차박·글램핑은 바람에, 글램핑은 추위에 덜 민감하게 계산해요. 85점 이상 아주 좋음, 70점 이상 좋음, 50점 이상 보통, 30점 이상 주의예요."}},{"@type":"Question","name":"캠핑장 정보는 어디서 오나요?","acceptedAnswer":{"@type":"Answer","text":"한국관광공사 고캠핑 공공데이터로 운영 중인 전국 캠핑장 약 3천 곳을 하루 한 번 새로 받아요. 사진·시설·바닥·반려견 동반 여부를 보여 드리고, 예약은 각 캠핑장의 예약 페이지로 이어 드려요."}},{"@type":"Question","name":"캠핑장 예약도 앱에서 되나요?","acceptedAnswer":{"@type":"Answer","text":"예약은 캠핑장마다 쓰는 예약 페이지로 이어 드려요. 대신 예약이 열리는 날짜와 시각을 넣어 두면 10분 전에 폰으로 알려 드려요. 매달 같은 날 열리는 곳은 반복 알림도 돼요."}},{"@type":"Question","name":"오늘캠핑은 무료예요?","acceptedAnswer":{"@type":"Answer","text":"캠핑 지수, 캠핑장 지도, 짐 체크리스트, 같이 챙기기, 캠핑 일지, 나의 캠핑 지도는 모두 무료예요. 프리미엄은 캠핑 지수를 2주 앞까지 보여 주고, 알림을 더 일찍·더 넓게 보내 드려요."}},{"@type":"Question","name":"언제 출시돼요?","acceptedAnswer":{"@type":"Answer","text":"안드로이드(Google Play)부터 출시를 준비하고 있어요. 지금은 베타 테스터를 모집하고 있고, onulfish.com/camp/beta.html 에서 신청할 수 있어요. 테스터께는 전설 뱃지와 프리미엄 3개월을 드려요."}}]}</script>
     <link rel="preload" href="assets/fonts/PretendardVariable-sub.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="assets/img/photo/hero-night.webp" as="image" />
-    <link rel="stylesheet" href="assets/css/icons.css?v=1" />
-    <link rel="stylesheet" href="assets/css/site.css?v=3" />
+    <link rel="stylesheet" href="assets/css/icons.css?v=2" />
+    <link rel="stylesheet" href="assets/css/site.css?v=4" />
+    <link rel="stylesheet" href="assets/css/food.css?v=1" />
     <script>
       document.documentElement.classList.add('js');
     </script>
@@ -40,9 +41,9 @@
         </a>
         <nav class="nav" id="nav" aria-label="주요 메뉴">
           <a href="#score">캠핑 지수</a>
-          <a href="#weekend">주말 순위</a>
           <a href="#sites">캠핑장 지도</a>
           <a href="#pack">짐 챙기기</a>
+          <a href="food/">뭐 먹지?</a>
           <a href="#log">일지·달력</a>
           <a href="#premium">무료·프리미엄</a>
           <a href="beta.html">베타 테스터 모집</a>
@@ -104,8 +105,8 @@
             <span>이번 주말 캠핑 지수 순위</span>
           </div>
           <div class="stat" data-reveal>
-            <b><span data-count="59">59</span><small>가지</small></b>
-            <span>날씨 따라 켜지는 짐 목록</span>
+            <b><span data-count="101">101</span><small>가지</small></b>
+            <span>1분 영상 캠핑 요리 레시피</span>
           </div>
           <div class="stat" data-reveal>
             <b><span data-count="117">117</span><small>개</small></b>
@@ -305,6 +306,24 @@
           </div>
         </div>
       </section>
+
+      <!-- 캠핑 가서 뭐 먹지? — food:start ~ food:end 사이는 tools/build_food.py 가 채운다 -->
+      <!-- food:start -->
+      <section class="section food-home" id="food">
+        <div class="wrap">
+          <div class="fhome-head">
+            <div>
+              <p class="eyebrow"><i class="ph-fill ph-cooking-pot" aria-hidden="true"></i>캠핑 가서 뭐 먹지?</p>
+              <h2 class="h2" data-reveal>캠핑 요리 101가지,<br />1분 영상으로 따라 해요</h2>
+              <p class="lead" data-reveal>집에서 해 갈 손질, 버너·화로 하나로 만드는 순서, 냄비째·꼬치째 먹는 법까지. 집밥이 아니라 캠핑장에서 먹는 요리예요.</p>
+            </div>
+            <a class="btn btn-ember" href="food/">레시피 101가지 전부 보기<i class="ph ph-arrow-right" aria-hidden="true"></i></a>
+          </div>
+          <div class="rgrid"><a class="rcard" href="food/eomuktang/" data-cat="pot" data-q="캠핑 어묵탕 캠핑 어묵탕 추운 캠핑 밤, 국물 한 입이면 몸이 다 녹아요 한 냄비 국물 국물 겨울 초보 아이와 함께 꼬치 어묵 무 대파 국물용 다시 팩 물 국간장 청양고추 라면 사리"><span class="rc-img"><img src="assets/img/food/r013-card.webp" alt="" width="480" height="600" loading="lazy" /><span class="rc-ep">01</span><span class="rc-play"><i class="ph-fill ph-play" aria-hidden="true"></i>1:00</span></span><span class="rc-body"><small>한 냄비 국물</small><b>캠핑 어묵탕</b><span>추운 캠핑 밤, 국물 한 입이면 몸이 다 녹아요</span><em>20분 · 2인분 · 쉬움</em></span></a><a class="rcard" href="food/samgyeop/" data-cat="grill" data-q="숯불 삼겹살 삼겹살 캠핑 고기 굽기 정석 숯불·화로 구이 구이 숯불 고기 삼겹살(두툼하게) 쌈 채소 쌈장 굵은소금 김치·즉석밥"><span class="rc-img"><img src="assets/img/food/r001-card.webp" alt="" width="480" height="600" loading="lazy" /><span class="rc-ep">02</span><span class="rc-play"><i class="ph-fill ph-play" aria-hidden="true"></i>1:02</span></span><span class="rc-body"><small>숯불·화로 구이</small><b>숯불 삼겹살</b><span>캠핑 고기 굽기 정석</span><em>20분 · 2인분 · 쉬움</em></span></a><a class="rcard" href="food/budae/" data-cat="pot" data-q="캠핑 부대찌개 부대찌개 한 냄비로 끝내는 저녁 한 냄비 국물 국물 찌개 여럿이 햄·소시지 김치 두부 라면 사리 육수 양념장 생수"><span class="rc-img"><img src="assets/img/food/r014-card.webp" alt="" width="480" height="600" loading="lazy" /><span class="rc-ep">03</span><span class="rc-play"><i class="ph-fill ph-play" aria-hidden="true"></i>0:58</span></span><span class="rc-body"><small>한 냄비 국물</small><b>캠핑 부대찌개</b><span>한 냄비로 끝내는 저녁</span><em>20분 · 3인분 · 쉬움</em></span></a><a class="rcard" href="food/ramen/" data-cat="noodle" data-q="캠핑 라면 캠핑 라면 업그레이드 같은 라면, 두 배 맛있게 면 요리 면 간편 야식 라면 남은 고기 김치 계란 대파 물 즉석밥"><span class="rc-img"><img src="assets/img/food/r025-card.webp" alt="" width="480" height="600" loading="lazy" /><span class="rc-ep">05</span><span class="rc-play"><i class="ph-fill ph-play" aria-hidden="true"></i>1:00</span></span><span class="rc-body"><small>면 요리</small><b>캠핑 라면</b><span>같은 라면, 두 배 맛있게</span><em>10분 · 2인분 · 쉬움</em></span></a><a class="rcard" href="food/moksal-steak/" data-cat="grill" data-q="캠핑 목살 스테이크 목살 스테이크 겉은 바삭, 속은 촉촉 숯불·화로 구이 고기 숯불 메인 목살 굵은소금·후추 통마늘 쌈 채소"><span class="rc-img"><img src="assets/img/food/r002-card.webp" alt="" width="480" height="600" loading="lazy" /><span class="rc-ep">22</span><span class="rc-play"><i class="ph-fill ph-play" aria-hidden="true"></i>0:58</span></span><span class="rc-body"><small>숯불·화로 구이</small><b>캠핑 목살 스테이크</b><span>겉은 바삭, 속은 촉촉</span><em>20분 · 3인분 · 쉬움</em></span></a><a class="rcard" href="food/dakhanmari/" data-cat="pot" data-q="캠핑 닭한마리 닭한마리 추운 밤 몸 녹이는 한 냄비 한 냄비 국물 국물 겨울 든든 토막 닭 감자 대파 통마늘 물 간장·겨자·식초 칼국수 사리"><span class="rc-img"><img src="assets/img/food/r017-card.webp" alt="" width="480" height="600" loading="lazy" /><span class="rc-ep">04</span><span class="rc-play"><i class="ph-fill ph-play" aria-hidden="true"></i>1:01</span></span><span class="rc-body"><small>한 냄비 국물</small><b>캠핑 닭한마리</b><span>추운 밤 몸 녹이는 한 냄비</span><em>40분 · 3인분 · 보통</em></span></a><a class="rcard" href="food/kalguksu/" data-cat="noodle" data-q="캠핑 칼국수 칼국수 냄비 하나로 끝내는 면 요리 면 요리 면 국물 겨울 생칼국수 면 애호박 감자 바지락 또는 멸치 육수 김치"><span class="rc-img"><img src="assets/img/food/r029-card.webp" alt="" width="480" height="600" loading="lazy" /><span class="rc-ep">17</span><span class="rc-play"><i class="ph-fill ph-play" aria-hidden="true"></i>0:57</span></span><span class="rc-body"><small>면 요리</small><b>캠핑 칼국수</b><span>냄비 하나로 끝내는 면 요리</span><em>20분 · 2인분 · 쉬움</em></span></a><a class="rcard" href="food/koppel-rice/" data-cat="rice" data-q="코펠 밥 짓기 코펠 밥 짓기 캠핑 밥, 설익지 않게 밥·볶음밥 밥 기본기 쌀 물 누름용 물병"><span class="rc-img"><img src="assets/img/food/r035-card.webp" alt="" width="480" height="600" loading="lazy" /><span class="rc-ep">06</span><span class="rc-play"><i class="ph-fill ph-play" aria-hidden="true"></i>1:00</span></span><span class="rc-body"><small>밥·볶음밥</small><b>코펠 밥 짓기</b><span>캠핑 밥, 설익지 않게</span><em>30분 · 2인분 · 보통</em></span></a></div>
+          <nav class="fhome-cats" aria-label="요리 갈래"><a href="food/?c=grill">숯불·화로 구이</a><a href="food/?c=pot">한 냄비 국물</a><a href="food/?c=noodle">면 요리</a><a href="food/?c=rice">밥·볶음밥</a><a href="food/?c=breakfast">아침·간편식</a><a href="food/?c=dutch">더치오븐·호일 요리</a><a href="food/?c=skewer">꼬치·바비큐</a><a href="food/?c=snack">모닥불 간식·디저트</a><a href="food/?c=kids">아이와 함께</a><a href="food/?c=night">안주·야식</a><a href="food/?c=season">계절 특선</a><a href="food/?c=drink">따뜻한 음료</a><a href="food/?c=basic">캠핑 요리 기본기</a></nav>
+        </div>
+      </section>
+      <!-- food:end -->
 
       <!-- 알림 3가지 -->
       <section class="section alarms" id="alarms">
