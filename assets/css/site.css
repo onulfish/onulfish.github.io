@@ -1836,6 +1836,25 @@ a {
   white-space: nowrap;
   opacity: 0.75;
 }
+/* 출시된 스토어는 진짜 링크: 또렷하게 + 마우스 올림 */
+a.store-badge.is-live {
+  opacity: 1;
+  border-color: rgb(255 255 255 / 0.55);
+  background: rgb(255 255 255 / 0.08);
+  text-decoration: none;
+  transition: background-color 0.2s, transform 0.2s var(--ease);
+}
+a.store-badge.is-live:hover {
+  background: rgb(255 255 255 / 0.16);
+  transform: translateY(-2px);
+}
+.dl-beta {
+  border: 1.5px solid rgb(255 255 255 / 0.35);
+  color: #fff;
+}
+.dl-beta:hover {
+  background: rgb(255 255 255 / 0.1);
+}
 .store-badge i {
   font-size: 28px;
 }
@@ -1857,8 +1876,9 @@ a {
   }
 }
 @media (max-width: 480px) {
+  /* 폰에서는 위 버튼 두 개(App Store 받기·안드로이드 베타)와 겹쳐서 배지는 숨긴다 */
   .store-badges {
-    grid-template-columns: 1fr;
+    display: none;
   }
 }
 

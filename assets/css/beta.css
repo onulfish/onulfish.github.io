@@ -8,6 +8,28 @@
 }
 
 /* ---------- 히어로 ---------- */
+/* 아이폰 사용자는 베타 대신 App Store로 */
+.b-ios {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 18px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgb(255 255 255 / 0.1);
+  border: 1px solid rgb(255 255 255 / 0.28);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+.b-ios:hover {
+  background: rgb(255 255 255 / 0.2);
+}
+.b-ios i {
+  font-size: 16px;
+}
 .b-hero {
   position: relative;
   overflow: hidden;
