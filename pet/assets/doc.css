@@ -1,0 +1,24 @@
+/* 오늘펫 소개 사이트 문서 페이지(개인정보처리방침·계정 삭제 안내) */
+:root{--coral:#ED8066;--coral-deep:#BD6039;--cream:#FFFAF3;--ink:#382519;--muted:#6C5140;--line:#EADFD3}
+*{box-sizing:border-box}
+body{margin:0;background:var(--cream);color:var(--ink);font-family:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Noto Sans KR',sans-serif;line-height:1.75;word-break:keep-all;overflow-wrap:break-word}
+header,main,footer{width:min(760px,100% - 32px);margin:0 auto}
+header{padding:18px 0}
+.brand{display:inline-flex;align-items:center;gap:10px;text-decoration:none;color:inherit;font-weight:800;font-size:19px}
+.brand img{width:32px;height:32px;border-radius:9px}
+main{padding:12px 0 40px}
+h1{font-size:clamp(28px,5vw,38px);letter-spacing:-.03em;line-height:1.25;margin:16px 0 6px}
+.sub{color:var(--muted);margin:0 0 28px}
+h2{font-size:20px;letter-spacing:-.02em;margin:34px 0 8px;padding-top:18px;border-top:1px solid var(--line)}
+h3{font-size:16px;margin:20px 0 6px}
+p,li{color:#4a3528}
+ol,ul{padding-left:1.3em}
+li{margin:4px 0}
+table{width:100%;border-collapse:collapse;font-size:14.5px;margin:10px 0}
+th,td{border:1px solid var(--line);padding:9px 10px;text-align:left;vertical-align:top}
+th{background:#F6EEE4;font-weight:700}
+.table-wrap{overflow-x:auto}
+a{color:var(--coral-deep)}
+.contact{background:#fff;border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+footer{border-top:1px solid var(--line);padding:20px 0 40px;color:var(--muted);font-size:14px}
+footer a{color:inherit}
