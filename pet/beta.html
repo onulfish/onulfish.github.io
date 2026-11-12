@@ -1,0 +1,412 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light">
+<title>오늘펫 안드로이드 테스터 모집 - 14일 먼저 써 보기</title>
+<meta name="description" content="밥 줬어? 이제 묻지 마세요. 가족이 함께 쓰는 강아지 케어 앱 오늘펫이 출시 전에 14일 동안 먼저 써 볼 안드로이드 테스터를 찾아요. 참여하신 분 중 추첨 5명께 네이버 기프티콘 5만 원.">
+<meta name="theme-color" content="#FFFDFA">
+<link rel="icon" href="assets/img/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="assets/img/icon-192.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="오늘펫">
+<meta property="og:title" content="오늘펫 안드로이드 테스터 모집">
+<meta property="og:description" content="밥 줬어? 이제 묻지 마세요. 14일 먼저 써 보고 의견을 들려주세요. 추첨 5명 네이버 기프티콘 5만 원.">
+<meta property="og:url" content="https://onulfish.com/pet/beta.html">
+<meta property="og:image" content="https://onulfish.com/pet/assets/img/beta/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="ko_KR">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://onulfish.com/pet/beta.html">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="preload" as="image" href="assets/img/beta/hero.jpg">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+/* 강조색은 앱과 같은 코랄 하나만 써요. 모서리는 버튼·입력 14, 사진·화면 22, 큰 판 26. */
+:root{--bg:#FFFDFA;--ink:#1F1612;--mute:#6E625B;--line:#E8E1D9;--tint:#F5F0E9;--accent:#C94F33;--accent-deep:#A63E26;--err:#B3261E;--r-s:14px;--r-m:22px;--r-l:26px}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scroll-padding-top:76px}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Noto Sans KR',sans-serif;font-size:17px;line-height:1.65;word-break:keep-all;overflow-wrap:break-word;-webkit-font-smoothing:antialiased}
+img,video{display:block;max-width:100%;height:auto}
+a{color:inherit}
+h1,h2,h3,p,figure,dl,dd,ol{margin:0;padding:0}
+.wrap{width:min(1120px,100% - 40px);margin:0 auto}
+h1{font-size:clamp(42px,11.6vw,78px);font-weight:800;letter-spacing:-.045em;line-height:1.12}
+h2{font-size:clamp(30px,7.8vw,50px);font-weight:800;letter-spacing:-.04em;line-height:1.2}
+h1 b,h2 b{font-weight:inherit;color:var(--accent)}
+.sub{color:var(--mute);font-size:clamp(17px,4.5vw,20px);max-width:30em}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:58px;padding:0 30px;border:0;border-radius:var(--r-s);background:var(--accent);color:#fff;font:inherit;font-weight:700;font-size:18px;letter-spacing:-.01em;text-decoration:none;cursor:pointer;transition:background .2s,transform .12s}
+.btn:hover{background:var(--accent-deep)}
+.btn:active{transform:scale(.985)}
+.btn[disabled]{opacity:.6;cursor:default}
+:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+
+.top{position:sticky;top:0;z-index:10;background:rgba(255,253,250,.9);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;height:60px}
+.brand{display:flex;align-items:center;gap:9px;text-decoration:none;font-weight:800;font-size:19px;letter-spacing:-.02em}
+.brand img{width:32px;height:32px;border-radius:9px}
+.top .go{font-weight:700;font-size:15px;text-decoration:none;padding:8px 2px;border-bottom:2px solid var(--ink)}
+
+.hero{padding:28px 0 0}
+.hero .wrap{display:grid;gap:34px}
+.kicker{font-size:15px;font-weight:700;color:var(--accent);margin-bottom:14px}
+.hero .sub{margin:20px 0 28px}
+.hero .btn{width:100%}
+.hero-media{margin:0 -4px}
+.hero-media video,.hero-media img{width:100%;aspect-ratio:720/1066;object-fit:cover;border-radius:var(--r-m);background:var(--tint);box-shadow:0 34px 60px -34px rgba(90,52,28,.45)}
+.hero-media figcaption{font-size:15px;color:var(--mute);margin-top:12px;line-height:1.55}
+.hero-media figcaption em{font-style:normal;color:var(--ink);font-weight:600}
+
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:0 16px;margin-top:56px;padding-top:22px;border-top:1px solid var(--ink)}
+.facts dt{font-size:14px;color:var(--mute)}
+.facts dd{font-size:clamp(21px,5.6vw,32px);font-weight:800;letter-spacing:-.035em;line-height:1.25;margin-top:4px}
+.facts dd small{display:block;font-size:14px;font-weight:500;letter-spacing:0;color:var(--mute);margin-top:2px}
+
+section{padding:88px 0 0}
+.head{margin-bottom:36px}
+.head .sub{margin-top:14px}
+
+.fam-stage{position:relative}
+.fam-stage>img{width:100%;aspect-ratio:1168/880;object-fit:cover;border-radius:var(--r-m)}
+.feed{position:relative;margin:14px 0 0;background:#fff;border-radius:var(--r-m);padding:18px 20px 8px;box-shadow:0 28px 56px -28px rgba(90,52,28,.42)}
+.feed-top{display:flex;justify-content:space-between;align-items:baseline;font-size:14px;color:var(--mute);padding-bottom:6px}
+.feed-top b{font-size:16px;color:var(--ink);font-weight:800;letter-spacing:-.02em}
+.feed ul{list-style:none;margin:0;padding:0}
+.feed li{display:grid;grid-template-columns:44px 1fr auto;gap:12px;align-items:center;padding:12px 0}
+.feed li+li{border-top:1px solid var(--line)}
+.feed .who{display:grid;place-items:center;width:44px;height:44px;border-radius:50%;font-size:14px;font-weight:800;letter-spacing:-.02em;background:var(--tint);color:var(--ink)}
+.feed li:first-child .who{background:var(--accent);color:#fff}
+.feed .what{font-weight:700;font-size:17px;letter-spacing:-.02em;line-height:1.3}
+.feed .when{font-size:14.5px;color:var(--mute);white-space:nowrap}
+.js .feed li{opacity:0;transform:translateY(10px);transition:opacity .5s cubic-bezier(.16,1,.3,1),transform .5s cubic-bezier(.16,1,.3,1)}
+.js .feed.in li{opacity:1;transform:none}
+.js .feed.in li:nth-child(2){transition-delay:.35s}
+.js .feed.in li:nth-child(3){transition-delay:.7s}
+
+.band{background:var(--tint);margin-top:88px;padding:76px 0 68px}
+.band+section{padding-top:88px}
+.shots{display:grid;grid-auto-flow:column;grid-auto-columns:74%;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;margin:0 -20px;padding:4px 20px 18px;scrollbar-width:none}
+.shots::-webkit-scrollbar{display:none}
+.shots figure{scroll-snap-align:center}
+.shots img{width:100%;border-radius:var(--r-m);background:#fff;box-shadow:0 24px 48px -24px rgba(90,52,28,.4);transition:transform .45s cubic-bezier(.16,1,.3,1)}
+.shots figcaption{margin-top:18px}
+.shots h3{font-size:20px;font-weight:800;letter-spacing:-.03em;line-height:1.35}
+.shots p{color:var(--mute);font-size:16px;margin-top:6px}
+.note{font-size:14px;color:var(--mute);margin-top:10px}
+
+.walk .wrap{display:grid;gap:26px}
+.walk img{width:100%;aspect-ratio:900/503;object-fit:cover;border-radius:var(--r-m)}
+.walk .sub{margin-top:14px}
+
+.steps{list-style:none;display:grid;gap:0;counter-reset:s}
+.steps li{counter-increment:s;display:grid;grid-template-columns:52px 1fr;padding:22px 0;border-top:1px solid var(--line)}
+.steps li:first-child{border-top-color:var(--ink)}
+.steps li::before{content:counter(s);font-size:30px;font-weight:800;letter-spacing:-.04em;line-height:1.15;color:var(--accent)}
+.steps h3{font-size:20px;font-weight:800;letter-spacing:-.03em;line-height:1.35}
+.steps p{color:var(--mute);font-size:16px;margin-top:4px}
+
+.gift-box{display:grid;background:var(--ink);color:#fff;border-radius:var(--r-l);overflow:hidden}
+.gift-box>img{width:100%;height:100%;aspect-ratio:16/11;object-fit:cover;object-position:50% 30%}
+.gift-text{padding:34px 26px 36px}
+.gift-box .lead{font-size:17px;font-weight:700;letter-spacing:-.02em;color:#F2B8A4}
+.gift-box .amount{font-size:clamp(88px,26vw,150px);font-weight:800;letter-spacing:-.06em;line-height:1;margin:12px 0 10px -.04em}
+.gift-box .amount span{font-size:.44em;letter-spacing:-.04em;margin-left:.1em}
+.gift-box .what{font-size:clamp(20px,5.2vw,26px);font-weight:700;letter-spacing:-.03em}
+.gift-facts{display:grid;grid-template-columns:repeat(3,auto);justify-content:start;gap:0 28px;margin-top:28px;padding-top:20px;border-top:1px solid rgba(255,255,255,.22)}
+.gift-facts dt{font-size:13.5px;color:rgba(255,255,255,.66)}
+.gift-facts dd{font-size:17px;font-weight:700;letter-spacing:-.02em;margin-top:2px}
+.gift-box .fine{color:rgba(255,255,255,.72);font-size:14.5px;margin-top:20px;max-width:30em}
+
+.apply .wrap{display:grid;gap:30px}
+.apply-card{background:#fff;border-radius:var(--r-l);padding:28px 22px 22px;box-shadow:0 30px 60px -34px rgba(90,52,28,.4)}
+.form{display:grid;gap:26px}
+.field label,.check-title{display:block;font-weight:700;font-size:16px;letter-spacing:-.01em;margin-bottom:8px}
+.field label small{font-weight:500;color:var(--mute);margin-left:4px}
+.field input{width:100%;height:58px;padding:0 16px;border:1.5px solid #CFC5BB;border-radius:var(--r-s);background:#fff;color:var(--ink);font:inherit;font-size:17px}
+.field input::placeholder{color:#8A7E76}
+.field input:focus{outline:0;border-color:var(--ink);box-shadow:0 0 0 3px rgba(31,22,18,.12)}
+.field .help{font-size:14.5px;color:var(--mute);margin-top:8px}
+.field .error,.check .error{display:none;font-size:14.5px;font-weight:600;color:var(--err);margin-top:8px}
+.field.bad input{border-color:var(--err)}
+.field.bad .error,.check.bad .error{display:block}
+.check{border-top:1px solid var(--line);padding-top:22px}
+.check label{display:grid;grid-template-columns:26px 1fr;gap:12px;align-items:start;cursor:pointer;font-size:16.5px;line-height:1.55}
+.check input{width:24px;height:24px;margin:1px 0 0;accent-color:var(--accent)}
+.check dl{display:grid;grid-template-columns:auto 1fr;gap:5px 14px;font-size:14.5px;color:var(--mute);margin:0 0 14px}
+.check dt{font-weight:600;color:var(--ink)}
+.form .btn{width:100%}
+.form-msg{font-size:15px;color:var(--mute);min-height:1.6em}
+.form-msg a{color:var(--accent);font-weight:700}
+.done{display:none;padding:12px 4px 16px}
+.done h3{font-size:26px;font-weight:800;letter-spacing:-.035em;line-height:1.3}
+.done p{color:var(--mute);margin-top:10px}
+.apply.sent .form{display:none}
+.apply.sent .done{display:block}
+
+.faq details{border-top:1px solid var(--line)}
+.faq details:first-of-type{border-top-color:var(--ink)}
+.faq summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;gap:16px;align-items:baseline;padding:20px 0;font-weight:700;font-size:18px;letter-spacing:-.02em}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:'+';flex:none;font-size:24px;font-weight:400;line-height:1;color:var(--mute)}
+.faq details[open] summary::after{content:'-'}
+.faq details p{color:var(--mute);padding:0 0 22px;max-width:38em}
+
+footer{margin-top:96px;border-top:1px solid var(--line);padding:26px 0 112px;font-size:14px;color:var(--mute)}
+footer .wrap{display:flex;flex-wrap:wrap;gap:10px 22px;justify-content:space-between}
+footer nav{display:flex;flex-wrap:wrap;gap:8px 16px}
+footer a{text-decoration:none}
+footer a:hover{text-decoration:underline}
+
+.dock{position:fixed;left:0;right:0;bottom:0;z-index:9;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:rgba(255,253,250,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:1px solid var(--line);transform:translateY(110%);transition:transform .25s}
+.dock.on{transform:none}
+.dock .btn{width:100%;min-height:54px;font-size:17px}
+
+/* 첫 화면은 글, 버튼, 영상 순서로 한 번 떠올라요. */
+@keyframes up{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+.js .hero .kicker,.js .hero h1,.js .hero .sub,.js .hero .btn,.js .hero-media{animation:up .8s cubic-bezier(.16,1,.3,1) both}
+.js .hero h1{animation-delay:.06s}.js .hero .sub{animation-delay:.14s}.js .hero .btn{animation-delay:.22s}.js .hero-media{animation-delay:.18s}
+/* 스크롤하면 한 번 떠오르는 등장. 움직임 줄이기 설정에서는 꺼요. */
+.js .rise{opacity:0;transform:translateY(22px);transition:opacity .7s cubic-bezier(.16,1,.3,1),transform .7s cubic-bezier(.16,1,.3,1)}
+.js .rise.in{opacity:1;transform:none}
+
+@media (min-width:900px){
+ .hero{padding:44px 0 0}
+ .hero .wrap:first-child{grid-template-columns:1fr 430px;gap:72px;align-items:center}
+ .hero .btn{width:auto}
+ .hero-media{margin:0}
+ .facts{margin-top:72px;gap:0 40px}
+ section{padding:136px 0 0}
+ .head{margin-bottom:52px}
+ .shots{grid-auto-flow:row;grid-template-columns:repeat(3,1fr);gap:36px;overflow:visible;margin:0;padding:0 0 44px}
+ .shots figure:nth-child(2){transform:translateY(44px)}
+ .shots figure:hover img{transform:translateY(-8px)}
+ .band{margin-top:136px;padding:112px 0 96px}
+ .band+section{padding-top:136px}
+ .fam-stage{display:grid;grid-template-columns:1.7fr 1fr;align-items:center}
+ .feed{margin:0 0 0 -84px;padding:24px 26px 12px}
+ .apply-card{padding:44px 44px 34px}
+ .walk .wrap{grid-template-columns:1.25fr 1fr;gap:64px;align-items:center}
+ .how .wrap{display:grid;grid-template-columns:1fr 1.15fr;gap:72px;align-items:start}
+ .how .head{position:sticky;top:104px;margin:0}
+ .gift-box{grid-template-columns:1.05fr 1fr}
+ .gift-box>img{order:2;aspect-ratio:auto;min-height:100%}
+ .gift-text{padding:68px 64px 64px}
+ .apply .wrap{grid-template-columns:1fr 1.15fr;gap:72px;align-items:start}
+ .apply .head{position:sticky;top:104px;margin:0}
+ .faq .wrap{display:grid;grid-template-columns:1fr 1.15fr;gap:72px;align-items:start}
+ .faq .head{margin:0}
+ .dock{display:none}
+ footer{padding-bottom:44px;margin-top:136px}
+}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.js .rise,.js .feed li{opacity:1;transform:none;transition:none}.js .hero .kicker,.js .hero h1,.js .hero .sub,.js .hero .btn,.js .hero-media{animation:none}.dock,.btn,.shots img{transition:none}}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+ <a class="brand" href="./"><img src="assets/img/icon-192.png" alt="" width="32" height="32">오늘펫</a>
+ <a class="go" href="#apply">테스터 신청</a>
+</div></header>
+
+<main>
+<section class="hero"><div class="wrap">
+ <div>
+  <p class="kicker">안드로이드 테스터 모집</p>
+  <h1>밥 줬어?<br>이제 <b>묻지 마세요</b></h1>
+  <p class="sub">누가 언제 챙겼는지 가족 모두가 바로 보는 강아지 케어 앱. 출시 전에 14일 먼저 써 볼 분을 찾아요.</p>
+  <a class="btn" href="#apply" id="hero-cta">테스터 신청하기</a>
+ </div>
+ <figure class="hero-media">
+  <video id="hero-video" poster="assets/img/beta/hero.jpg" muted loop playsinline preload="metadata" width="720" height="1066" aria-label="밥을 먹는 흰 강아지와, 놀란 얼굴로 바라보는 보호자">
+   <source src="assets/img/beta/hero.mp4" type="video/mp4">
+  </video>
+  <figcaption><em>“아까 밥 줬는데?”</em> 솜이는 오늘 밥을 두 번 먹었어요.</figcaption>
+ </figure>
+</div>
+<div class="wrap">
+ <dl class="facts">
+  <div><dt>기간</dt><dd>14일</dd></div>
+  <div><dt>대상</dt><dd>안드로이드<small>폰이면 누구나</small></dd></div>
+  <div><dt>선물</dt><dd>5만 원<small>추첨 5명</small></dd></div>
+ </dl>
+</div></section>
+
+<section class="fam"><div class="wrap">
+ <div class="head rise">
+  <h2>누가 챙겼는지<br><b>가족 모두가 봐요</b></h2>
+  <p class="sub">밥을 두 번 주거나, 약을 깜빡하는 일이 줄어요.</p>
+ </div>
+ <div class="fam-stage rise">
+  <img src="assets/img/beta/family.jpg" alt="거실에서 아빠가 강아지 밥그릇에 사료를 붓고, 엄마와 딸이 소파에서 웃으며 바라보는 모습" loading="lazy" width="1168" height="880">
+  <div class="feed" id="feed">
+   <p class="feed-top"><b>솜이의 오늘 기록</b><span>예시</span></p>
+   <ul>
+    <li><span class="who">아빠</span><span class="what">밥 줬어요</span><span class="when">오전 8:10</span></li>
+    <li><span class="who">엄마</span><span class="what">아침 산책 30분</span><span class="when">오전 7:30</span></li>
+    <li><span class="who">나</span><span class="what">간식 줬어요</span><span class="when">오후 3:20</span></li>
+   </ul>
+  </div>
+ </div>
+</div></section>
+
+<section class="band" id="app"><div class="wrap">
+ <div class="head rise">
+  <h2>매일 챙기는 일이<br>한 화면에</h2>
+  <p class="sub">밥, 물, 산책, 배변, 약. 버튼 한 번이면 기록돼요.</p>
+ </div>
+ <div class="shots rise">
+  <figure>
+   <img src="assets/img/beta/s2.jpg" alt="오늘펫 오늘의 돌봄 화면. 급여, 급수, 산책이 기록된 모습" loading="lazy" width="600" height="1184">
+   <figcaption><h3>버튼 한 번이면 기록 끝</h3><p>밥, 물, 산책, 배변, 약. 누가 몇 시에 했는지 남아요.</p></figcaption>
+  </figure>
+  <figure>
+   <img src="assets/img/beta/s1.jpg" alt="오늘펫 첫 화면. 우리 아이 사진과 오늘의 돌봄 현황" loading="lazy" width="600" height="1184">
+   <figcaption><h3>가족이 같은 화면을 봐요</h3><p>초대 코드 하나로 함께 써요. 누군가 기록하면 알림이 가요.</p></figcaption>
+  </figure>
+  <figure>
+   <img src="assets/img/beta/s3.jpg" alt="오늘펫 마이 화면. 우리 아이 프로필과 돌봄 도구 목록" loading="lazy" width="600" height="1184">
+   <figcaption><h3>약과 접종도 때맞춰</h3><p>날짜를 넣어 두면 알려 줘요. 병원에 보여 줄 요약도 한 장으로.</p></figcaption>
+  </figure>
+ </div>
+ <p class="note">예시 아이 「보리」로 찍은 실제 앱 화면이에요.</p>
+</div></section>
+
+<section class="walk"><div class="wrap">
+ <img class="rise" src="assets/img/beta/walk.jpg" alt="강변 산책로를 강아지와 함께 걷는 보호자" loading="lazy" width="900" height="503">
+ <div class="rise">
+  <h2>산책 친구도<br>동네에서 만나요</h2>
+  <p class="sub">같은 동네 보호자를 찾아 먼저 인사해 볼 수 있어요.</p>
+ </div>
+</div></section>
+
+<section class="how"><div class="wrap">
+ <div class="head rise"><h2>신청하고, 설치하고,<br>14일 써 보면 끝</h2></div>
+ <ol class="steps rise">
+  <li><div><h3>신청서를 적어요</h3><p>구글 플레이에 로그인한 Gmail 주소만 있으면 돼요.</p></div></li>
+  <li><div><h3>안내 메일을 받아요</h3><p>1~2일 안에 설치 방법을 보내 드려요.</p></div></li>
+  <li><div><h3>앱을 설치해요</h3><p>메일 속 링크를 누르면 구글 플레이에서 받을 수 있어요.</p></div></li>
+  <li><div><h3>14일 동안 써 봐요</h3><p>지우지 않고 쓰면서 불편한 점을 알려 주세요.</p></div></li>
+ </ol>
+</div></section>
+
+<section class="gift"><div class="wrap">
+ <div class="gift-box rise">
+  <img src="assets/img/beta/gift.jpg" alt="강아지를 안고 활짝 웃는 보호자" loading="lazy" width="900" height="503">
+  <div class="gift-text">
+   <p class="lead">참여해 주신 분 중 다섯 분께</p>
+   <p class="amount">5<span>만 원</span></p>
+   <p class="what">네이버 기프티콘을 드려요</p>
+   <dl class="gift-facts">
+    <div><dt>인원</dt><dd>추첨 5명</dd></div>
+    <div><dt>대상</dt><dd>14일 참여자</dd></div>
+    <div><dt>발표</dt><dd>종료 뒤 메일</dd></div>
+   </dl>
+   <p class="fine">리뷰나 별점을 남기는 것은 조건이 아니에요.</p>
+  </div>
+ </div>
+</div></section>
+
+<section class="apply band" id="apply"><div class="wrap">
+ <div class="head">
+  <h2>테스터 신청</h2>
+  <p class="sub">1분이면 끝나요. 신청도 앱도 무료예요.</p>
+ </div>
+ <div class="apply-card">
+  <form class="form" id="form" method="post" action="https://docs.google.com/forms/d/e/1FAIpQLSe8OHn5Tfcxa0BfKGSoZgQX0BFeRsvlnfcFwJTvwlnFjN84kA/formResponse" novalidate>
+   <div class="field" id="f-mail">
+    <label for="mail">구글 플레이에 로그인한 Gmail 주소</label>
+    <input id="mail" name="entry.1122988288" type="email" inputmode="email" autocomplete="email" autocapitalize="off" spellcheck="false" placeholder="example@gmail.com" required aria-describedby="mail-help mail-err">
+    <p class="help" id="mail-help">폰의 플레이 스토어에 로그인된 계정이어야 설치할 수 있어요.</p>
+    <p class="error" id="mail-err" role="alert">메일 주소를 다시 확인해 주세요.</p>
+   </div>
+   <div class="field" id="f-tel">
+    <label for="tel">휴대폰 번호<small>선택</small></label>
+    <input id="tel" name="entry.1262437010" type="tel" inputmode="tel" autocomplete="tel" placeholder="010-1234-5678" aria-describedby="tel-help">
+    <p class="help" id="tel-help">메일을 잘 안 보신다면 적어 주세요. 설치 안내를 문자로도 보내 드려요.</p>
+   </div>
+   <div class="check" id="f-ok">
+    <label><input type="checkbox" name="entry.521325480" value="안드로이드 폰을 쓰고 있고, 14일 동안 앱을 지우지 않고 써 볼게요." required><span>안드로이드 폰을 쓰고 있고, 14일 동안 앱을 지우지 않고 써 볼게요.</span></label>
+    <p class="error" role="alert">확인해 주세요.</p>
+   </div>
+   <div class="check" id="f-agree">
+    <p class="check-title">개인정보 수집·이용 동의</p>
+    <dl>
+     <dt>수집 항목</dt><dd>Gmail 주소, 휴대폰 번호(적으신 분만)</dd>
+     <dt>이용 목적</dt><dd>테스터 등록, 참여 안내(메일·문자), 추첨 결과 연락</dd>
+     <dt>보관 기간</dt><dd>테스트와 추첨이 끝난 뒤 1개월 안에 삭제</dd>
+     <dt>거부할 때</dt><dd>동의하지 않을 수 있지만, 그 경우 테스터로 등록해 드릴 수 없어요.</dd>
+    </dl>
+    <label><input type="checkbox" name="entry.190355232" value="동의합니다." required><span>동의합니다.</span></label>
+    <p class="error" role="alert">동의가 필요해요.</p>
+   </div>
+   <button class="btn" type="submit" id="send">테스터 신청하기</button>
+   <p class="form-msg" id="msg" role="status" aria-live="polite"></p>
+  </form>
+  <div class="done" id="done" tabindex="-1">
+   <h3>신청이 접수됐어요</h3>
+   <p>1~2일 안에 적어 주신 Gmail로 설치 방법을 보내 드려요. 메일이 안 보이면 스팸함도 확인해 주세요.</p>
+  </div>
+ </div>
+</div></section>
+
+<section class="faq"><div class="wrap">
+ <div class="head"><h2>신청 전에<br>궁금한 것</h2></div>
+ <div>
+  <details><summary>아이폰도 신청할 수 있나요?</summary><p>이번 모집은 안드로이드 폰을 쓰는 분만 받아요.</p></details>
+  <details><summary>왜 Gmail 주소가 필요한가요?</summary><p>구글 플레이는 테스터로 등록된 계정에만 출시 전 앱을 보여 줘요. 그래서 폰의 플레이 스토어에 로그인된 Gmail 주소가 필요해요.</p></details>
+  <details><summary>14일 동안 무엇을 하면 되나요?</summary><p>앱을 지우지 않고 평소처럼 쓰시면 돼요. 정해진 과제는 없고, 불편하거나 이상한 점이 있으면 알려 주세요.</p></details>
+  <details><summary>강아지가 아니어도 되나요?</summary><p>네. 강아지 케어를 중심으로 만들었지만 고양이도 등록해서 쓸 수 있어요.</p></details>
+  <details><summary>문의는 어디로 하나요?</summary><p><a href="mailto:pet@onulfish.com">pet@onulfish.com</a> 으로 메일을 보내 주세요.</p></details>
+ </div>
+</div></section>
+</main>
+
+<footer><div class="wrap">
+ <span>© 오늘펫</span>
+ <nav><a href="./">오늘펫 소개</a><a href="terms.html">이용약관</a><a href="privacy.html">개인정보처리방침</a></nav>
+</div></footer>
+
+<div class="dock" id="dock"><a class="btn" href="#apply">테스터 신청하기</a></div>
+<iframe name="sink" id="sink" title="신청서 전송" hidden></iframe>
+
+<script>
+document.documentElement.classList.add('js');
+(function(){
+ var io='IntersectionObserver' in window,calm=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+ // 첫 화면 영상: 소리 없이 반복. 움직임 줄이기 설정이면 멈춘 사진으로 둬요.
+ var v=document.getElementById('hero-video');if(v&&!calm){v.autoplay=true;var p=v.play();if(p&&p.catch)p.catch(function(){});}
+ // 스크롤 등장
+ var rise=[].slice.call(document.querySelectorAll('.rise'));
+ if(!io||calm)rise.forEach(function(e){e.classList.add('in');});
+ // 가족 기록 줄은 화면에 들어오면 한 줄씩 나타나요.
+ var feed=document.getElementById('feed');
+ if(!io||calm)feed.classList.add('in');else{var fo=new IntersectionObserver(function(es){if(es[0].isIntersecting){feed.classList.add('in');fo.disconnect();}},{threshold:.6});fo.observe(feed);}
+ if(!io||calm){}
+ else{var ro=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');ro.unobserve(e.target);}});},{rootMargin:'0px 0px -8% 0px'});rise.forEach(function(e){ro.observe(e);});}
+ // 휴대폰 아래 신청 버튼: 첫 화면 버튼이 지나가면 나타나고, 신청서가 보이면 숨어요.
+ var dock=document.getElementById('dock'),apply=document.getElementById('apply'),cta=document.getElementById('hero-cta');
+ if(io){var past=false,atForm=false,set=function(){dock.classList.toggle('on',past&&!atForm);};
+  new IntersectionObserver(function(e){past=!e[0].isIntersecting&&e[0].boundingClientRect.top<0;set();}).observe(cta);
+  new IntersectionObserver(function(e){atForm=e[0].isIntersecting;set();},{rootMargin:'0px 0px -25% 0px'}).observe(apply);}
+ // 신청서: 응답은 구글 설문지(같은 시트)로 보내요. 화면은 넘어가지 않고 여기서 접수 안내를 보여 줘요.
+ var form=document.getElementById('form'),sink=document.getElementById('sink'),send=document.getElementById('send'),msg=document.getElementById('msg'),sending=false,timer=0;
+ var alt='<a href="https://docs.google.com/forms/d/e/1FAIpQLSe8OHn5Tfcxa0BfKGSoZgQX0BFeRsvlnfcFwJTvwlnFjN84kA/viewform" target="_blank" rel="noopener">구글 신청서로 열기</a>';
+ function bad(id,on){document.getElementById(id).classList.toggle('bad',on);return on;}
+ function check(){var m=form.elements['entry.1122988288'].value.trim(),e1=bad('f-mail',!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(m)),e2=bad('f-ok',!form.elements['entry.521325480'].checked),e3=bad('f-agree',!form.elements['entry.190355232'].checked);
+  var first=e1?'mail':e2?'f-ok':e3?'f-agree':'';if(first){var el=document.getElementById(first);(el.querySelector&&el.querySelector('input')||el).focus();}return !first;}
+ form.addEventListener('input',function(e){var f=e.target.closest('.field,.check');if(f)f.classList.remove('bad');});
+ form.addEventListener('change',function(e){var f=e.target.closest('.field,.check');if(f)f.classList.remove('bad');});
+ function finish(){if(!sending)return;sending=false;clearTimeout(timer);apply.classList.add('sent');var d=document.getElementById('done');d.focus({preventScroll:true});apply.scrollIntoView({block:'start'});}
+ sink.addEventListener('load',finish);
+ form.addEventListener('submit',function(e){
+  if(sending){e.preventDefault();return;}
+  if(!check()){e.preventDefault();msg.textContent='빠진 곳이 있어요. 빨간 안내를 확인해 주세요.';return;}
+  form.elements['entry.1122988288'].value=form.elements['entry.1122988288'].value.trim();
+  form.target='sink';sending=true;send.disabled=true;send.textContent='보내는 중이에요';msg.textContent='';
+  timer=setTimeout(function(){if(!sending)return;sending=false;send.disabled=false;send.textContent='테스터 신청하기';msg.innerHTML='전송 확인이 늦어지고 있어요. 다시 눌러 보거나 '+alt+'.';},12000);
+ });
+})();
+</script>
+</body>
+</html>
